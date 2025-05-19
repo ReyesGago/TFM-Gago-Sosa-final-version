@@ -1,0 +1,39 @@
+=== Term: vuelta ===
+
+--- 0shot ---
+Traduce estos contextos al inglés:
+1. ...luz, de esta manera, completamente por el interior de la fibra con pérdidas despreciables. La retrorreflexión es una aplicación del fenómeno de reflexión de la luz que consiste en reflejar la luz de **vuelta** hacia la fuente, sin que importe el ángulo de incidencia original. Para ello se utilizan superficies reflectantes planas. Si se realiza con materiales transparentes como los prismas de vidrio, se bas..
+2. ...señal suele ser de color blanco, naranja o amarillo. "Colores de los terminales para algunas marcas comerciales" El potenciómetro del sistema de control del servo es un potenciómetro de menos de una **vuelta**, de modo que no puede dar giros completos en un mismo sentido. Para evitar que el motor pudiera dañar el potenciómetro, el fabricante del servo añade una pequeña pestaña en la caja reductora del moto...
+
+--- 0shotplus ---
+Traduce estos contextos al inglés teniendo en cuenta que vuelta se traduce como revolution en física y como coil; turn en ingeniería:
+1. ...luz, de esta manera, completamente por el interior de la fibra con pérdidas despreciables. La retrorreflexión es una aplicación del fenómeno de reflexión de la luz que consiste en reflejar la luz de **vuelta** hacia la fuente, sin que importe el ángulo de incidencia original. Para ello se utilizan superficies reflectantes planas. Si se realiza con materiales transparentes como los prismas de vidrio, se bas..
+2. ...señal suele ser de color blanco, naranja o amarillo. "Colores de los terminales para algunas marcas comerciales" El potenciómetro del sistema de control del servo es un potenciómetro de menos de una **vuelta**, de modo que no puede dar giros completos en un mismo sentido. Para evitar que el motor pudiera dañar el potenciómetro, el fabricante del servo añade una pequeña pestaña en la caja reductora del moto...
+
+--- 1shot ---
+Traduce estos contextos al inglés teniendo en cuenta que vuelta se traduce como revolution en physics> electromagnetism, como muestra el siguiente ejemplo:
+...ancia permite que la(s) onda(s) resonante(s) (de señal, de reposo o ambas) oscile(n) en el resonador, compensando la(s) pérdida(s) que experimenta(n) la(s) onda(s) resonante(s) en cada viaje de ida y **vuelta**. Esta pérdida incluye la pérdida debida al desacoplamiento por uno de los espejos del resonador, que proporciona la onda de salida deseada. Dado que la pérdida (relativa) es independiente de la poten...
+Y como coil; turn en technological sciences> electrical technology and engineering, como muestra el siguiente ejemplo:
+...se designa con la letra Q. A partir de su expresión, Lo que reafirma en que esta potencia se debe únicamente a los elementos reactivos. Conceptualmente, la potencia reactiva es una potencia "de ida y **vuelta**"; es decir, cuando hay elementos que almacenan energía (condensadores y bobinas), estos están permanentemente almacenando y devolviendo la energía. El problema es que en "el viaje" se pierde algo. En...
+
+Traduce:
+1. ...luz, de esta manera, completamente por el interior de la fibra con pérdidas despreciables. La retrorreflexión es una aplicación del fenómeno de reflexión de la luz que consiste en reflejar la luz de **vuelta** hacia la fuente, sin que importe el ángulo de incidencia original. Para ello se utilizan superficies reflectantes planas. Si se realiza con materiales transparentes como los prismas de vidrio, se bas..
+2. ...señal suele ser de color blanco, naranja o amarillo. "Colores de los terminales para algunas marcas comerciales" El potenciómetro del sistema de control del servo es un potenciómetro de menos de una **vuelta**, de modo que no puede dar giros completos en un mismo sentido. Para evitar que el motor pudiera dañar el potenciómetro, el fabricante del servo añade una pequeña pestaña en la caja reductora del moto...
+
+--- fewshot ---
+Traduce estos contextos al inglés teniendo en cuenta los siguientes ejemplos:
+
+Ejemplos en physics> electromagnetism, donde vuelta se traduce como revolution:
+1. ...onado con el número de líneas de campo magnético que pasan a través de un área determinada. En la imagen 1, el campo magnético es perpendicular al área limitada por un simple circuito formado por una **vuelta** de conductor. En este caso, el flujo magnético se define como el producto del campo magnético B y el área S limitada por el circuito: La unidad de flujo magnético es la del campo magnético multiplica...
+2. ...or lo tanto no modifica la magnitud de este último sino que provoca su rotación en torno al eje definido por el campo magnético formula_3. El tiempo requerido para que el momento angular complete una **vuelta** entera será formula_13, donde formula_14 es el diámetro de la trayectoria circular que describe el momento angular y corresponde a la componente perpendicular de formula_7. Tomando que la velocidad a...
+3. ...de los lagos, Helisoma trivolvis, se ha podido llevar a cabo la ablación de neuronas sensoras, cuando el caracol es todavía un embrión, para impedir el uso de esos nervios. Amperio-vuelta El amperio-**vuelta** es una unidad de fuerza magnetomotriz, y se abrevia como Av. Se define como el producto del número de espiras de una bobina por el número de amperios de intensidad de corriente que la atraviesa. Por...
+
+Ejemplos en technological sciences> electrical technology and engineering, donde vuelta se traduce como coil; turn:
+1. ...en el flujo del campo magnético del imán a través de las espiras de la bobina, induciendo una fuerza electromotriz, lo que a su vez se traduce en un flujo de corriente eléctrica. Una o más veces por **vuelta**, justo cuando el polo del imán se aparta de la bobina y el flujo magnético empieza a disminuir, una leva excéntrica abre un interruptor (dotado de un muelle de retorno), cortando de forma brusca la c...
+2. ...nta a los "unos" con impulsos de polaridad alternativa, y a los "ceros" mediante ausencia de pulsos. El código AMI genera señales ternarias (+V -V 0), bipolares( + - ), y del tipo RZ o NRZ (con o sin **vuelta** a cero). La señal AMI carece de componente continua y permite la detección de errores con base en la ley de formación de los "unos" alternados. En efecto, la recepción de los "unos" consecutivos con..
+3. ...egativo. Cuando el fabricante francés de instrumentos Hippolyte Pixii construyó el primer generador dinamoeléctrico en 1832, descubrió que cuando el imán pasaba entre los bucles de alambre cada media **vuelta**, causaba que el flujo de electricidad se invirtiera, generando una corriente alterna. Por sugerencia de Ampère, Pixii luego agregó un conmutador, un tipo de «interruptor» en el que los contactos en e...
+
+Ahora traduce estos nuevos ejemplos:
+1. ...luz, de esta manera, completamente por el interior de la fibra con pérdidas despreciables. La retrorreflexión es una aplicación del fenómeno de reflexión de la luz que consiste en reflejar la luz de **vuelta** hacia la fuente, sin que importe el ángulo de incidencia original. Para ello se utilizan superficies reflectantes planas. Si se realiza con materiales transparentes como los prismas de vidrio, se bas..
+2. ...señal suele ser de color blanco, naranja o amarillo. "Colores de los terminales para algunas marcas comerciales" El potenciómetro del sistema de control del servo es un potenciómetro de menos de una **vuelta**, de modo que no puede dar giros completos en un mismo sentido. Para evitar que el motor pudiera dañar el potenciómetro, el fabricante del servo añade una pequeña pestaña en la caja reductora del moto...
+

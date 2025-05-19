@@ -1,0 +1,39 @@
+=== Term: procesar ===
+
+--- 0shot ---
+Traduce estos contextos al inglés:
+1. ...os de sus padres reales y refiriéndose al proceso penal iniciado deseó que los Hurban "no sufran ni pasen por demasiados traumas". En marzo de 2017 el juez federal Marcelo Martínez de Giorgi resolvió **procesar** a Clemente Hurban, su esposa Juana Rodríguez y al médico Julio Sacher por los delitos de "falsedad ideológica" y "alteración del estado civil de un menor" motivando que Montoya Carlotto dijera: "No s..
+2. ...ucir en buena parte el volumen de Residuos sólidos urbanos. Es una de las más modernas de América Latina. Posteriormente ese año se inauguró otra planta de tratamiento mecánico biológico que proyecta **procesar** mil toneladas por día de residuos, con un importante impacto social y ecológico en la región con la utilización de tecnología italiana se separará el contenido orgánico del reciclable – como plástico...
+
+--- 0shotplus ---
+Traduce estos contextos al inglés teniendo en cuenta que procesar se traduce como auziperatu; auzipetu en física y como prozesatu en ingeniería:
+1. ...os de sus padres reales y refiriéndose al proceso penal iniciado deseó que los Hurban "no sufran ni pasen por demasiados traumas". En marzo de 2017 el juez federal Marcelo Martínez de Giorgi resolvió **procesar** a Clemente Hurban, su esposa Juana Rodríguez y al médico Julio Sacher por los delitos de "falsedad ideológica" y "alteración del estado civil de un menor" motivando que Montoya Carlotto dijera: "No s..
+2. ...ucir en buena parte el volumen de Residuos sólidos urbanos. Es una de las más modernas de América Latina. Posteriormente ese año se inauguró otra planta de tratamiento mecánico biológico que proyecta **procesar** mil toneladas por día de residuos, con un importante impacto social y ecológico en la región con la utilización de tecnología italiana se separará el contenido orgánico del reciclable – como plástico...
+
+--- 1shot ---
+Traduce estos contextos al inglés teniendo en cuenta que procesar se traduce como auziperatu; auzipetu en juridical sciences & law>constitutional law, como muestra el siguiente ejemplo:
+...Indictments Act" 1859) puso coto a este abuso, estableciendo que, para determinados delitos (perjurio, difamación, etc.), la persona que presentara la acusación debía estar obligada por una fianza a **procesar** o testificar contra el acusado o, alternativamente, contar con autorización judicial (según se especifica) para hacerlo. Si se encontraba una acusación en ausencia del acusado, y éste no estaba bajo...
+Y como prozesatu en tecnological sciences>environmental technology and engineering, como muestra el siguiente ejemplo:
+...lores y plagas. Existen variadas técnicas de compostaje, las que se ajustan a diferentes necesidades; la elección de una técnica u otra depende, entre otras cosas, de la cantidad y tipo de material a **procesar**, inversión disponible y disponibilidad de terreno, complejidad operacional y del producto final que se quiere obtener. Los distintos sistemas están determinados por los mecanismos de aireación que se...
+
+Traduce:
+1. ...os de sus padres reales y refiriéndose al proceso penal iniciado deseó que los Hurban "no sufran ni pasen por demasiados traumas". En marzo de 2017 el juez federal Marcelo Martínez de Giorgi resolvió **procesar** a Clemente Hurban, su esposa Juana Rodríguez y al médico Julio Sacher por los delitos de "falsedad ideológica" y "alteración del estado civil de un menor" motivando que Montoya Carlotto dijera: "No s..
+2. ...ucir en buena parte el volumen de Residuos sólidos urbanos. Es una de las más modernas de América Latina. Posteriormente ese año se inauguró otra planta de tratamiento mecánico biológico que proyecta **procesar** mil toneladas por día de residuos, con un importante impacto social y ecológico en la región con la utilización de tecnología italiana se separará el contenido orgánico del reciclable – como plástico...
+
+--- fewshot ---
+Traduce estos contextos al inglés teniendo en cuenta los siguientes ejemplos:
+
+Ejemplos en juridical sciences & law>constitutional law, donde procesar se traduce como auziperatu; auzipetu:
+1. ...71 de la Constitución Española de 1978, y muy especialmente sus puntos 2 y 3: El artículo 750 de la Ley de Enjuiciamiento Criminal (LeCrim) establece que el juez o tribunal que encuentre motivos para **procesar** a un senador/a o diputado/a a Cortes por causa de delito, se abstendrá de dirigir el procedimiento contra él si las Cortes estuvieran abiertas, hasta obtener la correspondiente autorización de la Cám...
+2. ...ue ser constituido. Sin embargo, los juristas contemporáneos, tales como Harlan Fiske Stone criticó los Juicios de Núremberg como una justicia del vencedor. la Carta de Londres determina la base para **procesar** a personas por: La jurisdicción ratione personae (alcance personal de la jurisdicción de los tribunales) se considera que se aplican a los "líderes, organizadores, instigadores y cómplices" que parti...
+3. ...s atribuciones y jurisdicción, todo ello dentro del marco de la Constitución interina de Tailandia aprobada por la Asamblea "ad hoc" creada por el gobierno provisional que impedía, entre otras cosas, **procesar** a los militares golpistas. Hasta el golpe de Estado, la constitución preveía un sistema de elección de los miembros, quince, de manera conjunta entre la judicatura (que elegía 7 miembros) y el Senado...
+
+Ejemplos en tecnological sciences>environmental technology and engineering, donde procesar se traduce como prozesatu:
+1. ...a La Planta de Tratamiento de Aguas Residuales de Managua provee transporte de aguas residuales sanitarias y tratamiento para el área metropolitana de Managua, Nicaragua. La planta tiene capacidad de **procesar** hasta 180000m³ de aguas residuales por día y se encuentra ubicada a orillas del Lago Xolotlán y fue inaugurada el 20 de febrero de 2009. La planta opera un nuevo sistema de tuberías de que conecta co...
+2. ...campos o incineración. En la maceración, los sólidos son cortados en partículas pequeñas a través del uso de cuchillos rotatorios montados en un cilindro que gira, es utilizado en plantas que pueden **procesar** esta basura en partículas. Los maceradores son, sin embargo, más caros de mantener y menos fiables que las pantallas físicas. Muchas plantas tienen una etapa de sedimentación donde el agua residual s...
+3. ...ueso (Florida) donde les proporcionaron más de 1000 L de agua potable al día. En 1872, Carlos Wilson creó la primera planta desalinizadora industrial de Chile por destilación solar, esta era capaz de **procesar** 22,5 metros cúbicos de agua de mar al día en un área de 4757 metros cuadrados. La primera planta de desalinización moderna fue construida en 1961 por la Dow Chemical Company en Freeport, Texas. La pl...
+
+Ahora traduce estos nuevos ejemplos:
+1. ...os de sus padres reales y refiriéndose al proceso penal iniciado deseó que los Hurban "no sufran ni pasen por demasiados traumas". En marzo de 2017 el juez federal Marcelo Martínez de Giorgi resolvió **procesar** a Clemente Hurban, su esposa Juana Rodríguez y al médico Julio Sacher por los delitos de "falsedad ideológica" y "alteración del estado civil de un menor" motivando que Montoya Carlotto dijera: "No s..
+2. ...ucir en buena parte el volumen de Residuos sólidos urbanos. Es una de las más modernas de América Latina. Posteriormente ese año se inauguró otra planta de tratamiento mecánico biológico que proyecta **procesar** mil toneladas por día de residuos, con un importante impacto social y ecológico en la región con la utilización de tecnología italiana se separará el contenido orgánico del reciclable – como plástico...
+

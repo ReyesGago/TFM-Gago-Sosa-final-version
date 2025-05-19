@@ -1,0 +1,39 @@
+=== Term: muestra ===
+
+--- 0shot ---
+Traduce estos contextos al inglés:
+1. ...bierno. Algunos comentaristas venezolanos han comparado el uso de conversaciones privadas grabadas ilegalmente en programas como el de Cabello con las prácticas vigentes en Alemania Oriental, como se **muestra** en la película "La vida de los otros". Amnistía Internacional ha denunciado la forma en que Cabello ha revelado detalles sobre los arreglos de viaje de dos defensores de derechos humanos, Rafael Uzcá..
+2. ...endo en la tundra y en la nieve. Demanda biológica de oxígeno La demanda bioquímica de oxígeno (DBO) es un parámetro que mide la cantidad de dioxígeno consumido al degradar la materia orgánica de una **muestra** líquida. Es la materia susceptible de ser consumida u oxidada por medios biológicos que contiene una muestra líquida, disuelta o en suspensión. Se utiliza para medir propiamente el grado de contamina...
+
+--- 0shotplus ---
+Traduce estos contextos al inglés teniendo en cuenta que muestra se traduce como erakusgarri en física y como lagin en ingeniería:
+1. ...bierno. Algunos comentaristas venezolanos han comparado el uso de conversaciones privadas grabadas ilegalmente en programas como el de Cabello con las prácticas vigentes en Alemania Oriental, como se **muestra** en la película "La vida de los otros". Amnistía Internacional ha denunciado la forma en que Cabello ha revelado detalles sobre los arreglos de viaje de dos defensores de derechos humanos, Rafael Uzcá..
+2. ...endo en la tundra y en la nieve. Demanda biológica de oxígeno La demanda bioquímica de oxígeno (DBO) es un parámetro que mide la cantidad de dioxígeno consumido al degradar la materia orgánica de una **muestra** líquida. Es la materia susceptible de ser consumida u oxidada por medios biológicos que contiene una muestra líquida, disuelta o en suspensión. Se utiliza para medir propiamente el grado de contamina...
+
+--- 1shot ---
+Traduce estos contextos al inglés teniendo en cuenta que muestra se traduce como erakusgarri en juridical sciences & law>constitutional law, como muestra el siguiente ejemplo:
+...stra de 850 firmas electrónicas y escritas para la verificación de su fidelidad mediante visitas domiciliarias, con un 95 % de confiabilidad. Tales visitas se produjeron del 21 al 25 de enero y de la **muestra** solamente 645 personas fueron localizadas. Del número de ciudadanos consultados, 484 manifestaron haber proporcionado su apoyo —75.04 %— y, por tanto 161 —24.96 %— negó haber respaldado la petición....
+Y como lagin en tecnological sciences>environmental technology and engineering, como muestra el siguiente ejemplo:
+...sos hídricos de forma continua o periódica. Para esto se usan estaciones de muestreo, las cuales son lugares o dispositivos ubicados cerca de o en un cuerpo receptor de agua, en la cual se recoge una **muestra**. Las estaciones de muestreo, ubicadas estratégicamente en plantas de potabilización y redes de distribución, son clave para el éxito del programa. En la red de distribución, se establecen estaciones...
+
+Traduce:
+1. ...bierno. Algunos comentaristas venezolanos han comparado el uso de conversaciones privadas grabadas ilegalmente en programas como el de Cabello con las prácticas vigentes en Alemania Oriental, como se **muestra** en la película "La vida de los otros". Amnistía Internacional ha denunciado la forma en que Cabello ha revelado detalles sobre los arreglos de viaje de dos defensores de derechos humanos, Rafael Uzcá..
+2. ...endo en la tundra y en la nieve. Demanda biológica de oxígeno La demanda bioquímica de oxígeno (DBO) es un parámetro que mide la cantidad de dioxígeno consumido al degradar la materia orgánica de una **muestra** líquida. Es la materia susceptible de ser consumida u oxidada por medios biológicos que contiene una muestra líquida, disuelta o en suspensión. Se utiliza para medir propiamente el grado de contamina...
+
+--- fewshot ---
+Traduce estos contextos al inglés teniendo en cuenta los siguientes ejemplos:
+
+Ejemplos en juridical sciences & law>constitutional law, donde muestra se traduce como erakusgarri:
+1. ...iano, que soporta lo que actualmente son nuestras instituciones estatales en los distintos órdenes. Las constantes reformas acaecidas en la época de la independencia, al orden constitucional, son una **muestra** clara de la inexperiencia de aquellos hombres que empezaban a tener la idea de consolidar un Estado independiente, gobernado a través de las propias normas que emanaran de su seno. Pero además de esa...
+2. ...ecían a la sociedad como partes de un todo y eran los fines de esta los que prevalecían. La única oposición a la tiranía se sustentaba en la apelación a la Ley divina como opuesta a la norma, como se **muestra** en el mito de Antígona, plasmado por Sófocles en la obra trágica del mismo nombre. La sociedad griega se dividía en tres grupos principales: los ciudadanos, los metecos o extranjeros y los esclavos....
+3. ...anas, como ortodoxos y protestantes, sino únicamente los católicos, pero lo que le otorga influencia a nivel mundial: tratamientos como «Su Santidad» o «Sumo Pontífice» se usan protocolariamente como **muestra** de deferencia; y sus representantes diplomáticos (los nuncios, que también ejercen funciones religiosas) son considerados decanos del cuerpo diplomático en muchos países (algunos, incluso reconocen r...
+
+Ejemplos en tecnological sciences>environmental technology and engineering, donde muestra se traduce como lagin:
+1. ...lizar la toma de muestras en recipientes de vidrio, puesto que los de plástico pueden contaminar la muestra con materiales orgánicos. Se debe proceder a analizar la DQO rápidamente tras la toma de la **muestra**, que además deberá ser representativa y estar bien homogeneizada. Antes del análisis el agua tamizada se decanta en un cono especial durante dos horas, tomándose entonces el agua residual por sifonac..
+2. ...o se basa en la oxidación de la materia orgánica utilizando dicromato de potasio como oxidante en presencia de ácido sulfúrico e iones de plata (por ejemplo AgSO) como catalizador. Una alícuota de la **muestra** de agua se coloca en un matraz para calentamiento a reflujo, se pone en medio fuertemente ácido mediante la adición de ácido sulfúrico concentrado, se añade el catalizador y un exceso medido de disol...
+3. ...e dos o más muestras en blanco, consistentes en sustituir la muestra por igual cantidad del agua destilada o desionizada utilizada para preparar las disoluciones y seguir el mismo proceso que para la **muestra** real. Puesto que en los blancos hay muy poca materia oxidable, se requiere un mayor volumen de disolución de (Fe(NH)(SO)) para alcanzar el punto final. El consumo real del valorante se establece por...
+
+Ahora traduce estos nuevos ejemplos:
+1. ...bierno. Algunos comentaristas venezolanos han comparado el uso de conversaciones privadas grabadas ilegalmente en programas como el de Cabello con las prácticas vigentes en Alemania Oriental, como se **muestra** en la película "La vida de los otros". Amnistía Internacional ha denunciado la forma en que Cabello ha revelado detalles sobre los arreglos de viaje de dos defensores de derechos humanos, Rafael Uzcá..
+2. ...endo en la tundra y en la nieve. Demanda biológica de oxígeno La demanda bioquímica de oxígeno (DBO) es un parámetro que mide la cantidad de dioxígeno consumido al degradar la materia orgánica de una **muestra** líquida. Es la materia susceptible de ser consumida u oxidada por medios biológicos que contiene una muestra líquida, disuelta o en suspensión. Se utiliza para medir propiamente el grado de contamina...
+

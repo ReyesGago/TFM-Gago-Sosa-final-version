@@ -1,0 +1,39 @@
+=== Term: efecto ===
+
+--- 0shot ---
+Traduce estos contextos al inglés:
+1. ...a participación en la entidad política que ostenta el poder, mismas que solo pueden desarrollarse cuando existen los precursores democráticos ya mencionados. Se ha afirmado que la Democracia, para el **efecto** de garantizar las condiciones mínimas para la participación ciudadana, impone al poder público límites en su ejercicio, mismos que serán tendientes a salvaguardar los intereses y derechos de los indi...
+2. ...spiración de partículas finas), viéndose muchas más perjudicadas. Con respecto a la salud humana, diferentes estudios han demostrado que en altas concentraciones, los contaminantes del aire tienen un **efecto** inflamatorio directo sobre los neurorreceptores de las vías respiratorias y el epitelio. Además, el estrés oxidativo se ha asociado con la exposición a contaminantes (O, NO, PM2.5), ocasionando pérdi..
+
+--- 0shotplus ---
+Traduce estos contextos al inglés teniendo en cuenta que efecto se traduce como eragin en física y como efektu en ingeniería:
+1. ...a participación en la entidad política que ostenta el poder, mismas que solo pueden desarrollarse cuando existen los precursores democráticos ya mencionados. Se ha afirmado que la Democracia, para el **efecto** de garantizar las condiciones mínimas para la participación ciudadana, impone al poder público límites en su ejercicio, mismos que serán tendientes a salvaguardar los intereses y derechos de los indi...
+2. ...spiración de partículas finas), viéndose muchas más perjudicadas. Con respecto a la salud humana, diferentes estudios han demostrado que en altas concentraciones, los contaminantes del aire tienen un **efecto** inflamatorio directo sobre los neurorreceptores de las vías respiratorias y el epitelio. Además, el estrés oxidativo se ha asociado con la exposición a contaminantes (O, NO, PM2.5), ocasionando pérdi..
+
+--- 1shot ---
+Traduce estos contextos al inglés teniendo en cuenta que efecto se traduce como eragin en juridical sciences & law>constitutional law, como muestra el siguiente ejemplo:
+...obligado por la ley al pago del impuesto traslada a un tercero (sujeto "de facto") mediante la subida del precio, la cuantía del tributo, de modo que se resarce de la carga del impuesto.  Este es un **efecto** económico y no jurídico, porque se traslada la carga económica pero no la obligación tributaria: a quien coaccionará el Estado para cobrarle será al sujeto "de iure" y no al "de facto", con quien no...
+Y como efektu en tecnological sciences>environmental technology and engineering, como muestra el siguiente ejemplo:
+...lacoque, de los que tres germinaron. Su teoría tenía ciertos puntos sin esclarecer, como el que no se comprobó cómo funcionaba la germinación de otras frutas tras ser comidas por pavos, con lo que el **efecto** demostrado no quedó del todo claro. Además Temple no tuvo en cuenta los informes sobre la germinación de las semillas de tambalacoque de la germinación de otras frutas de A. W. Hill en 1941 y de H. C...
+
+Traduce:
+1. ...a participación en la entidad política que ostenta el poder, mismas que solo pueden desarrollarse cuando existen los precursores democráticos ya mencionados. Se ha afirmado que la Democracia, para el **efecto** de garantizar las condiciones mínimas para la participación ciudadana, impone al poder público límites en su ejercicio, mismos que serán tendientes a salvaguardar los intereses y derechos de los indi...
+2. ...spiración de partículas finas), viéndose muchas más perjudicadas. Con respecto a la salud humana, diferentes estudios han demostrado que en altas concentraciones, los contaminantes del aire tienen un **efecto** inflamatorio directo sobre los neurorreceptores de las vías respiratorias y el epitelio. Además, el estrés oxidativo se ha asociado con la exposición a contaminantes (O, NO, PM2.5), ocasionando pérdi..
+
+--- fewshot ---
+Traduce estos contextos al inglés teniendo en cuenta los siguientes ejemplos:
+
+Ejemplos en juridical sciences & law>constitutional law, donde efecto se traduce como eragin:
+1. ...traso (fuera de orden). Sólo es aplicable cuando se usan exclusivamente operaciones idempotentes (repetibles). Nota: una operación es idempotente si se puede ejecutar varias veces resultando el mismo **efecto** que si se hubiera ejecutado sólo una. En ocasiones una operación no idempotente puede implementarse como una secuencia de operaciones idempotentes. Admisible en aplicaciones donde se tolere que se pu...
+2. ...stemas totalitarios modernos nominalmente se han basado en normas, leyes y reglas escritas, según la noción de un Estado de derecho, si bien la potestad de cambiar arbitrariamente las normas deja sin **efecto** las garantías que dicho estado de derecho proporciona en las democracias. La vida política y la económica no tendrán la posibilidad de florecer fuera de las doctrinas y directivas que dominan en el G...
+3. ...los Derechos del Hombre y del Ciudadano y es irónica en su formulación y expone el fracaso de la Revolución Francesa , que se había dedicado a la igualdad . Se afirma que: Esta revolución solo tendrá **efecto** cuando todas las mujeres se den cuenta de su deplorable condición y de los derechos que han perdido en la sociedad. La Declaración de los Derechos de la Mujer y la Ciudadana sigue los diecisiete artí...
+
+Ejemplos en tecnological sciences>environmental technology and engineering, donde efecto se traduce como efektu:
+1. ...de las concentraciones de contaminantes químicos en el ambiente que se encuentran en los lugares de trabajo durante la jornada laboral.  Cuando la jornada de trabajo sobrepase las 8 horas diarias, el **efecto** de mayor dosis de tóxico que recibe el trabajador unida a la reducción del período de recuperación durante el descanso, se compensará multiplicando los límites permisibles por el factor de reducción...
+2. ...solar es concentrada por medio de espejos o lentes para lograr altas temperaturas mediante una tecnología llamada energía termosolar de concentración (en inglés: "Concentrated Solar Power", CSP). El **efecto** práctico de las mayores eficiencias es la reducción del tamaño de los colectores de la planta y del uso de terreno por unidad de energía generada, reduciendo el impacto ambiental de una central de po...
+3. ...icultades, pues en la comparación entre países puede arrojar diferencias que dependen más de la estructura por edad y sexo de la población que de la fecundidad de las poblaciones analizadas. Para ese **efecto** se recomienda usar tasas refinadas, como la tasa global de fecundidad o la estructura de fecundidad por edad. En conclusión, la tasa de natalidad corresponde al número de nacidos vivos por cada 1000...
+
+Ahora traduce estos nuevos ejemplos:
+1. ...a participación en la entidad política que ostenta el poder, mismas que solo pueden desarrollarse cuando existen los precursores democráticos ya mencionados. Se ha afirmado que la Democracia, para el **efecto** de garantizar las condiciones mínimas para la participación ciudadana, impone al poder público límites en su ejercicio, mismos que serán tendientes a salvaguardar los intereses y derechos de los indi...
+2. ...spiración de partículas finas), viéndose muchas más perjudicadas. Con respecto a la salud humana, diferentes estudios han demostrado que en altas concentraciones, los contaminantes del aire tienen un **efecto** inflamatorio directo sobre los neurorreceptores de las vías respiratorias y el epitelio. Además, el estrés oxidativo se ha asociado con la exposición a contaminantes (O, NO, PM2.5), ocasionando pérdi..
+

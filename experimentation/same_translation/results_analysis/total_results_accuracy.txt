@@ -1,0 +1,198 @@
+
+==============================
+🔍 Evaluating Model: GEMINI | Translation Pair: en-es
+==============================
+📊 response_0shot: {'correct': 75, 'incorrect': 153} → Accuracy: 32.89%
+📊 response_0shotplus: {'correct': 147, 'incorrect': 81} → Accuracy: 64.47%
+📊 response_1shot: {'correct': 141, 'incorrect': 87} → Accuracy: 61.84%
+📊 response_fewshot: {'correct': 122, 'incorrect': 106} → Accuracy: 53.51%
+
+
+==============================
+🔍 Evaluating Model: GEMINI | Translation Pair: es-en
+==============================
+📊 response_0shot: {'correct': 61, 'incorrect': 81} → Accuracy: 42.96%
+📊 response_0shotplus: {'correct': 86, 'incorrect': 56} → Accuracy: 60.56%
+📊 response_1shot: {'correct': 88, 'incorrect': 54} → Accuracy: 61.97%
+📊 response_fewshot: {'correct': 77, 'incorrect': 65} → Accuracy: 54.23%
+
+
+==============================
+🔍 Evaluating Model: GEMINI | Translation Pair: es-ba
+==============================
+📊 response_0shot: {'correct': 145, 'incorrect': 253} → Accuracy: 36.43%
+📊 response_0shotplus: {'correct': 298, 'incorrect': 100} → Accuracy: 74.87%
+📊 response_1shot: {'correct': 268, 'incorrect': 130} → Accuracy: 67.34%
+📊 response_fewshot: {'correct': 206, 'incorrect': 192} → Accuracy: 51.76%
+
+
+==============================
+🔍 Evaluating Model: GEMINI | Translation Pair: en-ba
+==============================
+📊 response_0shot: {'correct': 123, 'incorrect': 217} → Accuracy: 36.18%
+📊 response_0shotplus: {'correct': 207, 'incorrect': 133} → Accuracy: 60.88%
+📊 response_1shot: {'correct': 244, 'incorrect': 96} → Accuracy: 71.76%
+📊 response_fewshot: {'correct': 172, 'incorrect': 168} → Accuracy: 50.59%
+
+
+==============================
+🔍 Evaluating Model: GEMINI | Translation Pair: ba-es
+==============================
+📊 response_0shot: {'correct': 40, 'incorrect': 48} → Accuracy: 45.45%
+📊 response_0shotplus: {'correct': 73, 'incorrect': 15} → Accuracy: 82.95%
+📊 response_1shot: {'correct': 64, 'incorrect': 24} → Accuracy: 72.73%
+📊 response_fewshot: {'correct': 64, 'incorrect': 24} → Accuracy: 72.73%
+
+
+==============================
+🔍 Evaluating Model: GEMINI | Translation Pair: ba-en
+==============================
+📊 response_0shot: {'correct': 37, 'incorrect': 51} → Accuracy: 42.05%
+📊 response_0shotplus: {'correct': 65, 'incorrect': 23} → Accuracy: 73.86%
+📊 response_1shot: {'correct': 57, 'incorrect': 31} → Accuracy: 64.77%
+📊 response_fewshot: {'correct': 41, 'incorrect': 47} → Accuracy: 46.59%
+
+
+==============================
+🔍 Evaluating Model: LLAMA | Translation Pair: en-es
+==============================
+📊 response_0shot: {'correct': 60, 'incorrect': 168} → Accuracy: 26.32%
+📊 response_0shotplus: {'correct': 145, 'incorrect': 83} → Accuracy: 63.60%
+📊 response_1shot: {'correct': 133, 'incorrect': 95} → Accuracy: 58.33%
+📊 response_fewshot: {'correct': 117, 'incorrect': 111} → Accuracy: 51.32%
+
+
+==============================
+🔍 Evaluating Model: LLAMA | Translation Pair: es-en
+==============================
+📊 response_0shot: {'correct': 67, 'incorrect': 75} → Accuracy: 47.18%
+📊 response_0shotplus: {'correct': 91, 'incorrect': 51} → Accuracy: 64.08%
+📊 response_1shot: {'correct': 99, 'incorrect': 43} → Accuracy: 69.72%
+📊 response_fewshot: {'correct': 97, 'incorrect': 45} → Accuracy: 68.31%
+
+
+==============================
+🔍 Evaluating Model: LLAMA | Translation Pair: es-ba
+==============================
+📊 response_0shot: {'correct': 96, 'incorrect': 302} → Accuracy: 24.12%
+📊 response_0shotplus: {'correct': 281, 'incorrect': 117} → Accuracy: 70.60%
+📊 response_1shot: {'correct': 225, 'incorrect': 173} → Accuracy: 56.53%
+📊 response_fewshot: {'correct': 250, 'incorrect': 148} → Accuracy: 62.81%
+
+
+==============================
+🔍 Evaluating Model: LLAMA | Translation Pair: en-ba
+==============================
+📊 response_0shot: {'correct': 120, 'incorrect': 220} → Accuracy: 35.29%
+📊 response_0shotplus: {'correct': 262, 'incorrect': 78} → Accuracy: 77.06%
+📊 response_1shot: {'correct': 252, 'incorrect': 88} → Accuracy: 74.12%
+📊 response_fewshot: {'correct': 225, 'incorrect': 115} → Accuracy: 66.18%
+
+
+==============================
+🔍 Evaluating Model: LLAMA | Translation Pair: ba-es
+==============================
+📊 response_0shot: {'correct': 33, 'incorrect': 55} → Accuracy: 37.50%
+📊 response_0shotplus: {'correct': 80, 'incorrect': 8} → Accuracy: 90.91%
+📊 response_1shot: {'correct': 77, 'incorrect': 11} → Accuracy: 87.50%
+📊 response_fewshot: {'correct': 66, 'incorrect': 22} → Accuracy: 75.00%
+
+
+==============================
+🔍 Evaluating Model: LLAMA | Translation Pair: ba-en
+==============================
+📊 response_0shot: {'correct': 29, 'incorrect': 59} → Accuracy: 32.95%
+📊 response_0shotplus: {'correct': 74, 'incorrect': 14} → Accuracy: 84.09%
+📊 response_1shot: {'correct': 74, 'incorrect': 14} → Accuracy: 84.09%
+📊 response_fewshot: {'correct': 63, 'incorrect': 25} → Accuracy: 71.59%
+
+
+==============================
+🔍 Evaluating Model: GPT | Translation Pair: en-es
+==============================
+📊 response_0shot: {'correct': 72, 'incorrect': 156} → Accuracy: 31.58%
+📊 response_0shotplus: {'correct': 173, 'incorrect': 55} → Accuracy: 75.88%
+📊 response_1shot: {'correct': 134, 'incorrect': 94} → Accuracy: 58.77%
+📊 response_fewshot: {'correct': 142, 'incorrect': 86} → Accuracy: 62.28%
+
+
+==============================
+🔍 Evaluating Model: GPT | Translation Pair: es-en
+==============================
+📊 response_0shot: {'correct': 68, 'incorrect': 74} → Accuracy: 47.89%
+📊 response_0shotplus: {'correct': 97, 'incorrect': 45} → Accuracy: 68.31%
+📊 response_1shot: {'correct': 90, 'incorrect': 52} → Accuracy: 63.38%
+📊 response_fewshot: {'correct': 81, 'incorrect': 61} → Accuracy: 57.04%
+
+
+==============================
+🔍 Evaluating Model: GPT | Translation Pair: es-ba
+==============================
+📊 response_0shot: {'correct': 117, 'incorrect': 281} → Accuracy: 29.40%
+📊 response_0shotplus: {'correct': 285, 'incorrect': 113} → Accuracy: 71.61%
+📊 response_1shot: {'correct': 290, 'incorrect': 108} → Accuracy: 72.86%
+📊 response_fewshot: {'correct': 263, 'incorrect': 135} → Accuracy: 66.08%
+
+
+==============================
+🔍 Evaluating Model: GPT | Translation Pair: en-ba
+==============================
+📊 response_0shot: {'correct': 129, 'incorrect': 211} → Accuracy: 37.94%
+📊 response_0shotplus: {'correct': 271, 'incorrect': 69} → Accuracy: 79.71%
+📊 response_1shot: {'correct': 230, 'incorrect': 110} → Accuracy: 67.65%
+📊 response_fewshot: {'correct': 221, 'incorrect': 119} → Accuracy: 65.00%
+
+
+==============================
+🔍 Evaluating Model: GPT | Translation Pair: ba-es
+==============================
+📊 response_0shot: {'correct': 34, 'incorrect': 54} → Accuracy: 38.64%
+📊 response_0shotplus: {'correct': 79, 'incorrect': 9} → Accuracy: 89.77%
+📊 response_1shot: {'correct': 71, 'incorrect': 17} → Accuracy: 80.68%
+📊 response_fewshot: {'correct': 65, 'incorrect': 23} → Accuracy: 73.86%
+
+
+==============================
+🔍 Evaluating Model: GPT | Translation Pair: ba-en
+==============================
+📊 response_0shot: {'correct': 36, 'incorrect': 52} → Accuracy: 40.91%
+📊 response_0shotplus: {'correct': 74, 'incorrect': 14} → Accuracy: 84.09%
+📊 response_1shot: {'correct': 65, 'incorrect': 23} → Accuracy: 73.86%
+📊 response_fewshot: {'correct': 64, 'incorrect': 24} → Accuracy: 72.73%
+
+
+==============================
+🔍 Evaluating Model: LATXA | Translation Pair: es-ba
+==============================
+📊 response_0shot: {'correct': 36, 'incorrect': 164} → Accuracy: 18.00%
+📊 response_0shotplus: {'correct': 110, 'incorrect': 90} → Accuracy: 55.00%
+📊 response_1shot: {'correct': 95, 'incorrect': 105} → Accuracy: 47.50%
+📊 response_fewshot: {'correct': 42, 'incorrect': 158} → Accuracy: 21.00%
+
+
+==============================
+🔍 Evaluating Model: LATXA | Translation Pair: en-ba
+==============================
+📊 response_0shot: {'correct': 51, 'incorrect': 109} → Accuracy: 31.87%
+📊 response_0shotplus: {'correct': 98, 'incorrect': 62} → Accuracy: 61.25%
+📊 response_1shot: {'correct': 83, 'incorrect': 77} → Accuracy: 51.88%
+📊 response_fewshot: {'correct': 53, 'incorrect': 107} → Accuracy: 33.12%
+
+
+==============================
+🔍 Evaluating Model: LATXA | Translation Pair: ba-es
+==============================
+📊 response_0shot: {'correct': 34, 'incorrect': 54} → Accuracy: 38.64%
+📊 response_0shotplus: {'correct': 70, 'incorrect': 18} → Accuracy: 79.55%
+📊 response_1shot: {'correct': 69, 'incorrect': 19} → Accuracy: 78.41%
+📊 response_fewshot: {'correct': 58, 'incorrect': 30} → Accuracy: 65.91%
+
+
+==============================
+🔍 Evaluating Model: LATXA | Translation Pair: ba-en
+==============================
+📊 response_0shot: {'correct': 32, 'incorrect': 56} → Accuracy: 36.36%
+📊 response_0shotplus: {'correct': 74, 'incorrect': 14} → Accuracy: 84.09%
+📊 response_1shot: {'correct': 74, 'incorrect': 14} → Accuracy: 84.09%
+📊 response_fewshot: {'correct': 63, 'incorrect': 25} → Accuracy: 71.59%
+

@@ -1,0 +1,1024 @@
+﻿term,pair_translation,response_0shot,response_0shotplus,response_1shot,response_fewshot
+balioztapen,"('validación', 'evaluación; valoración')","1. Para una **evaluación** precisa del flujo sanguíneo que llega a las extremidades, la sonda de ultrasonido Doppler es muy útil.
+
+2. Incineración o gasificación.  Valorización energética.  Vertido directo en vertedero.
+","1. Para una **validación** precisa del flujo sanguíneo que llega a las extremidades, la sonda de ultrasonido Doppler es muy útil.
+
+2. Incineración o gasificación. **Evaluación** energética. Vertido directo al  vertedero.
+",⚠️ Prompt no construido (faltan ejemplos),⚠️ Prompt no construido (faltan ejemplos)
+beira,"('cristal', 'estufa')","1. Dado el creciente uso de envases de un solo uso, la cantidad de residuos plásticos, de papel, vidrio y metal ha aumentado.
+
+
+2. Horno de aire caliente (horno Pasteur o estufa Poupinel); instrumental quirúrgico, instrumental odontológico,...
+","1. Dado el creciente uso de envases desechables, la cantidad de residuos de plástico, papel, **vidrio** y metal ha aumentado. (Contexto de tecnología ambiental)
+
+2. Estufa de aire caliente (estufa de Pasteur o calentador de Poupinel); instrumental médico, instrumental odontológico,... (Contexto farmacéutico/médico)
+",⚠️ Prompt no construido (faltan ejemplos),⚠️ Prompt no construido (faltan ejemplos)
+betetze,"('llenado', 'relleno')","1. Clasificación. Incontinencia urinaria por rebosamiento. La presión de llenado de la vejiga > resistencia uretral. Al orinar,...
+
+2. 2) SEPARACIÓN HÚMEDA la contaminación atmosférica > se convierte en un problema de contaminación del agua • TORRE DE LAVADO • TORRE DE RELLENO • LAVADOR VENTURI FÍSICOS absorción, adsorción...
+","1. Clasificación. Incontinencia urinaria por rebosamiento. Presión de **llenado** vesical > resistencia uretral. Al orinar,...
+
+2. 2) SEPARACIÓN HÚMEDA contaminación atmosférica > se convierte en un problema de contaminación del agua • TORRE DE LAVADO • TORRE DE **RELLENO** • LAVADOR VENTURI FÍSICOS absorción, adsorción...
+","Aquí tienes la traducción de los contextos, teniendo en cuenta las especificaciones de ""betetze"" como ""llenado"" en el contexto farmacéutico y ""relleno"" en el contexto de ingeniería ambiental:
+
+1. **Clasificación. Incontinencia urinaria por rebosamiento. Presión de llenado vesical > resistencia uretral. Al orinar,...**  En este contexto médico, ""betetze"" se refiere al proceso de llenado de la vejiga.
+
+2. **2) SEPARACIÓN HÚMEDA contaminación atmosférica > se convierte en un problema de contaminación del agua • TORRE DE LAVADO • TORRE DE RELLENO • LAVADOR VENTURI FÍSICOS absorción, adsorción...**  Aquí, en un contexto de ingeniería ambiental, ""betetze"" se refiere al material de relleno dentro de una torre, utilizado para procesos de separación.  Se ha optado por ""relleno"" en lugar de ""llenado"" ya que describe el contenido sólido de la torre y no la acción de llenarla.
+","Aquí tienes las traducciones, teniendo en cuenta el contexto proporcionado:
+
+**Contexto Médico (betetze = llenado):**
+
+1. **Original:** Sailkapena. Gainezka egiteagatik gernu-ihesa. Maskuriaren betetze-presioa > uretraren erresistentzia. Txiza egiterakoan, ...
+**Traducción:** Clasificación. Incontinencia urinaria por rebosamiento. Presión de llenado vesical > resistencia uretral. Al orinar,...
+
+2. (Esta frase pertenece al contexto tecnológico, se traduce más abajo)
+
+
+**Contexto Tecnológico (betetze = relleno):**
+
+1. **Original:** 2) BEREIZKETA HEZEA kutsadura atmosferikoa> ur kutsadura arazoa bihurtu • GARBIKETA DORREA • BETETZE DORREA • VENTURI GARBIGAILUA FISIKOAK absortzioa, adsortzioa...
+**Traducción:** 2) SEPARACIÓN HÚMEDA contaminación atmosférica >  se convierte en un problema de contaminación del agua • TORRE DE LAVADO • TORRE DE RELLENO • LAVADOR VENTURI FÍSICOS absorción, adsorción...
+
+
+Es importante destacar la diferencia en la traducción de ""betetze-dorrea"" en ambos contextos. Mientras que en el contexto médico ""betetze"" se refiere al volumen que llena un órgano, en el contexto tecnológico se refiere al material que rellena una torre para facilitar un proceso.  Por lo tanto, ""betetze-dorrea"" se traduce como ""torre de relleno"" en tecnología ambiental.
+"
+betetze,"('llenado', 'relleno')","1. FACTORES QUE CONDICIONAN EL GASTO CARDÍACO•Precarga: Volumen de sangre que llega a los ventrículos desde las venas, volumen de llenado ventricular. Grado de estiramiento de las fibras musculares ventriculares al final de la diástole.
+
+2. Las torres de pulverización (spray) son eficaces cuando el tamaño es > 80 µm, pero tienen poca eficacia cuando el tamaño es < 10 µm • Las torres de relleno (o de platos) son eficaces hasta un tamaño de 3-5 µm.
+","1. FACTORES QUE CONDICIONAN EL GASTO CARDÍACO • Precarga: Volumen de sangre que llega a los ventrículos desde las venas, volumen de **llenado** ventricular. Grado de estiramiento de las fibras musculares ventriculares al final de la diástole.
+
+2. Las torres de lavado (spray) son eficaces con un tamaño > 80 µm, pero poco eficaces con un tamaño < 10 µm • Las torres de **relleno** hasta un tamaño de 3-5 µm.
+","Aquí tienes la traducción de los contextos, teniendo en cuenta las especificaciones de ""betetze"" como ""llenado"" en el contexto farmacéutico y ""relleno"" en el contexto de ingeniería ambiental:
+
+1. **FACTORES QUE CONDICIONAN EL GASTO CARDÍACO•Precarga: Volumen de sangre que llega de las venas a los ventrículos, volumen de llenado ventricular. Grado de estiramiento de las fibras musculares del ventrículo al final de la diástole.**  (Aquí usamos ""llenado"" ya que se refiere al volumen sanguíneo dentro del ventrículo, un contexto fisiológico/farmacéutico.)
+
+
+2. **Torres de pulverización (spray) efectivas para un tamaño > 80 µm, pero con baja eficiencia para tamaños < 10 µm • Torres de relleno efectivas para tamaños de hasta 3-5 µm.** (En este caso, ""relleno"" es más adecuado, pues se refiere a la estructura física de la torre, similar al contexto de ingeniería ambiental donde se usa como material de relleno.)
+","Aquí tienes las traducciones, teniendo en cuenta el contexto proporcionado:
+
+**Contexto Médico (llenado):**
+
+1. FACTORES QUE CONDICIONAN EL GASTO CARDÍACO • Precarga: Volumen de sangre que llega a los ventrículos desde las venas, **volumen de llenado** ventricular. Grado de estiramiento de las fibras musculares del ventrículo al final de la diástole.
+2. Torres (spray) eficaces para tamaños de partícula > 80 µm, pero con baja eficacia para tamaños < 10 µm • **Torres de llenado** para tamaños de partícula hasta 3-5 µm.
+
+
+**Explicación de las elecciones:**
+
+* En el primer ejemplo médico, ""betetze-bolumena"" se traduce como ""volumen de llenado"" ya que se refiere al volumen de sangre que llena el ventrículo.  Mantenemos la coherencia con los ejemplos previos de ""volumen de llenado"" en el contexto de la función cardíaca.
+* En el segundo ejemplo, aunque se habla de torres, el contexto se centra en el tamaño de las partículas y su eficacia. ""Betetze-dorreak"" se refiere aquí a torres diseñadas para manejar partículas de un tamaño específico, y la traducción ""torres de llenado"" implica que se llenan con estas partículas.  Si bien ""relleno"" podría usarse, ""llenado"" se ajusta mejor al contexto de flujo y manejo de partículas en un dispositivo.
+"
+betetze,"('llenado', 'relleno')","1. **Ley de Frank-Starling:** El miocardio puede alterar su fuerza de contracción de latido a latido según el volumen de llenado, ya que este volumen determina la longitud inicial de las fibras musculares al comienzo de la sístole.
+
+2. **ABSORCIÓN.** En la absorción se utilizan (1) torres de relleno y (2) torres de platos múltiples. En los procesos de absorción...
+","1. Ley de Frank-Starling: el miocardio puede variar su fuerza de contracción de un latido a otro en función del volumen de **llenado**, ya que este determina la longitud de las fibras musculares al inicio de la sístole.
+
+2. ABSORCIÓN. En la absorción se utilizan (1) torres de **relleno** y (2) torres de platos múltiples. En los procesos de absorción...
+","1. **Ley de Frank-Starling:** El miocardio puede variar su fuerza de contracción de latido a latido en función del volumen de llenado, ya que este determina la longitud inicial de las fibras musculares al comienzo de la sístole.
+
+2. **ABSORCIÓN.** En la absorción se utilizan (1) torres de relleno y (2) torres de platos múltiples. En los procesos de absorción...
+","En base a los ejemplos proporcionados, las traducciones serían:
+
+1. **Frank-Starling-en legea: miokardioak taupada batetik bestera ber uzkurdura-indarra alda dezake betetze-bolumenaren arabera, bolumne horrek ezartzen baitu muskulu-zuntzen luzera sistolearen hasieran.**  -> Ley de Frank-Starling: el miocardio puede variar la fuerza de contracción de un latido a otro según el **volumen de llenado**, ya que este volumen determina la longitud de las fibras musculares al inicio de la sístole.
+
+2. **ABSORTZIOA. Absortzioan (1) betetze-dorreak eta (2) plater anitzeko dorreak erabili. Absortzio prozesuetan...** -> ABSORCIÓN. En la absorción se utilizan (1) **torres de relleno** y (2) torres de platos múltiples. En los procesos de absorción...
+
+
+Se mantiene la coherencia traduciendo ""betetze-bolumena"" como ""volumen de llenado"" en el contexto médico y ""betetze-dorreak"" como ""torres de relleno"" en el contexto tecnológico.
+"
+betetze,"('llenado', 'relleno')","1. **UZKURKORTASUNA (Contractilidad):** Capacidad de las fibras musculares miocárdicas para alargarse o acortarse. **AURREKARGA (Precarga):** Volumen de llenado ventricular. **ATZEKARGA (Poscarga):** Resistencia que los ventrículos... (La frase está incompleta, falta la parte final que explica a qué se resisten los ventrículos, por ejemplo: ""...deben vencer para eyectar la sangre"").
+
+
+2. B.- se utilizan para eliminar el carbón activado generado en las centrales térmicas. C.- los contaminantes se adhieren a la superficie de los rellenos sólidos.
+","1. **CONTRACTILIDAD** Capacidad de las fibras musculares miocárdicas para alargarse o acortarse **PRECARGA** Volumen de **llenado** ventricular **POSCARGA** Los ventrículos...
+
+2. B.- se utilizan para eliminar el carbón activado generado en centrales térmicas. C.- los contaminantes se adhieren a la superficie del **relleno** sólido.
+","1. **CONTRACTILIDAD** Capacidad de las fibras musculares miocárdicas para alargarse o acortarse. **PRECARGA** Volumen de **llenado** ventricular. **POSCARGA** Los ventrículos...
+
+2. B.- se utilizan para eliminar el carbón activado generado en las centrales térmicas. C.- los contaminantes se adhieren a la superficie del **relleno** sólido.
+","En base a los ejemplos proporcionados, las traducciones serían:
+
+1. **UZKURKORTASUNA** Capacidad de las fibras musculares del miocardio para alargarse o acortarse **AURREKARGA** Volumen de llenado ventricular **ATZEKARGA** Ventrículos...
+
+2. B.- se utilizan en centrales térmicas para eliminar el carbón activado generado. C.- los contaminantes se adhieren a la superficie de los **rellenos** sólidos.
+
+
+Se observa que ""betetze"" se traduce como ""llenado"" en el contexto médico, relacionado con el volumen en las cavidades del corazón. En el contexto tecnológico, se traduce como ""relleno"", refiriéndose a un material sólido dentro de una estructura como una torre.  Por tanto, en la frase 2, al hablar de la adhesión de contaminantes a un sólido, se usa ""relleno"".  En la frase 1, al referirse al volumen de los ventrículos, se usa ""llenado"".
+"
+betetze,"('llenado', 'relleno')","1. ... la incapacidad de enviar la cantidad de sangre necesaria a las redes se debe simplemente a un fallo de la función de bombeo del corazón, y debe destacarse que el volumen de llenado que llega al corazón es normal. Tiene un pronóstico muy malo,...
+
+
+2. A.- son residuos inertes. B.- mezclados con áridos pueden utilizarse como relleno en carreteras u otras obras públicas. C.- son peligrosos.
+","1. ...la incapacidad para enviar la cantidad de sangre necesaria a los tejidos se debe simplemente a un fallo de la función de bombeo del corazón, y debe destacarse que el **volumen de llenado** que llega al corazón es normal.  Tiene un pronóstico muy malo,...
+
+2. A.- son residuos inertes. B.- mezclados con zahorras pueden ser utilizados como **relleno** en carreteras u otras obras públicas. C.- son peligrosos.
+","1. ...la incapacidad para enviar la cantidad de sangre necesaria a los tejidos se debe a un fallo simple de la función de bombeo del corazón, y hay que destacar que el **volumen de llenado** que llega al corazón es normal.  Tiene un pronóstico muy malo,...
+
+2. A.- son residuos inertes. B.- mezclados con áridos pueden ser utilizados como **relleno** en carreteras u otras obras públicas. C.- son peligrosos.
+","Aquí tienes las traducciones, considerando el contexto proporcionado:
+
+1. ... la incapacidad para enviar la cantidad de sangre necesaria a los tejidos. Esta incapacidad se debe a un fallo simple de la función de bombeo del corazón, y debe destacarse que el **volumen de llenado** que llega al corazón es normal. El pronóstico es muy malo,...
+
+2. A.- son residuos inertes. B.- mezclados con zahorras pueden utilizarse como **relleno** en carreteras u otras obras públicas. C.- son peligrosos.
+"
+elikagai,"('alimento', 'nutriente')","1. DIETA: Es el conjunto de alimentos que consumimos habitualmente/diariamente.
+
+2. Estos cationes pueden ser intercambiados con otros cationes. Este proceso es muy importante porque controla la absorción de nutrientes de las plantas.
+","1. DIETA: Es el conjunto de alimentos que ingerimos diariamente. (Aquí ""elikagai"" se refiere a la comida en general, por lo que ""alimentos"" es la traducción adecuada.)
+
+2. Estos cationes pueden intercambiarse con otros cationes. Este proceso es muy importante porque controla la absorción de nutrientes por parte de las plantas. (En este contexto, ""elikagai"" se refiere a las sustancias que las plantas necesitan para crecer, por lo que ""nutrientes"" es la traducción más precisa.)
+","Aquí tienes la traducción de las frases, teniendo en cuenta el contexto proporcionado para ""elikagai"":
+
+1. **DIETA:** El conjunto de alimentos que ingerimos diariamente. (Aquí, ""elikagai"" se refiere a lo que comemos habitualmente, por lo que ""alimentos"" es la traducción más adecuada).
+
+2. Estos cationes pueden intercambiarse con otros cationes. Este proceso es muy importante porque controla el consumo de nutrientes de las plantas. (En este contexto, ""elikagai"" se refiere a las sustancias que las plantas necesitan para crecer, por lo que ""nutrientes"" es la traducción correcta.)
+","Aquí están las traducciones, teniendo en cuenta el contexto proporcionado:
+
+**Contexto de Medical Sciences > Pharmaceutical Technology (elikagai = alimento):**
+
+1. Alimentos sin azúcar. ALIMENTOS PROTECTORES: Lácteos p. ej. Leche, queso, yogures.
+2. ...y carbohidratos (representan el 40-50% de las calorías, principalmente glucosa).  También se debe tener en cuenta la proporción y el equilibrio de estos alimentos.
+3. Alimentos azucarados, pegajosos, consumidos en las comidas.
+
+
+**Contexto de Technological Sciences > Environmental technology and engineering (elikagai = nutriente):**
+
+1. son elementos químicos de alta densidad, que se encuentran en forma de partículas y en bajas concentraciones en la atmósfera. Se consideran muy peligrosos, ya que no se degradan ni química ni biológicamente. Por lo tanto, se acumulan en las cadenas tróficas (o cadenas alimentarias).
+2. Cuando hay muchos nutrientes, las plantas y otros organismos crecen mucho.
+3. Los factores a controlar son el pH, la temperatura, la humedad, el contenido de nutrientes y la población bacteriana.
+
+
+
+**Traducciones solicitadas:**
+
+1. **DIETA:** El conjunto de alimentos que ingerimos diariamente. (Aquí, en el contexto de dieta, ""elikagai"" se refiere a los alimentos que comemos, similar al contexto de ciencias médicas.)
+2. Estos cationes pueden intercambiarse con otros cationes. Este proceso es muy importante porque controla el consumo de nutrientes de las plantas. (En este contexto, claramente se habla de la nutrición de las plantas, por lo que ""elikagai"" se traduce como nutriente, similar al contexto de ciencias ambientales.)
+"
+elikagai,"('alimento', 'nutriente')","1. Alimentos azucarados, mariscos, consumidos en las comidas.
+
+2. Los factores a controlar son el pH, la temperatura, la humedad, el contenido de nutrientes y la población bacteriana.
+","1. **Contexto: Ciencias Médicas > Tecnología Farmacéutica:** Alimentos azucarados, mariscos, consumidos en las comidas.
+
+2. **Contexto: Ciencias Tecnológicas > Ingeniería y Tecnología Ambiental:** Los factores a controlar son el pH, la temperatura, la humedad, el contenido de nutrientes y la población bacteriana.
+","Dado el contexto proporcionado para ""elikagai"", las traducciones serían:
+
+1. **Alimentos** azucarados, pegajosos, consumidos en las comidas.  (Aquí el contexto se asemeja más al de la dieta, por lo que usamos ""alimentos"")
+
+2. Los factores a controlar son el pH, la temperatura, la humedad, el **contenido de nutrientes** y la población bacteriana. (En este caso, al hablar de factores que influyen en el crecimiento bacteriano, ""nutrientes"" se ajusta mejor al contexto tecnológico-ambiental.)
+","Analizando los ejemplos, vemos que ""elikagai"" se traduce como ""alimento"" cuando se refiere a algo que se ingiere, y como ""nutriente"" cuando se refiere a una sustancia que promueve el crecimiento o desarrollo de un organismo.
+
+Por lo tanto, las traducciones serían:
+
+1. **Azukredun elikagaiak, itsaskorrak, otorduetan kontsumitutakoak.**  ->  *Alimentos azucarados, pegajosos, consumidos en las comidas.*
+
+2. **Kontrolatu beharreko faktoreak pH-a, tenperatura, hezetasuna, elikagai-edukia eta bakterio-populazioa dira.** -> *Los factores que deben controlarse son el pH, la temperatura, la humedad, el contenido de nutrientes y la población bacteriana.*  En este caso, ""elikagai-edukia"" se refiere a lo que nutre a las bacterias, por lo que ""nutrientes"" es la traducción más adecuada.
+"
+elikagai,"('alimento', 'nutriente')","1. Alimentos sin azúcar. ALIMENTOS PROTECTORES: Lácteos, p. ej. Leche, queso, yogures.
+
+2. Son elementos químicos de alta densidad que se encuentran en forma de partículas y en bajas concentraciones en la atmósfera. Se consideran muy peligrosos, ya que no se degradan ni química ni biológicamente. Por lo tanto, se acumulan en las cadenas alimentarias.
+","1. **Contexto: Medical Sciences > Pharmaceutical Technology**
+
+> Alimentos sin azúcar. ALIMENTOS PROTECTORES: Lácteos p. ej. Leche, queso, yogures.
+
+2. **Contexto: Technological Sciences > Environmental technology and engineering**
+
+> Son elementos químicos de alta densidad que se encuentran en la atmósfera en forma de partículas y en bajas concentraciones. Se consideran muy peligrosos, ya que no se degradan ni química ni biológicamente. Por lo tanto, se acumulan en las cadenas tróficas (o cadenas alimentarias).
+","Aquí tienes la traducción de las frases, teniendo en cuenta el contexto proporcionado para ""elikagai"":
+
+1. **Alimentos sin azúcar. ALIMENTOS PROTECTORES: Lácteos p. ej. Leche, requesón, yogures.**  En este contexto, al hablar de productos de consumo humano, ""elikagai"" se traduce como ""alimentos"".
+
+2. **Son elementos químicos de alta densidad que se encuentran en la atmósfera en forma de partículas y en bajas concentraciones. Se consideran muy peligrosos, ya que no se degradan ni química ni biológicamente. Por lo tanto, se acumulan en las cadenas tróficas (o cadenas alimentarias).** En este contexto ambiental, donde se habla de acumulación en la cadena alimentaria, aunque se use ""elikagai-kateak"", la traducción más precisa en español es ""cadenas tróficas"" o ""cadenas alimentarias"", y nos referimos a la transferencia de nutrientes, no de ""alimentos"" como productos elaborados.
+","Aquí tienes la traducción de las frases, considerando el contexto proporcionado:
+
+1. **Contexto de Ciencia Médica/Tecnología Farmacéutica (elikagai = alimento):**
+
+> Alimentos sin azúcar. ALIMENTOS PROTECTORES: Lácteos p. ej. Leche, queso, yogures.
+
+2. **Contexto de Ciencias Tecnológicas/Ingeniería Ambiental (elikagai = nutriente):**
+
+> ...son elementos químicos de alta densidad que se encuentran en la atmósfera en forma de partículas y en bajas concentraciones. Se consideran muy peligrosos, ya que no se degradan ni química ni biológicamente. Por lo tanto, se acumulan en las cadenas tróficas (o cadenas alimentarias).
+
+
+**Explicación de la elección:**
+
+En la primera frase, el contexto se refiere claramente a tipos de alimentos para consumo humano,  siguiendo los ejemplos con lácteos, leche, queso, etc. Por lo tanto, ""elikagai"" se traduce como ""alimentos"".
+
+En la segunda frase, el contexto habla de acumulación en cadenas y degradación biológica, lo que apunta a un contexto ecológico y, por ende, ""elikagai"" se traduce como ""nutriente"" en un sentido más amplio,  o incluso se puede optar por ""cadena trófica"" o ""cadena alimentaria"" para mayor claridad.  No se refiere a ""alimentos"" en el sentido de algo que se ingiere, sino a la sustancia que nutre y permite el crecimiento de los organismos en un ecosistema.
+"
+elikagai,"('alimento', 'nutriente')","1. Tipo de alimento. Azúcar líquido. Azúcares sólidos no viscosos. Azúcares sólidos viscosos.
+
+
+2. Para ello, el agua deberá ser enriquecida con nutrientes. Se podría pensar que tener una gran cantidad de nutrientes es beneficioso para los animales y plantas del lugar, pero esto conlleva un problema.
+","1. **Contexto Farmacéutico (Alimento):** Tipo de alimento. Azúcar líquido. Azúcares sólidos no viscosos. Azúcares sólidos viscosos.
+
+2. **Contexto Ambiental (Nutriente):** Para ello, el agua deberá enriquecerse con nutrientes. Se podría pensar que una gran cantidad de nutrientes es beneficiosa para los animales y plantas del lugar, pero esto conlleva un problema.
+","Aquí están las traducciones, teniendo en cuenta el contexto proporcionado para ""elikagai"":
+
+1. **Tipo de alimento/nutriente.** Azúcar líquido. Azúcares sólidos no viscosos. Azúcares sólidos viscosos.
+
+    * En este caso, la traducción como ""alimento"" se ajusta mejor, ya que se refiere a la clasificación de azúcares como ingredientes.  Aunque ""nutriente"" no es incorrecto, ""alimento"" es más preciso en este contexto específico.
+
+2. **Para ello, el agua deberá ser enriquecida con nutrientes.** Se podría pensar que una gran cantidad de nutrientes es beneficiosa para los animales y plantas del lugar, pero esto conlleva un problema.
+
+    * Aquí, ""nutrientes"" es la traducción más adecuada.  El contexto habla de enriquecer el agua, lo que implica añadir sustancias necesarias para el crecimiento y desarrollo de los organismos, es decir, nutrientes.  ""Alimento"" en este contexto sería menos preciso y podría interpretarse como añadir comida directamente al agua, lo cual no es lo que se pretende expresar.
+","Veamos la traducción de las nuevas frases, considerando el contexto proporcionado:
+
+**1. Elikagai mota. Azukre likidoa. Azukre solido ez likatsuak. Azukre solido likatsuak**
+
+Dado que se habla de tipos de azúcar, y en el contexto de ciencias médicas ""elikagai"" se traduce como ""alimento"", la traducción sería:
+
+* **Tipo de alimento. Azúcar líquido. Azúcares sólidos no viscosos. Azúcares sólidos viscosos.**
+
+**2. Horretarako, ura elikagaietan aberastu beharko da. Pentsa daiteke elikagai kopuru handia izatea onuragarria dela hango animalia eta landareetarako, baina horrek arazo bat dakar.**
+
+Esta frase presenta una mayor complejidad.  La primera parte, ""ura elikagaietan aberastu beharko da"",  se presta a dos interpretaciones dependiendo del contexto. Si se refiere a enriquecer el agua con nutrientes para el consumo humano o animal, ""elikagai"" se traduciría como ""nutrientes"". Si se refiere a enriquecer el agua para cultivos, ""elikagai"" podría ser tanto ""nutrientes"" como ""fertilizantes"". La segunda parte de la frase, que menciona animales y plantas, sugiere un contexto ecológico o de ciencias ambientales, por lo que ""elikagai"" se traduciría como ""nutrientes"".
+
+Por lo tanto, una traducción completa y que cubra ambas posibilidades sería:
+
+* **Para ello, el agua deberá enriquecerse con nutrientes (o fertilizantes, si el contexto es agrícola). Se podría pensar que una gran cantidad de nutrientes es beneficiosa para los animales y plantas del lugar, pero esto conlleva un problema.**
+
+
+En resumen, la elección entre ""alimento"" y ""nutriente"" para traducir ""elikagai"" depende fuertemente del contexto. Observar los términos que acompañan a ""elikagai"" es clave para determinar su significado preciso en cada caso.
+"
+elikagai,"('alimento', 'nutriente')","1. ...estos carbohidratos (que representan el 40-50% de las calorías, principalmente en forma de glucosa). También se debe tener en cuenta la proporción y el equilibrio de estos alimentos.
+
+2. Cuando hay abundancia de alimentos, las plantas y otros organismos crecen mucho.
+","1. ...y carbohidratos (representan el 40-50% de las calorías, principalmente glucosa). También se debe tener en cuenta la proporción y el equilibrio de estos **nutrientes**.
+
+2. Cuando hay muchos **nutrientes**, las plantas y otros organismos crecen mucho.
+
+
+En el primer contexto, al hablar de proporción y equilibrio en relación con carbohidratos y calorías, el término ""nutriente"" se ajusta mejor al sentido de componentes de la dieta que contribuyen al metabolismo y la salud, que es el enfoque de la tecnología farmacéutica.
+
+En el segundo contexto, al referirse al crecimiento de plantas y organismos, ""nutrientes"" es más adecuado porque describe las sustancias que estos organismos necesitan para su desarrollo, que es el enfoque de la tecnología ambiental y la ingeniería.
+","1. ...y carbohidratos (representan el 40-50% de las calorías, principalmente en forma de glucosa).  También se debe tener en cuenta la proporción y el equilibrio de estos **alimentos**. (Usamos ""alimentos"" porque el contexto se refiere a la dieta, similar al ejemplo farmacéutico.)
+
+2. Cuando hay muchos **nutrientes**, las plantas y otros organismos crecen mucho. (Usamos ""nutrientes"" porque el contexto se refiere al crecimiento de organismos en un entorno, similar al ejemplo de tecnología ambiental.)
+","Considerando los ejemplos proporcionados, las traducciones serían:
+
+1. ...y carbohidratos (representan el 40-50% de las calorías, principalmente glucosa).  También debe tenerse en cuenta la proporción y el equilibrio de estos **alimentos**.  (Contexto parece similar a los ejemplos de Medical Sciences > Pharmaceutical Technology)
+
+2. Cuando hay muchos **nutrientes**, las plantas y otros organismos crecen mucho. (Contexto similar a los ejemplos de Technological Sciences > Environmental technology and engineering)
+
+
+La clave está en el contexto.  En la primera frase, se habla de carbohidratos y glucosa en relación con las calorías, lo que sugiere una perspectiva nutricional relacionada con la dieta, por lo que ""alimentos"" es la traducción más adecuada.  En la segunda frase, se habla del crecimiento de plantas y organismos en relación con la abundancia de algo, lo que apunta a una perspectiva ecológica y al concepto de nutrientes que fomentan el crecimiento, por lo que ""nutrientes"" es la mejor opción.
+"
+elikagai,"('alimento', 'nutriente')","1. - Ácido fólico: se encuentra en la mayoría de los **alimentos**, especialmente en las verduras.
+
+2. ...es la eutrofización. Para ello, el agua debe enriquecerse en **nutrientes**.
+
+
+Aunque ""alimentos"" es una traducción literal de ""elikagai"", en el contexto de la eutrofización, ""nutrientes"" es más preciso.  Hablamos de las sustancias específicas (nitratos, fosfatos, etc.) que provocan el crecimiento excesivo de algas.  Mientras que ""alimentos"" se refiere a algo que se ingiere para nutrirse, ""nutrientes"" abarca las sustancias que contribuyen a ese proceso.
+","1. Ácido fólico: se encuentra en la mayoría de los **alimentos**, especialmente en las verduras.
+
+2. causa de la eutrofización. Para ello, el agua debe ser enriquecida en **nutrientes**.
+","1. - Ácido fólico: se encuentra en la mayoría de los **alimentos**, especialmente en las verduras. (Aquí ""elikagai"" se refiere a productos comestibles, por lo que ""alimentos"" es la traducción adecuada.)
+
+2. ... es la eutrofización. Para ello, el agua deberá enriquecerse en **nutrientes**. (En este contexto, ""elikagai"" se refiere a las sustancias que promueven el crecimiento, por lo que ""nutrientes"" es la traducción correcta.)
+","Veamos las traducciones, considerando el contexto proporcionado:
+
+**En Medical Sciences > Pharmaceutical Technology (elikagai = alimento):**
+
+1. DIETA: Es el conjunto de **alimentos** que ingerimos diariamente.
+2. **Alimentos** azucarados, pegajosos, consumidos en las comidas.
+3. Tipo de **alimento**. Azúcar líquido. Azúcares sólidos no pegajosos. Azúcares sólidos pegajosos.
+
+**En Technological Sciences > Environmental technology and engineering (elikagai = nutriente):**
+
+1. Estos cationes pueden intercambiarse con otros cationes. Este proceso es muy importante porque controla el consumo de **nutrientes** de las plantas.
+2. Los factores que deben controlarse son el pH, la temperatura, la humedad, el contenido de **nutrientes** y la población bacteriana.
+3. Para ello, el agua deberá enriquecerse en **nutrientes**. Se podría pensar que una gran cantidad de nutrientes es beneficiosa para los animales y plantas del lugar, pero esto conlleva un problema.
+
+
+**Traducciones solicitadas:**
+
+1. - Ácido fólico: se encuentra en la mayoría de los **alimentos**, especialmente en las verduras. (Contexto parece médico/nutricional, por lo tanto, alimento)
+
+2. ... es la eutrofización. Para ello, el agua deberá enriquecerse en **nutrientes**. (Contexto claramente ambiental, por lo tanto, nutriente)
+"
+elikagai,"('alimento', 'nutriente')","1. Además, debe saber que puede seguir llevando una vida normal y que debe aprender a evitar riesgos (practicar deportes de contacto, comer ciertos alimentos…).
+
+2. (10.13) La relación F/M (relación alimento/microorganismo) es el parámetro más importante para el diseño y la operación de los sistemas de lodos activados.
+","1. Además, debe saber que puede continuar con su vida normal y que debe aprender a evitar riesgos (practicar deportes de contacto, ingerir ciertos **alimentos**...).
+
+2. (10.13) La relación F/M (relación **nutriente**/microorganismo) es el parámetro más importante para el diseño y la operación de los sistemas de lodos activados.
+","1. Además, debe saber que puede continuar con una vida normal y que debe aprender a evitar riesgos (practicar deportes de contacto, comer ciertos **alimentos**...).
+
+2. (10.13) La relación F/M (relación **alimento**/microorganismo) es el parámetro más importante para el diseño y la operación de los sistemas de lodos activados.
+
+En el primer caso, ""elikagai"" se refiere a la comida que ingiere una persona, por lo que se traduce como ""alimento"". En el segundo caso, ""elikagai"" se refiere a la sustancia que consumen los microorganismos, por lo que, en el contexto de ingeniería ambiental y lodos activados,  mantengo la traducción como ""alimento"" ya que se refiere a lo que nutre a los microorganismos, aunque no sea comida en el sentido humano.  Si se quisiera ser más preciso técnicamente,  se podría considerar ""sustrato"" como una alternativa.
+","Aquí tienes la traducción de las frases, teniendo en cuenta el contexto proporcionado:
+
+1. **Gainera, jakin behar du bizimodu normala egiten jarrai dezakeela eta arriskuak ekiditen ikasi behar duela (kontaktu zuzeneko kirolak egitea, zenbait elikagai jatea…).**
+
+> Además, debe saber que puede continuar con una vida normal y que debe aprender a evitar riesgos (practicar deportes de contacto, comer ciertos **alimentos**...).
+
+En este contexto, ""elikagai"" se refiere a la comida que ingiere una persona, por lo que se traduce como ""alimentos"".
+
+2. **(10.13) F/M erlazioa (elikagai/mikroorganismo erlazioa) parametro garrantzitsuena da lokatz aktibatuen sistemak diseinatzeko eta haiekin lan egiteko.**
+
+> (10.13) La relación F/M (relación **nutriente**/microorganismo) es el parámetro más importante para diseñar y operar sistemas de lodos activados.
+
+
+En este contexto, ""elikagai"" se refiere a lo que nutre a los microorganismos, por lo que se traduce como ""nutriente"".
+"
+eragile,"('inductor', 'actuador')","1. **DEFINICIÓN DE INFECCIÓN:** La infección es la colonización producida en un organismo huésped por un **agente** infeccioso externo. Agentes infecciosos:
+
+2. Las ventajas de estos sistemas son las siguientes: La separación del líquido y la biomasa es sencilla. Presentan mayor resistencia a agentes tóxicos y a inhibidores de microorganismos...
+","1. DEFINICIÓN DE INFECCIÓN Una infección es la colonización producida por un **agente** infeccioso externo en un organismo huésped. Agentes infecciosos:
+
+2. Las ventajas de estos sistemas son las siguientes: Fácil separación del líquido y la biomasa. Mayor resistencia a los **inductores** tóxicos y a los inhibidores de microorganismos...
+
+
+He traducido ""eragile"" como ""agente"" en el primer contexto, ya que se refiere a un agente infeccioso en un contexto médico. En el segundo contexto, he utilizado ""inductores""  dado que se menciona ""resistencia a ...inductores tóxicos"", lo que sugiere un contexto de tecnología farmacéutica, donde ""eragile"" se traduce como ""inductor"".  Si el contexto del segundo ejemplo fuese más claramente de ingeniería ambiental,  ""actuador"" sería más apropiado.
+","Dado que ""eragile"" puede traducirse como ""inductor"" o ""actuador"" dependiendo del contexto, y que nos has proporcionado ejemplos de su uso en ciencias médicas y tecnología ambiental, traduciremos los nuevos ejemplos teniendo en cuenta esos matices:
+
+1. **INFECCIÓN DEFINICIÓN** La infección es la colonización producida en un organismo huésped por un **agente** infeccioso externo. Agentes infecciosos:
+
+    * En este contexto médico, ""eragile kutsakor"" se traduce como ""agente infeccioso"".  La palabra ""inductor"" se utiliza más para referirse a sustancias que provocan una respuesta biológica específica, mientras que ""agente infeccioso"" es el término estándar para referirse a un organismo que causa una infección.
+
+2. Las ventajas de estos sistemas son las siguientes: El líquido y la biomasa se separan fácilmente. Presentan una mayor resistencia a los **agentes** tóxicos y a los inhibidores de microorganismos...
+
+    * Aquí, aunque el contexto no es estrictamente ambiental, la idea de ""eragile toxikoa"" se acerca más al concepto de un agente externo que actúa sobre el sistema.  ""Agente tóxico"" es una traducción adecuada.  ""Actuador"" no tiene sentido en este contexto, ya que implica un componente activo de un sistema, no una sustancia externa que afecta al sistema.
+
+
+En resumen, mientras que ""inductor"" y ""actuador"" son traducciones válidas de ""eragile"" en contextos específicos, la traducción más general y apropiada en la mayoría de los casos, especialmente en biología y química, es ""agente"".
+","Veamos las traducciones, teniendo en cuenta el contexto proporcionado:
+
+**1. INFEKZIOA DEFINIZIOA Infekzioa kanpoko eragile kutsakor batek organismo ostalari batean sortutako kolonizazioa da. Eragile kutsakorrak:**
+
+Aquí, ""eragile kutsakor"" se refiere a un agente que causa la infección. Dado el contexto médico, la traducción más adecuada para ""eragile"" es **agente**.
+
+* **Traducción:** INFECCIÓN DEFINICIÓN La infección es la colonización producida en un organismo huésped por un **agente** infeccioso externo. Agentes infecciosos:
+
+
+**2. Sistema hauen abantailak honako hauek dira: Likidoa eta biomasa erraz bereizten dira. Eragile toxikoarekiko eta mikroorganismoen inhibitzailearekiko erresistentzia handiagoa dute...**
+
+En este caso, ""eragile toxikoa"" se refiere a un agente que produce toxicidad, y la frase habla de resistencia a este agente. Dado que no se especifica un contexto médico o farmacéutico (donde se usaría ""inductor""), ni uno tecnológico relacionado con el control de un proceso (donde se usaría ""actuador""), la mejor opción es traducir ""eragile"" como **agente**.
+
+* **Traducción:** Las ventajas de estos sistemas son las siguientes: El líquido y la biomasa se separan fácilmente. Presentan una mayor resistencia al **agente** tóxico y al inhibidor de microorganismos...
+
+
+En resumen, aunque ""eragile"" puede traducirse como ""inductor"" o ""actuador"" en contextos específicos, en estos ejemplos la traducción más adecuada y general es **agente**.
+"
+eragile,"('inductor', 'actuador')","1. **Factores específicos. Factores ambientales. Función. Interacción: MALOCLUSIÓN Y HÁBITOS. FACTORES ESPECÍFICOS TRASTORNOS DEL DESARROLLO EMBRIONARIO O DENTAL. MALOCLUSIÓN Y HÁBITOS.**  (Se mantiene ""maloclusión"" ya que es un término técnico dental).
+
+2. **Deben utilizarse dosis bajas, y no deben generarse subproductos dañinos.  Existen dos tipos de agentes desinfectantes: i) Desinfectantes químicos: cloro (y sus compuestos) y ozono ii) Desinfectantes físicos:...**
+","1. **Inductores específicos. Inductores ambientales. Función. Interacción: MALOCLUSIÓN Y HÁBITOS. INDUCTORES ESPECÍFICOS TRASTORNOS DEL DESARROLLO EMBRIONARIO o DENTAL. MALOCLUSIÓN Y HÁBITOS.**  Aquí, al tratarse de desarrollo dental, se utiliza ""inductor"" como traducción de ""eragile"".
+
+2. **Se deben utilizar dosis bajas, y no se deben generar subproductos dañinos. Existen dos tipos de agentes desinfectantes: i) Desinfectantes químicos: cloro (y sus compuestos) y ozono ii) Desinfectantes físicos:...** En este contexto, relacionado con tecnología ambiental, ""eragile"" se traduce como ""agentes"".  También se podría usar ""actuadores"" si se refiere a dispositivos o mecanismos que realizan la desinfección, aunque el contexto sugiere que se habla de las sustancias desinfectantes en sí.
+","Aquí están las traducciones, teniendo en cuenta el contexto proporcionado para ""eragile"":
+
+1. **Factores específicos. Factores ambientales. Función. Interacción: MALOCLUSIÓN Y HÁBITOS. FACTORES ESPECÍFICOS TRASTORNOS DEL DESARROLLO EMBRIONARIO o DENTAL. MALOCLUSIÓN Y HÁBITOS.**  En este contexto, ""eragile"" se refiere a las causas o factores que contribuyen a la maloclusión, por lo que se traduce como ""factores"".
+
+2. **Se deben utilizar dosis bajas y no se deben generar subproductos dañinos. Existen dos tipos de agentes desinfectantes: i) Desinfectantes químicos: cloro (y sus compuestos) y ozono ii) Desinfectantes físicos:...** En este contexto, relacionado con la desinfección, ""eragile"" se refiere a los agentes que realizan la acción desinfectante, por lo que se traduce como ""agentes"".
+","Veamos las traducciones, teniendo en cuenta el contexto proporcionado:
+
+**Contexto Médico (eragile = inductor/agente)**
+
+1. *Eragile espezifikoak. Inguruneko eragileak. Funtzioa. Elkarreragina: MALOKLUSIOA ETA OHITURAK. ERAGILE ESPEZIFIKOAK ENBRIOI edo HORTZ GARAPENAREN ASALDURAK. MALOKLUSIOA ETA OHITURAK*  ->  **Inductores/Agentes específicos. Inductores/Agentes ambientales. Función. Interacción: MALOCLUSIÓN Y HÁBITOS. INDUCTORES/AGENTES ESPECÍFICOS TRASTORNOS DEL DESARROLLO EMBRIONARIO O DENTAL. MALOCLUSIÓN Y HÁBITOS.**  (Aquí, ""agentes"" podría ser más adecuado que ""inductores"", dependiendo del contexto preciso. Sin más información, ambos son válidos).
+
+2. *Dosi baxuak erabili behar dira, eta ez da azpiproduktu kaltegarririk sortu behar. Bi motatako eragile desinfektatzaileak daude: i) Desinfektatzaile kimikoak: kloroa (eta bere konposatuak) eta ozonoa ii) Desinfektatzaile fisikoak:...* -> **Deben utilizarse dosis bajas, y no deben generarse subproductos dañinos. Existen dos tipos de agentes desinfectantes: i) Desinfectantes químicos: cloro (y sus compuestos) y ozono ii) Desinfectantes físicos:...** (Aquí, ""agentes"" es claramente la mejor opción).
+
+
+
+**Recapitulando las traducciones de los ejemplos para mayor claridad:**
+
+**Medical Sciences (eragile = inductor/agente):**
+
+1. *Hortz bakarrekoa/ugarikoa. 1. ATZEKO HOZKADA GURUTZATUA (CROSSBITE). Etiologia. Eragile genetikoak. Goiko maxilar hipoplasikoa.* ->  Simple/Múltiple. 1. MORDIDA CRUZADA POSTERIOR (CROSSBITE). Etiología. Inductores/Agentes genéticos. Maxilar superior hipoplásico.
+2. *INFEKZIOA DEFINIZIOA Infekzioa kanpoko eragile kutsakor batek organismo ostalari batean sortutako kolonizazioa da. Eragile kutsakorrak:* -> INFECCIÓN DEFINICIÓN La infección es la colonización producida en un organismo huésped por un agente infeccioso externo. Agentes infecciosos:
+3. *Indar etenduek apenas eraginik. Aurpegiko hezurrengan ez hain nabaria: Eragile genetikoek garrantzi handia. Aurpegi biotipoak maloklusioa leundu/areagotu.* -> Las fuerzas externas apenas tienen efecto. En los huesos faciales no tan notable: Los factores/inductores genéticos tienen gran importancia. Los biotipos faciales suavizan/agravan la maloclusión.
+
+**Technological Sciences (eragile = actuador):**
+
+1. *6.- Nitrogeno oxidoak (NOx-ak)…. A.- karbono monoxidoarekin batera, euri azidoaren eragile nagusiak dira. B.- erregaiek duten nitrogenoa murriztuz nabariki kontrolatu ahal dira.* -> 6.- Óxidos de nitrógeno (NOx)…. A.- junto con el monóxido de carbono, son los principales causantes/agentes de la lluvia ácida. B.- se pueden controlar notablemente reduciendo el nitrógeno presente en los combustibles. (Aquí, ""causantes"" o ""agentes"" se ajustan mejor que ""actuadores"")
+2. *Sistema hauen abantailak honako hauek dira: Likidoa eta biomasa erraz bereizten dira. Eragile toxikoarekiko eta mikroorganismoen inhibitzailearekiko erresistentzia handiagoa dute...* -> Las ventajas de estos sistemas son las siguientes: El líquido y la biomasa se separan fácilmente. Tienen mayor resistencia al agente tóxico y al inhibidor de microorganismos...
+3. *(V) Garraioa, eraldaketa eta deposizioa. Garraioaren bidez kutsatzailea iturritik hartzailera ailegatzen da. Eragile nagusia haizea da.* -> (V) Transporte, transformación y deposición. A través del transporte, el contaminante llega desde la fuente al receptor. El principal agente/factor es el viento.
+
+
+La clave está en entender que ""eragile"" es una palabra polivalente y su traducción depende completamente del contexto.  Es importante analizar el significado dentro de la oración para elegir la traducción más adecuada.
+"
+eragile,"('inductor', 'actuador')","1. Las fuerzas externas apenas tienen influencia. En los huesos faciales es menos notorio: Los factores genéticos tienen gran importancia. Los biotipos faciales pueden suavizar/agravar la maloclusión.
+
+2. (V) Transporte, transformación y deposición. A través del transporte, el contaminante llega desde la fuente hasta el receptor. El principal agente es el viento.
+","1. Las fuerzas externas tienen escasa influencia. En los huesos faciales es menos evidente: Los **inductores** genéticos tienen gran importancia. Los biotipos faciales suavizan/agravan la maloclusión.
+
+2. (V) Transporte, transformación y deposición. A través del transporte, el contaminante llega desde la fuente al receptor. El **actuador** principal es el viento.
+","Aquí están las traducciones, teniendo en cuenta los contextos proporcionados para ""eragile"":
+
+1. **Las fuerzas externas apenas tienen influencia.** En los huesos faciales, menos notable aún: **Los factores genéticos** tienen gran importancia. Los biotipos faciales suavizan/agravan la maloclusión.
+
+2. (V) Transporte, transformación y deposición. A través del transporte, el contaminante llega desde la fuente hasta el receptor. **El agente principal** es el viento.
+
+
+Explicación de las elecciones de traducción:
+
+* En la primera frase, ""eragile genetikoek"" se traduce como ""factores genéticos"" ya que el contexto se refiere a la influencia en el desarrollo facial, un tema relacionado con la genética y la biología.  Aunque ""inductor genético"" podría ser técnicamente correcto, ""factor genético"" es más común y natural en este contexto.
+
+* En la segunda frase, ""eragile nagusia"" se traduce como ""agente principal"" porque el contexto describe el transporte de un contaminante, un proceso físico dentro del ámbito de la tecnología ambiental. ""Agente"" encaja mejor que ""inductor"" al referirse a la fuerza que causa el movimiento del contaminante.
+","Aquí están las traducciones, teniendo en cuenta el contexto proporcionado:
+
+1. **Contexto Médico (genética/malocusión):**  Fuerzas intermitentes con escaso efecto. Menos notorio en huesos faciales: Factores genéticos de gran importancia. Biotipo facial atenúa/agrava la maloclusión.
+
+    * Aquí, ""eragile genetikoek"" se traduce como ""factores genéticos"" manteniendo la consistencia con los ejemplos médicos previos.
+
+2. **Contexto Ambiental (contaminación/transporte):** (V) Transporte, transformación y deposición. Mediante el transporte, el contaminante llega desde la fuente al receptor. El principal agente es el viento.
+
+    * En este caso, ""eragile nagusia"" se traduce como ""agente principal"" ya que se refiere a un factor ambiental (viento) que transporta un contaminante.  Si bien ""actuador"" podría usarse en tecnología ambiental, aquí no tiene sentido en el contexto de transporte de contaminantes por el viento.
+"
+eragile,"('inductor', 'actuador')","1. **Simple/Múltiple.** 1. **MORDIDA CRUZADA POSTERIOR.** Etiología. Factores genéticos. Maxilar superior hipoplásico.
+
+2. 6.- Los óxidos de nitrógeno (NOx)… A.- junto con el monóxido de carbono, son los principales causantes de la lluvia ácida. B.- se pueden controlar significativamente reduciendo el nitrógeno presente en los combustibles.
+","1. Unitario/Múltiple. 1. MORDIDA CRUZADA POSTERIOR. Etiología. Factores/Inductores genéticos. Maxilar superior hipoplásico.
+
+2. 6.- Los óxidos de nitrógeno (NOx)… A.- junto con el monóxido de carbono, son los principales causantes/agentes/precursores de la lluvia ácida. B.- se pueden controlar significativamente reduciendo el nitrógeno presente en los combustibles.
+
+
+En el segundo ejemplo, aunque el contexto es de tecnología ambiental,  ""eragile"" no se traduce como ""actuador"".  ""Actuador"" se refiere a un dispositivo mecánico que realiza una acción.  En este caso, los NOx no ""actúan"" para producir la lluvia ácida, sino que son un componente esencial en su formación. Por eso, opciones como ""causantes"", ""agentes"" o ""precursores"" son más adecuadas.
+","1. Único/Múltiple dental. 1. MORDIDA CRUZADA POSTERIOR. Etiología. **Factores** genéticos. Maxilar superior hipoplásico.
+
+2. 6.- Óxidos de nitrógeno (NOx)… A.- junto con el monóxido de carbono, son los principales **causantes/agentes** de la lluvia ácida. B.- se pueden controlar notablemente reduciendo el nitrógeno presente en los combustibles.
+
+
+Explicación de las elecciones:
+
+* En el primer caso, al tratarse de genética en un contexto médico, ""eragile genetikoak"" se traduce como ""factores genéticos"".  Aunque ""inductor"" podría usarse, ""factor"" es más común y natural en este contexto.
+
+* En el segundo caso, al hablar de lluvia ácida en un contexto ambiental, ""eragile nagusiak"" se traduce como ""causantes"" o ""agentes"" principales. ""Actuador"" no tendría sentido en este contexto.  ""Causante"" enfatiza la responsabilidad del NOx en la lluvia ácida, mientras que ""agente"" es un término más general.  Ambas opciones son válidas.
+","Observamos que ""eragile"" se traduce como ""inductor"" en el contexto médico/farmacéutico, y como ""actuador"" en el contexto tecnológico/ambiental.  Sin embargo, en los ejemplos dados y en las frases a traducir, ""eragile"" parece tener un significado más general de ""factor"" o ""agente"", a veces ""causante"".  Aplicaremos esta lógica a las frases a traducir:
+
+1. **Contexto médico:** Hortz bakarrekoa/ugarikoa. 1. ATZEKO HOZKADA GURUTZATUA (CROSSBITE). Etiologia. Eragile genetikoak. Goiko maxilar hipoplasikoa.
+
+**Traducción:** Único/Múltiple dental. 1. MORDIDA CRUZADA POSTERIOR (CROSSBITE). Etiología. **Factores** genéticos. Maxilar superior hipoplásico.
+
+
+2. **Contexto ambiental:** 6.- Nitrogeno oxidoak (NOx-ak)…. A.- karbono monoxidoarekin batera, euri azidoaren eragile nagusiak dira. B.- erregaiek duten nitrogenoa murriztuz nabariki kontrolatu ahal dira.
+
+**Traducción:** 6.- Óxidos de nitrógeno (NOx)…. A.- junto con el monóxido de carbono, son los **principales causantes** de la lluvia ácida. B.- pueden controlarse notablemente reduciendo el nitrógeno presente en los combustibles.
+
+
+En resumen, aunque ""eragile"" puede traducirse como ""inductor"" o ""actuador"" en contextos específicos, una traducción más general y precisa en estos casos es ""factor"", ""agente"" o ""causante"", dependiendo del contexto específico de la frase.
+"
+eragin,"('efecto', 'impacto')","1. Algunas patologías neurológicas tienen un impacto directo en la cognición. Evaluación ORL (otorrinolaringológica) y oftalmológica.
+
+2. Dado que en este tratamiento se generan contaminantes, es necesario utilizar sistemas de control para reducir los efectos nocivos de estos compuestos.
+","1. Algunas patologías neurológicas tienen un **efecto** directo sobre la cognición.  Evaluación ORL y oftalmológica.
+
+2. Dado que en este tratamiento se generan contaminantes, se deben utilizar sistemas de control para reducir los **impactos** negativos de estos compuestos.
+","Dado el contexto proporcionado, las traducciones serían:
+
+1. **Contexto médico:** Algunas patologías neurológicas tienen un **efecto** directo en la cognición. Evaluación ORL y oftalmológica.
+
+2. **Contexto tecnológico/ambiental:**  Dado que en este tratamiento se generan contaminantes, se deben utilizar sistemas de control para reducir los **impactos** perjudiciales de estos compuestos.
+","Aquí tienes la traducción de las frases, teniendo en cuenta el contexto proporcionado:
+
+1. **Contexto: Medical Sciences (probablemente)**  Algunas patologías neurológicas tienen un **efecto** directo en la cognición. Evaluación ORL y oftalmológica.  (Aquí se habla de la influencia directa de la patología en la cognición, similar al ""efecto"" del fluoruro y la clorhexidina.)
+
+2. **Contexto: Technological Sciences > Environmental technology and engineering** En este tratamiento, dado que se generan contaminantes, se deben utilizar sistemas de control para reducir los **impactos** negativos de estos compuestos. (Se refiere a las consecuencias negativas en el medio ambiente, similar a los ejemplos de ""impacto"" en la tecnología ambiental.)
+"
+eragin,"('efecto', 'impacto')","1. **DENTRO DE LA ORTESIS:** Ortesis para contener el crecimiento de zonas con concordancia o injertos. **MECANISMO DE ACCIÓN:** ...
+
+2. ...: Aguas superficiales y subterráneas Generación de gases y lixiviados. Las ventajas de este método son su fácil instalación, bajos costos y menor impacto ambiental si se controla y gestiona adecuadamente.
+","1. **DENTRO DE LA ÓRTESIS:** Órtesis para contener el crecimiento de áreas concordantes o en proceso de abonbamiento. **MECANISMO DE ACCIÓN:** ...
+
+2. ...: Aguas superficiales y subterráneas. Generación de gas y lixiviados. Las ventajas de este método son la facilidad de instalación, los bajos costes y el **menor impacto ambiental** si se controla y gestiona adecuadamente.
+","Dado que ""eragin"" se traduce como ""efecto"" en el contexto farmacéutico/médico y como ""impacto"" en el contexto ambiental/tecnológico, las traducciones serían:
+
+1. **DENTRO DE LA ORTESIS:** ORTESIS para contener el crecimiento de las áreas donde hay concordancia o abombamiento. **MECANISMO DE ACCIÓN:** ...
+
+    * Aquí se usa ""efecto"" implícitamente en ""mecanismo de acción"", que describe el efecto de la órtesis.  Por lo tanto, ""eragin"" en este contexto, relacionado con el funcionamiento de un dispositivo médico, se acerca más a ""efecto"" que a ""impacto"".
+
+2. ...: Aguas superficiales y subterráneas. Generación de gases y lixiviados. Las ventajas de este método son su fácil instalación, bajo coste y **menor impacto ambiental** si se controla y gestiona adecuadamente.
+
+    * Claramente, al hablar de ""medio ambiente"", ""eragin"" se traduce como ""impacto"".
+","Aquí tienes la traducción de las frases, teniendo en cuenta el contexto proporcionado:
+
+1. **ORTESIS INTERNA:** Ortesis para contener el crecimiento de áreas con concordancia o abonbamiento. **MECANISMO DE ACCIÓN:** ...  (Aquí ""eragin"" se traduce como ""acción"" ya que se refiere al funcionamiento de la ortesis, similar al efecto de un fármaco).
+
+2. ...: Aguas superficiales y subterráneas. Generación de gases y lixiviados. Las ventajas de este método son la facilidad de instalación, los bajos costes y el **menor impacto ambiental** si se controla y gestiona adecuadamente. (Aquí mantenemos ""impacto"" dado el contexto ambiental).
+"
+eragin,"('efecto', 'impacto')","1. **Diferencias entre la dentición temporal y la permanente. Implicaciones clínicas de la anatomía dental primaria.**  (Esta traducción asume que ""behin betiko"" se refiere a la dentición permanente y ""esne hortzen"" a la dentición temporal o de leche. ""Hortz iragankor"" parece redundante en este contexto, ya que los dientes de leche son, por definición, transitorios. Se ha optado por una traducción más concisa y natural.)
+
+2. **4.1. Introducción.**  **Cuando los contaminantes se vierten a la atmósfera, se dispersan. Este fenómeno tiene un efecto determinante en los valores de inmisión, y, consecuentemente, también en el nivel de contaminación que sufren los componentes de la biosfera.**
+","1. **Diferencias entre la dentición temporal y la permanente: efectos clínicos de la anatomía dental eruptiva.**  (Contexto: Ciencias Médicas > Tecnología Farmacéutica -  Usamos ""efectos"" ya que se relaciona con anatomía y clínica dental)
+
+
+2. **4.1. Introducción  Cuando se emiten contaminantes a la atmósfera, se dispersan. Este fenómeno tiene un impacto decisivo en los valores de inmisión y, en consecuencia, también en el nivel de contaminación que sufren los componentes de la biosfera.** (Contexto: Ciencias Tecnológicas > Ingeniería y Tecnología Ambiental - Usamos ""impacto"" al hablar de contaminación y la biosfera).
+","Dado que ""eragin"" se traduce como ""efecto"" en el contexto farmacéutico/odontológico y como ""impacto"" en el contexto ambiental, las traducciones serían:
+
+1. **BEHIN BETIKO ETA ESNE HORTZEN ARTEKO DESBERDINTASUNAK HORTZ IRAGANKOR ANATOMIAREN ERAGIN KLINIKOAK:**  Diferencias entre dientes permanentes y dientes de leche: efectos clínicos de la anatomía de los dientes deciduos.
+
+2. **4.1. SARRERA Kutsatzaileak atmosferara isurtzen direnean, sakabanatu egiten dira. Fenomeno horrek immisio-balioetan eragin erabakigarria du, eta, horren ondorioz, biosferaren osagaiek jasaten duten kutsadura mailan ere bai.** 4.1. INTRODUCCIÓN Cuando se liberan contaminantes a la atmósfera, se dispersan. Este fenómeno tiene un impacto decisivo en los valores de inmisión y, en consecuencia, también en el nivel de contaminación que sufren los componentes de la biosfera.
+","Dado que los ejemplos proporcionados establecen la traducción de ""eragin"" como ""efecto"" en el contexto médico/farmacéutico y ""impacto"" en el contexto tecnológico/ambiental, las traducciones serían:
+
+1. **BEHIN BETIKO ETA ESNE HORTZEN ARTEKO DESBERDINTASUNAK HORTZ IRAGANKOR ANATOMIAREN ERAGIN KLINIKOAK:**  DIFERENCIAS ENTRE DIENTES PERMANENTES Y DE LECHE: EFECTOS CLÍNICOS DE LA ANATOMÍA DENTAL ERUPCIONANTE (o  EFECTOS CLÍNICOS DE LA ANATOMÍA DE LA DENTICIÓN EN ERUPCIÓN).  Dado que se habla de anatomía y diferencias entre dientes, el contexto es médico/odontológico, por lo que se usa ""efectos"".
+
+2. **4.1. SARRERA Kutsatzaileak atmosferara isurtzen direnean, sakabanatu egiten dira. Fenomeno horrek immisio-balioetan eragin erabakigarria du, eta, horren ondorioz, biosferaren osagaiek jasaten duten kutsadura mailan ere bai.** 4.1. INTRODUCCIÓN Cuando los contaminantes se vierten a la atmósfera, se dispersan. Este fenómeno tiene un impacto decisivo en los valores de inmisión y, en consecuencia, también en el nivel de contaminación que sufren los componentes de la biosfera.  Claramente, al tratarse de contaminación atmosférica, el contexto es ambiental, y por tanto se usa ""impacto"".
+"
+eragin,"('efecto', 'impacto')","1. Los hallazgos clínicos, radiológicos e histológicos de tipo I tienen el mismo efecto en ambas denticiones. Es muy raro que haya casos de OI en la familia,...
+
+2.  Muchos factores climáticos intervienen: la dirección y velocidad del viento, la temperatura y humedad relativa del aire, la turbulencia, la radiación solar… La influencia combinada de todos ellos da lugar a una atmósfera con diferentes niveles de estabilidad.
+","1. Hallazgos clínicos, radiológicos e histológicos como los de tipo I, tienen el mismo **efecto** en ambas denticiones. Es muy raro que haya casos de OI en la familia,...
+
+2. Muchos factores climáticos intervienen: la dirección y velocidad del viento, la temperatura y humedad relativa del aire, la turbulencia, la radiación solar… El **impacto** combinado de todos ellos da lugar a una atmósfera con diferentes grados de estabilidad.
+","Aquí tienes las traducciones, teniendo en cuenta las distinciones que has indicado:
+
+1. Los hallazgos clínicos, radiológicos e histológicos de tipo I tienen el mismo **efecto** en ambas denticiones. Es muy raro que haya casos de OI en la familia...  (Aquí se usa ""efecto"" porque el contexto se refiere a consecuencias médicas/biológicas en el cuerpo.)
+
+2. Muchos factores climáticos intervienen: la dirección y velocidad del viento, la temperatura y humedad relativa del aire, la turbulencia, la radiación solar… El **impacto** combinado de todos ellos da lugar a una atmósfera con diferentes niveles de estabilidad. (Aquí se usa ""impacto"" porque se trata de la influencia de factores ambientales en un sistema mayor, la atmósfera.)
+","Veamos las traducciones, teniendo en cuenta el contexto proporcionado:
+
+**Contexto Médico (eragin = efecto):**
+
+1. Los hallazgos clínicos, radiológicos e histológicos de tipo I tienen el mismo **efecto** en ambas denticiones. Es muy raro encontrar casos de OI en la familia,...
+
+2. Algunos trastornos neurológicos tienen un **efecto** directo sobre la cognición. Evaluación ORL y oftalmológica.
+
+
+**Contexto Tecnológico/Ambiental (eragin = impacto):**
+
+1. 4.1. INTRODUCCIÓN Cuando los contaminantes se emiten a la atmósfera, se dispersan. Este fenómeno tiene un **impacto** decisivo en los valores de inmisión y, en consecuencia, también en el nivel de contaminación que sufren los componentes de la biosfera.
+
+2. Dado que en este tratamiento se generan contaminantes, se deben utilizar sistemas de control para reducir los **impactos** dañinos de estos compuestos.
+
+3. Concentración de CO en el aire (mg/Nm3)  **Efectos** < 4 No hay **efectos** apreciables.
+
+
+**Traducciones de las frases nuevas:**
+
+1.  Los hallazgos clínicos, radiológicos e histológicos de tipo I tienen el mismo **efecto** en ambas denticiones. Es muy raro encontrar casos de OI en la familia,... (Contexto médico)
+
+2.  Muchos factores climáticos intervienen: la dirección y velocidad del viento, la temperatura y humedad relativa del aire, la turbulencia, la radiación solar… El **impacto** combinado de todos ellos da lugar a una atmósfera con diferentes niveles de estabilidad. (Contexto ambiental - se refiere a la influencia en la atmósfera)
+"
+eragin,"('efecto', 'impacto')","1. **Alteraciones en la secuencia de erupción de la dentición permanente y sus implicaciones clínicas.**  (This translates the meaning directly.  A more natural phrasing, depending on the specific context, could be: *Cambios en la secuencia eruptiva de la dentición permanente y sus consecuencias clínicas.*)
+
+2. **Evaluación de Impacto Ambiental (EIA) para definir las características del impacto y minimizar su efecto...** (Again, a more natural phrasing might be: *Evaluación de Impacto Ambiental (EIA) para caracterizar el impacto y minimizar sus efectos...*  or even  *...y mitigar su impacto...*)
+","1. Alteraciones en la secuencia de erupción de la dentición permanente y sus **efectos** clínicos. (Contexto médico/odontológico)
+
+2. La Evaluación de Impacto Ambiental (EIA) para definir las características del impacto y minimizar su **impacto**... (Contexto ambiental/ingeniería)
+","Dado que ""eragin"" se traduce como ""efecto"" en contextos médicos/farmacéuticos y como ""impacto"" en contextos tecnológicos/ambientales, las traducciones serían:
+
+1. **4. Alteraciones en la secuencia de erupción de la dentición permanente y sus efectos clínicos.**  (Contexto médico/odontológico)
+
+2. **Evaluación de Impacto Ambiental (EIA) para definir las características del impacto y minimizar su efecto...** (Contexto tecnológico/ambiental. Aunque se hable de ""impacto ambiental"", la *minimización* del mismo se refiere a su *efecto* concreto.)
+","Aquí están las traducciones, teniendo en cuenta el contexto proporcionado:
+
+1. **4. Alteraciones en la secuencia de erupción de la dentición permanente y sus consecuencias clínicas.**  En este contexto, relacionado con odontología (que se encuentra dentro de las ciencias médicas), ""eragin klinikoak"" se traduce como ""consecuencias clínicas"", similar a ""efecto"".
+
+2. **Evaluación de Impacto Ambiental (EIA) para definir las características del impacto y minimizar su impacto...** Aquí, claramente en el ámbito ambiental, ""eragina"" se traduce como ""impacto"".
+"
+eragin,"('efecto', 'impacto')","1. **Efectos locales:** Pérdida prematura de un diente temporal causada por un absceso o traumatismo.
+
+2. ...o impacto ambiental: Que no requiere medidas protectoras o correctoras intensivas de recuperación y...
+","1. **Efectos locales:** Pérdida prematura de dientes deciduos causada por abscesos o traumatismos.  (Contexto médico/farmacéutico)
+
+2. ...o **impacto ambiental:** Que no requiere medidas protectoras o medidas correctoras intensivas de recuperación y... (Contexto tecnológico/ambiental)
+","Dado el contexto proporcionado para la traducción de ""eragin"" como ""efecto"" en el ámbito farmacéutico y ""impacto"" en el ámbito medioambiental, las traducciones serían:
+
+1. **Efectos locales:** pérdida prematura de un diente temporal causada por un absceso o traumatismo.
+
+2. ...o **impacto ambiental:** Que no requiere medidas protectoras o correctoras intensivas de recuperación y...
+","Aquí están las traducciones, teniendo en cuenta el contexto proporcionado:
+
+**Contexto Médico (efecto):**
+
+1. Su efecto antipirético es principalmente central (en el hipotálamo).
+2. Tienen un efecto analgésico periférico (actúan en el lugar donde se produce el estímulo doloroso).
+3. Tienen un efecto analgésico periférico (actúan en el lugar donde se produce el estímulo doloroso), no en el sistema nervioso central, como los opioides.
+
+**Contexto Tecnológico/Ambiental (impacto):**
+
+1. Los principales impactos de los óxidos de nitrógeno se analizarán más adelante, ya que también intervienen otros contaminantes aún no estudiados.
+2. Concentración de CO en el aire (mg/Nm3)  Impactos < 4 No hay impactos notables.
+3. Entre estos impactos se encuentran, entre otros, el smog fotoquímico o seco, la lluvia ácida y la destrucción de la capa de ozono.
+
+
+**Traducciones solicitadas:**
+
+1. **Efectos locales:** pérdida prematura del diente deciduo causada por un absceso o traumatismo.  (Contexto médico, por lo tanto, ""efecto"")
+2. ...o impacto ambiental: Que no requiere medidas protectoras o correctoras intensivas de recuperación y... (Contexto ambiental, por lo tanto, ""impacto"")
+"
+eragin,"('efecto', 'impacto')","1. El fluoruro y la clorhexidina no deben mezclarse ni usarse uno después del otro debido a su efecto antagónico.
+
+2. Como resultado de este impacto, se produce una pérdida definitiva de la calidad de las condiciones ambientales, sin posibilidad de recuperación, incluso adoptando medidas protectoras o correctoras.
+","1. El fluoruro y la clorhexidina no deben mezclarse ni utilizarse uno después del otro debido a su **efecto** antagónico. (Contexto farmacéutico)
+
+2. Como consecuencia de este **impacto**, se produce una pérdida irreversible de la calidad de las condiciones ambientales, sin posibilidad de recuperación, incluso adoptando medidas protectoras o correctoras. (Contexto ambiental)
+","1. El fluoruro y la clorhexidina no deben mezclarse ni usarse uno después del otro debido a su **efecto** antagónico. (Aquí el contexto es claramente farmacéutico/odontológico, similar al ejemplo proporcionado.)
+
+2. Como consecuencia de este **impacto**, se produce una pérdida irreversible de la calidad de las condiciones ambientales, sin posibilidad de recuperación, incluso con la aplicación de medidas protectoras o correctoras. (Aquí el contexto se refiere a la calidad ambiental, similar al ejemplo de tecnología ambiental proporcionado, y habla de una pérdida definitiva, lo que sugiere un impacto más contundente que un simple efecto.)
+","Analizando los ejemplos, vemos que ""eragin"" se traduce como ""efecto"" cuando se habla de consecuencias directas sobre un organismo o sustancia, y como ""impacto"" cuando se refiere a consecuencias sobre el medio ambiente.  Por lo tanto:
+
+1. **Fluoruroa eta klorhexidena ez dira nahastu ezta bata bestearen ondoren erabili beha eragin antagonikoa dutelako.**  ->  Fluoruro y clorhexidina no deben mezclarse ni usarse uno después del otro porque tienen un **efecto** antagónico. (Contexto de química/farmacología, se habla de la interacción entre dos sustancias).
+
+
+2. **Eragin horren ondorioz, behin betiko galtzen da ingurumen-baldintzen kalitatea, eta ez dago berreskuratzeko inongo aukerarik, ezta neurri babesleak edo zuzentzaileak hartuta ere.** ->  Como consecuencia de ese **impacto**, se pierde definitivamente la calidad de las condiciones ambientales, y no existe ninguna posibilidad de recuperación, ni siquiera tomando medidas protectoras o correctoras. (Claramente se habla del impacto sobre el medio ambiente).
+"
+eragin,"('efecto', 'impacto')","1. Tienen un efecto analgésico periférico (actúan en el lugar donde se produce el estímulo doloroso).
+
+
+2. Concentración de CO en el aire (mg/Nm3) Efectos < 4 No hay efectos apreciables.
+","1. Tienen un **efecto** analgésico periférico (actúan en el lugar donde se produce el estímulo doloroso).
+
+2. Concentración de CO en el aire (mg/Nm3) **Impactos** < 4 No hay **impacto** apreciable.
+","Aquí tienes las traducciones, considerando el contexto proporcionado:
+
+1. **Ejercen un efecto analgésico periférico (actúan en el lugar donde se produce el estímulo doloroso).**  Dado que se habla de un efecto farmacológico (analgésico), usamos ""efecto"" como en el ejemplo médico.
+
+2. **Concentración de CO en el aire (mg/Nm3)  Efectos < 4 No hay efectos apreciables.**  Aunque se menciona CO (monóxido de carbono) que podría relacionarse con la tecnología ambiental, el contexto de la frase describe los *efectos* de la concentración, lo cual se asemeja más al ejemplo médico de ""efecto"" que al de ""impacto"" ambiental.  Si la frase se refiriera al impacto del CO en el medio ambiente, entonces sí usaríamos ""impacto"".
+","Dado que las frases proporcionadas para traducir se refieren a efectos analgésicos y concentraciones de CO en el aire, el contexto es más cercano a las ciencias médicas/farmacéuticas que a las ciencias ambientales. Por lo tanto, ""eragin"" se traducirá como ""efecto"".
+
+1. **Tienen un efecto analgésico periférico (tienen efecto en el lugar donde se produce el estímulo doloroso).**
+
+2. **Concentración de CO en el aire (mg/Nm3)  Efectos < 4 No hay efectos notables.**
+"
+eragin,"('efecto', 'impacto')","1. Su efecto antipirético se centra principalmente (en el hipotálamo).
+2. Los principales efectos de los óxidos de nitrógeno se analizarán más adelante, ya que también intervienen otros contaminantes que aún no se han estudiado.
+","1. Su efecto antipirético es principalmente central (en el hipotálamo).
+
+2. Los principales impactos de los óxidos de nitrógeno se analizarán más adelante, ya que también intervienen otros contaminantes que aún no se han estudiado.
+","1. Su efecto antipirético es principalmente central (en el hipotálamo).
+
+2. Los principales efectos de los óxidos de nitrógeno se analizarán más adelante, ya que también intervienen otros contaminantes que aún no se han estudiado.
+","Dado el contexto proporcionado, la traducción sería la siguiente:
+
+1. **Medical Sciences (efecto):**  Su efecto antipirético es principalmente central (en el hipotálamo).
+
+2. **Technological Sciences (impacto):** Los principales impactos de los óxidos de nitrógeno se analizarán más adelante, ya que también intervienen otros contaminantes que aún no se han estudiado.
+"
+eragin,"('efecto', 'impacto')","1. Tienen un efecto analgésico periférico (actúan en el lugar donde se produce el estímulo doloroso), no en el sistema nervioso central, como los opioides.
+
+2. Entre estos efectos se encuentran, entre otros, el smog fotoquímico o seco, la lluvia ácida y la destrucción de la capa de ozono.
+","1. Tienen un **efecto** analgésico periférico (actúan en el lugar donde se produce el estímulo doloroso), no en el sistema nervioso central, como los opioides.
+
+2. Entre estos **impactos** se encuentran, entre otros, el smog fotoquímico o seco, la lluvia ácida y la destrucción de la capa de ozono.
+","Dado que ""eragin"" se traduce como ""efecto"" en el contexto farmacéutico y como ""impacto"" en el contexto medioambiental, las traducciones serían:
+
+1. Tienen **efecto** analgésico periférico (actúan en el lugar donde se produce el estímulo doloroso), no en el sistema nervioso central, como los opioides.
+
+2. Entre estos **impactos** se encuentran, entre otros, el smog fotoquímico o seco, la lluvia ácida y la destrucción de la capa de ozono.
+","Observando los ejemplos, vemos que ""eragin"" se traduce como ""efecto"" en contextos médicos/farmacéuticos y como ""impacto"" en contextos ambientales.  Apliquemos esto a las nuevas frases:
+
+1. **Contexto médico/farmacéutico:**  ""Eragin analgesiko periferikoa dute (estimulu mingarria gertatzen den gunean dute eragina), ez nerbio-sistema zentralean, opioideak bezala.""  ->  Tienen **efecto** analgésico periférico (actúan en el lugar donde se produce el estímulo doloroso), no en el sistema nervioso central, como los opioides.
+
+
+2. **Contexto ambiental:** ""Eragin horien artean, besteak beste, smog fotokimikoa edo lehorra, euri azidoa eta ozono-geruzaren suntsipena ditugu."" -> Entre estos **impactos** se encuentran, entre otros, el smog fotoquímico o seco, la lluvia ácida y la destrucción de la capa de ozono.
+"
+estalki,"('recubrimiento', 'cubierta')","1. Estructura del cerebelo: La sustancia gris del cerebelo se divide en dos áreas: superficialmente, como una cubierta, la corteza cerebelosa, y en los núcleos profundos del cerebelo.
+
+
+2. Cerca del suelo, la dispersión es grande, pero a cierta altura, hay un punto de inversión, y la difusión vertical está limitada. La inversión actúa como una tapa que impide la dispersión vertical, pero la dispersión por debajo de la inversión lleva los contaminantes a la superficie de la tierra en altas concentraciones.
+","1. Estructura del cerebelo: La sustancia gris del cerebelo se divide en dos áreas: superficialmente, como **recubrimiento**, forma la corteza cerebelosa, y en los núcleos profundos del cerebelo.
+
+2. Cerca del suelo, la dispersión es grande, pero a cierta altura hay un punto de inversión y la difusión vertical es limitada. La inversión actúa como una **cubierta** que impide la dispersión vertical, pero la dispersión por debajo de la inversión lleva los contaminantes a la superficie del suelo en altas concentraciones.
+","Aquí tienes la traducción de los contextos al español, teniendo en cuenta las especificaciones que has proporcionado:
+
+1. **Estructura del cerebelo:** La sustancia gris del cerebelo se distribuye en dos zonas: superficialmente, como **cubierta**, formando la corteza cerebelosa, y en los núcleos profundos del cerebelo.
+
+2. **Cerca del suelo, la dispersión es grande, pero a cierta altura, hay un punto de inversión, y la difusión vertical está limitada. La inversión actúa como una **cubierta** que impide la dispersión vertical, pero la dispersión debajo de la inversión lleva los contaminantes a la superficie del suelo en altas concentraciones.**
+
+
+He optado por ""cubierta"" en ambos casos.  Si bien ""recubrimiento"" podría funcionar en el primer ejemplo, ""cubierta"" es más natural y se entiende mejor en el contexto anatómico.  En el segundo ejemplo, ""cubierta"" se ajusta perfectamente a la idea de una capa que impide el paso de algo, similar a una tapa o una barrera.
+",⚠️ Prompt no construido (faltan ejemplos)
+estalki,"('recubrimiento', 'cubierta')","1. Abre la sonda. La sonda tendrá dos tapas. Retira completamente la primera tapa. La segunda no la retires del todo, solo la punta de la sonda.
+
+
+2. Las alteraciones cognitivas previamente observadas tienen un impacto directo en las capacidades funcionales del paciente.
+","1. -Sonda abierta. La sonda tendrá dos **recubrimientos**. Retire completamente el primer **recubrimiento**. No retire completamente el segundo, solo el de la punta de la sonda.
+
+2. Las alteraciones cognitivas previamente observadas tienen un impacto directo en las capacidades funcionales del paciente.
+","Aquí tienes la traducción de los contextos al español, teniendo en cuenta las especificaciones que has proporcionado:
+
+1. **-Abrir la sonda. La sonda tendrá dos cubiertas. Retirar completamente la primera cubierta. La segunda no se retira del todo, solo la parte del extremo de la sonda.**  (Aquí usamos ""cubierta"" ya que se asemeja más a un contexto tecnológico/de instrucciones).
+
+
+2. **Las alteraciones cognitivas previamente observadas tienen un impacto directo en las capacidades funcionales del paciente.** (Aquí no aparece ""estalki"", por lo que se traduce la frase normalmente).
+",⚠️ Prompt no construido (faltan ejemplos)
+talka,"('percusión', 'colisión')","1. La desfibrilación debe realizarse a máxima energía (360 J en monofásica, 200 J como mínimo en bifásica), y se administra una descarga cada dos minutos mientras persista la fibrilación o la taquicardia.
+
+2. Explosivos: son aquellos que pueden detonar por efecto de la llama, el calor, la fricción, el impacto… (nitroglicerina).
+","1. La desfibrilación debe realizarse a la máxima energía (360 J en monofásica, 200J como mínimo en bifásica), y se administra una **descarga** cada dos minutos, mientras persista la fibrilación o la taquicardia.
+
+2. Explosivos: son los que pueden explotar por efecto de la llama, el calor, la fricción, el **impacto**… (nitroglicerina).
+","Dado que ""talka"" tiene dos traducciones posibles según el contexto (""percusión"" para ciencias farmacéuticas y ""colisión"" para ingeniería ambiental), traduciremos las frases considerando estos significados:
+
+1. **Contexto médico (desfibrilación):**  La desfibrilación debe realizarse a máxima energía (360 J monofásica, 200J bifásica como mínimo), y se aplica una **descarga** cada dos minutos, mientras persista la fibrilación o la taquicardia.
+
+    * Aquí, ""talka"" se refiere a la descarga eléctrica del desfibrilador, por lo que ""descarga"" es la traducción más adecuada.  Otras opciones válidas podrían ser ""choque"" o ""impulso"".  Evitaríamos ""percusión"" ya que, aunque aparece en el glosario farmacéutico, en este contexto médico se presta a confusión.
+
+
+2. **Contexto de ingeniería (explosivos):** Los explosivos son sustancias que pueden detonar por la acción de la llama, el calor, la fricción, el **impacto**… (nitroglicerina).
+
+    * En este caso, ""talka"" describe una colisión física que desencadena la explosión.  ""Impacto"" es la traducción más precisa.  ""Colisión"" también sería válida, aunque menos común en este contexto específico.  ""Percusión"" sería incorrecto en este caso.
+","Aquí están las traducciones, teniendo en cuenta el contexto proporcionado:
+
+1. La desfibrilación debe realizarse con la máxima energía (360 J monofásica, 200J mínimo bifásica), y se administra una **descarga** cada dos minutos, mientras persista la fibrilación o la taquicardia.  (Contexto médico, talka = descarga eléctrica)
+
+2. Explosivos: son aquellos que pueden detonar por la acción de la llama, el calor, la fricción, el **impacto**… (nitroglicerina). (Contexto tecnológico, talka = impacto o colisión)
+
+
+He elegido ""descarga"" para el contexto médico, ya que se refiere a la descarga eléctrica del desfibrilador.  En el contexto de explosivos, ""impacto"" es más adecuado que ""colisión"", aunque ambos podrían funcionar. ""Impacto"" enfatiza la fuerza del golpe que causa la detonación.
+"
+talka,"('percusión', 'colisión')","1. Si no logramos estas dos medidas en 2 minutos, lo intentaremos después de la siguiente charla/conversación.
+
+
+2. Deposición seca: las partículas se sedimentan por efecto de la gravedad, así como al impactar contra un obstáculo (por ejemplo, al chocar contra un edificio,...
+","1. Si no conseguimos estas dos medidas en 2 minutos, lo intentaremos tras la siguiente **percusión**. (Contexto farmacéutico/tecnología farmacéutica)
+
+2. Deposición seca: las partículas se sedimentan por efecto de la gravedad, así como por **colisión** con un obstáculo (por ejemplo, al chocar con un edificio,... (Contexto de tecnología/ingeniería ambiental)
+","Aquí tienes las traducciones, considerando los diferentes significados de ""talka"":
+
+1. **Contexto médico:** Si no logramos estas dos medidas en 2 minutos, lo intentaremos tras la siguiente **descarga**.  (Aquí ""talka"" se refiere a la descarga eléctrica del desfibrilador).
+
+2. **Contexto tecnológico/ambiental:** Deposición seca: las partículas se sedimentan por efecto de la gravedad, así como por **impacto** contra un obstáculo (por ejemplo, al chocar con un edificio,...). (En este caso, ""talka"" se refiere a la colisión física).
+","Considerando los ejemplos, las traducciones serían:
+
+1. **Contexto médico (percusión):** Si no conseguimos estas dos medidas en 2 minutos, lo intentaremos tras la siguiente **percusión**.
+
+2. **Contexto tecnológico (colisión):** Deposición seca: las partículas se sedimentan por efecto de la gravedad, así como por **colisión** con un obstáculo (por ejemplo, al chocar con un edificio,...).
+"
+talka,"('percusión', 'colisión')","1. **CARDIOVERSIÓN ELÉCTRICA:** Se utiliza en arritmias rápidas, mediante la aplicación de una descarga sincronizada.
+
+2. Se produce cuando dos superficies sólidas chocan (el compresor)...
+","1. CARDIOVERSIÓN ELÉCTRICASe utiliza en arritmias rápidas, mediante una **percusión** sincronizada.
+
+2. Se produce cuando dos superficies sólidas **colisionan** (el compresor)...
+","Aquí tienes las traducciones, teniendo en cuenta el contexto proporcionado:
+
+1. **CARDIOVERSIÓN ELÉCTRICA:** Se utiliza en arritmias rápidas, mediante una **descarga** sincronizada.  (Aquí ""talka"" se refiere a la descarga eléctrica, similar al contexto de desfibrilación.)
+
+2. Se produce cuando dos superficies sólidas **colisionan** (compresor)... (Aquí ""talka"" se refiere al choque físico, como en el ejemplo de los explosivos.)
+","Aquí están las traducciones, teniendo en cuenta los contextos proporcionados:
+
+**Contexto Médico (percusión):**
+
+1. La desfibrilación debe realizarse con la máxima energía (360 J en monofásico, 200J como mínimo en bifásico), y se administra una **percusión** cada dos minutos, mientras persista la fibrilación o la taquicardia.
+2. Si se produce una taquicardia o fibrilación ventricular, el desfibrilador administra una **percusión** endocardíaca de baja energía (25-30 J), con la intención de interrumpirlas.
+3. Si no logramos estas dos medidas en 2 minutos, lo intentaremos tras la siguiente **percusión**.
+
+**Contexto Tecnológico (colisión):**
+
+1. Explosivos: son los que pueden explotar por efecto de la llama, calor, fricción, **colisión**… (nitroglicerina).
+2. Las ondas **colisionan** con la membrana, la membrana vibra y la energía mecánica y la energía calorífica se convierten en energía sonora.
+3. Deposición seca: las partículas se sedimentan por efecto de la gravedad, así como al **colisionar** con un obstáculo (por ejemplo, al chocar con un edificio,...).
+
+
+**Traducciones de las frases nuevas:**
+
+1. CARDIOVERSIÓN ELÉCTRICA Se utiliza en arritmias rápidas, mediante una **percusión** sincronizada. (Contexto médico)
+2. Se produce cuando dos superficies sólidas **colisionan** (compresor)... (Contexto tecnológico)
+"
+talka,"('percusión', 'colisión')","1. En caso de taquicardia o fibrilación ventricular, el desfibrilador administra una descarga endocardíaca de baja energía (25-30 J) con el objetivo de interrumpirlas.
+
+2. Las ondas chocan contra la membrana, la cual vibra, y la energía sonora se convierte en energía mecánica y calorífica.
+","1. Si se produce una taquicardia o fibrilación ventricular, el desfibrilador administra una **descarga** endocardíaca de baja energía (25-30 J), con la intención de interrumpirlas.  (Aquí ""talka"" se refiere a una descarga eléctrica, que en el contexto de desfibriladores es el término correcto.)
+
+2. Las ondas **colisionan** contra la membrana, ésta vibra y la energía sonora se convierte en energía mecánica y calorífica. (Aquí ""talka"" se refiere al impacto físico de las ondas, por lo que ""colisionan"" es más preciso que ""percusión"").
+","Aquí están las traducciones, considerando los contextos proporcionados:
+
+1. Si se produce una taquicardia o fibrilación ventricular, el desfibrilador aplica una **percusión** endocardíaca de baja energía (25-30 J) con el fin de interrumpirlas.  (Usamos ""percusión"" porque el contexto es claramente médico y se relaciona con la desfibrilación.)
+
+2. Las ondas **chocan** contra la membrana, ésta vibra y la energía sonora se convierte en energía mecánica y calorífica. (Usamos ""chocan"" porque el contexto describe un fenómeno físico de impacto, más cercano a la idea de ""colisión"".)
+","Dado que nos das contextos médicos y tecnológicos, y ejemplos de traducción específicos para cada uno, traduciremos las frases nuevas de acuerdo a esa lógica:
+
+**Contexto Médico (talka = percusión/choque):**
+
+1. Si se produce una taquicardia o fibrilación ventricular, el desfibrilador aplica una **percusión/choque** endocardíaco de baja energía (25-30 J) con la intención de interrumpirlas.  (Se podría usar ""choque"" o ""percusión"". ""Choque"" es más común en este contexto).
+
+
+**Contexto Tecnológico (talka = colisión):**
+
+2. Las ondas **colisionan** contra la membrana, la membrana vibra y la energía sonora se convierte en energía mecánica y calorífica.
+"
+talka,"('percusión', 'colisión')","1. FIBRILACIÓN VENTRICULAR: Transcurridos 2 minutos, administraremos otra descarga, y si no es efectiva, RCP durante otros 2 minutos. Repetiremos la desfibrilación cada 2 minutos, por lo tanto, mientras persista la FV, manteniendo la RCP entre descargas. Tras la tercera descarga, si la FV persiste...
+
+2. COLECTORES SECOS: La deposición de partículas en seco se produce por la acción de la gravedad o por el impacto de las partículas contra las paredes del colector.
+","1. FIBRILACIÓN VENTRICULAR. Transcurridos 2 minutos, administraremos una nueva **descarga**, y si no es efectiva, RCP durante otros 2 minutos. Repetiremos la desfibrilación cada 2 minutos, por tanto, mientras se mantenga la FV, aplicando RCP entre las descargas. 3. Si la FV persiste tras la **descarga**...
+
+2. COLECTORES SECOS. La deposición seca de partículas ocurre por efecto de la gravedad o por **colisión** con las paredes del colector.
+","Dado el contexto proporcionado, aquí están las traducciones:
+
+1. **FIBRILACIÓN VENTRICULAR**  Después de 2 minutos, administraremos una nueva **descarga**, y si no es efectiva, RCP durante otros 2 minutos. Realizaremos la desfibrilación cada 2 minutos, por lo tanto, mientras se mantenga la FV, manteniendo RCP entre desfibrilaciones. Tras la 3ª **descarga**, si la FV se mantiene...
+
+2. **COLECTORES SECOS** La deposición seca de partículas ocurre por efecto de la gravedad o porque las partículas **colisionan** con las paredes del colector.
+","Aquí tienes la traducción de las frases, teniendo en cuenta el contexto proporcionado:
+
+**Contexto Médico (talka = percusión/descarga):**
+
+1. FIBRILACIÓN VENTRICULAR: Tras 2 minutos, administraremos una nueva **descarga**, y si no es efectiva, RCP durante otros 2 minutos.  La desfibrilación se realizará cada 2 minutos, por tanto, mientras se mantenga la FV, manteniendo la RCP entre descargas. Tras la 3ª **descarga**, si la FV persiste...
+
+2.  (Este ejemplo pertenece al contexto tecnológico, lo traduzco más abajo)
+
+
+**Contexto Tecnológico (talka = colisión):**
+
+2. COLECTORES SECOS: La deposición seca de las partículas se produce por efecto de la gravedad o porque **colisionan** con las paredes del colector.
+"
+trinkotasun,"('consistencia', 'compactación')","1. Adultos FUD (n = 45) mAHGDT (n = 39) 4 semanas.  Reducción del dolor abdominal y mayor **consistencia** de las heces en quienes realizaron FUD. Sin diferencias en el alivio de los síntomas.
+
+
+2. c) SUPERFICIE DEL VERTEDERO. Superficie de terreno necesaria. Datos: -Tasa de producción [=] kg/habitante.día -Grado de **compactación** de los residuos. Densidad. -Altura máxima de vertido.
+
+
+He optado por ""consistencia"" en el primer caso, ya que se refiere a la textura de las heces. En el segundo caso, ""compactación"" es más adecuado, ya que se habla de la densidad de los residuos en un vertedero, lo que implica un proceso de compresión.  ""Trinkotasun"" en euskera puede abarcar ambos conceptos, pero en español es preferible ser más específico.
+","1. Adultos con FUD (n = 45) y mAHGDT (n = 39) durante 4 semanas.  Reducción del dolor abdominal y mayor **consistencia** de las heces en los que siguieron la dieta FUD. No hubo diferencias en el alivio de los síntomas.
+
+2. c) CAPACIDAD DEL VERTEDERO. Superficie de terreno necesaria. Datos: -Tasa de producción [=] kg/habitante.día -Grado de **compactación** de los residuos. Densidad. -Altura máxima de vertido.
+",⚠️ Prompt no construido (faltan ejemplos),⚠️ Prompt no construido (faltan ejemplos)
+urradura,"('rozadura', 'abrasión')","1. ...5. Replantar el injerto lentamente con una ligera presión digital. No fuerce. 6. Si hay abrasión gingival, suturar. 7. Revascularizado...
+
+
+2. 1. Las arenas son partículas inorgánicas de alta densidad: d >0,1-0,2 mm, ρ> 2,6 g/cm³, velocidad de sedimentación v >70 m/hora. Esta operación es esencial para evitar la abrasión en las bombas y los equipos mecánicos. La sedimentación debe ser selectiva:...
+","1. ...5. Replantar el injerto lentamente con ligera presión digital. No utilizar fuerza. 6. Si hay **rozaduras** gingivales, suturar. 7. El revascularizado...
+
+2. 1 Las arenas son partículas inorgánicas de alta densidad: d >0,1-0,2 mm, ρ> 2,6 g.cm3, v de sedimentación >70 m/hora. Esta operación es indispensable para evitar la **abrasión** en las bombas y en los equipos mecánicos. La sedimentación debe ser selectiva:...
+","Aquí tienes la traducción de los contextos, teniendo en cuenta la distinción entre ""rozadura"" y ""abrasión"":
+
+1. ...5. Reinplante el diente lentamente con ligera presión digital. No utilice la fuerza. 6. Si hay **ro zaduras** gingivales, sutúrelas. 7. El reimplantado...
+
+2. 1 Las arenas son partículas inorgánicas densas: d >0,1-0,2 mm, ρ> 2,6 g.cm3, v de sedimentación >70 m/hora. Esta operación es indispensable para evitar la **abrasión** en las bombas y en el equipo mecánico. La sedimentación debe ser selectiva:...
+
+
+He mantenido la coherencia utilizando ""rozadura"" en el contexto médico/odontológico, refiriéndose a las encías, y ""abrasión"" en el contexto tecnológico/ingenieril, refiriéndose al desgaste por fricción de las máquinas.
+",⚠️ Prompt no construido (faltan ejemplos)
+urradura,"('rozadura', 'abrasión')","1. 5. Remover el coágulo y reimplantar el diente lentamente con ligera presión digital. 6. Suturar la encía desgarrada, especialmente en el área cervical.
+
+2. ...en la vegetación, en la cobertura (rozaduras/abrasiones).  Aprovechamiento energético de los gases. Métodos de control: Pasivos (ventilación natural)...
+
+
+Algunas aclaraciones:
+
+* En el primer contexto, ""urradura"" se traduce como ""desgarrada"" o ""lacerada"" ya que se refiere a la encía y al contexto de una reimplantación dental.  Si bien ""rozadura"" puede ser una abrasión superficial, en este caso implica un daño más profundo que requiere sutura.
+
+* En el segundo contexto, ""urradura"" puede interpretarse como ""rozaduras"" o ""abrasiones"" en la cobertura vegetal, posiblemente causadas por factores externos como el viento o animales.  También podría referirse a áreas de ""desgaste"".  He incluido ambas opciones para mayor precisión.
+","1. 5. Retirar el coágulo y reimplantar el diente lentamente con ligera presión digital. 6. Suturar la **rozadura** gingival, especialmente en el área cervical.
+
+2. ...en la vegetación, en el revestimiento (**abrasiones**). Explotación energética de gases. Métodos de control: Pasivos (ventilación natural)...
+","1. 5. Retire el coágulo y reimplante el diente lentamente con una ligera presión digital. 6. Suture las encías con **ro zadura**, especialmente en el área cervical.
+
+2. ...en la vegetación, en el revestimiento (**abrasiones**). Explotación energética de gases. Métodos de control: Pasivos (ventilación natural)...
+",⚠️ Prompt no construido (faltan ejemplos)
+xafla,"('cuchilla', 'lámina; plancha')","1. Utilizando una hoja de bisturí número 15, traccionar la lengua y seccionar completamente el frenillo.
+2. Para ello se utiliza una lámina impermeable de alta resistencia mecánica para evitar la filtración de lixiviados.
+","1.  Traccionar la lengua con una cuchilla de bisturí número 15 y cortar completamente el frenillo.
+
+2. Para ello se utiliza una lámina/plancha impermeable de alta resistencia mecánica para evitar la filtración de lixiviados.
+","1.  Usando un bisturí con hoja número 15, traccionar la lengua y cortar completamente el frenillo. (Aquí ""xafla"" se refiere a la cuchilla del bisturí)
+
+2. Para ello se utiliza una lámina impermeable de alta resistencia mecánica para evitar la filtración de lixiviados. (Aquí ""xafla"" se refiere a una lámina o plancha impermeable)
+","Aquí tienes las traducciones, considerando el contexto proporcionado:
+
+1. **3. 15 zenbakiko bisturi-xafla mihia trakzionatu, eta frenulua erabat moztu.** -  Con un bisturí nº 15 traccionar la lengua y seccionar completamente el frenillo. (Aquí ""xafla"" se refiere a la cuchilla del bisturí, similar al ejemplo de ""bizar-xafla"").
+
+2. **Horretarako erresistentzia mekaniko altua duen xafla iragazgaitza erabiltzen da lixibatuen iragazketa eragozteko.** - Para ello se utiliza una lámina/plancha impermeable de alta resistencia mecánica para evitar la filtración de lixiviados. (En este caso, por el contexto de resistencia mecánica e impermeabilidad, ""xafla"" se traduce como lámina o plancha, similar a los ejemplos de tecnología ambiental).
+"
+xafla,"('cuchilla', 'lámina; plancha')","1. Similar a una cinta transportadora, con una lámina de plástico/metal que guiará la erupción del diente 6.
+
+2. El material utilizado para hacer estas láminas se llama geosintético (está compuesto de fibra de polipropileno o poliéster de alta densidad).
+","1. Similar a una cinta transportadora, con una **cuchilla** de plástico/metal que guiará la erupción del 6. (Contexto farmacéutico, imagino que se refiere a la salida de algún material de una máquina)
+
+2. El material utilizado para fabricar estas **láminas** se denomina geosintético (está compuesto por fibras de polipropileno o poliéster de alta densidad). (Contexto de ingeniería ambiental)
+","Dado el contexto proporcionado, ""xafla"" se traduce de manera diferente según el campo de aplicación. Aplicando esta lógica a las frases:
+
+1. **Banda-begiztaren antzekoa, 6aren erupzioa gidatuko duen plastikozko/metalezko xafla batekin.**  Aquí el contexto no está totalmente claro, pero parece describir un elemento que guía una erupción (¿dental? ¿volcánica?). Si se relaciona con algún tipo de instrumento médico o quirúrgico, ""xafla"" sería **cuchilla**. Si se refiere a una estructura más grande, como una placa de metal o plástico usada en ingeniería, se traduciría como **lámina** o **placa**.  Por lo tanto, las posibles traducciones son:
+
+    * Similar a un lazo, con una **cuchilla** de plástico/metal que guiará la erupción del 6. (Contexto médico/quirúrgico)
+    * Similar a un lazo, con una **lámina/placa** de plástico/metal que guiará la erupción del 6. (Contexto de ingeniería)
+
+
+2. **Xafla hauek egiteko erabiltzen den materiala geosintetikoa deitzen da (dentsitate handiko polipropileno edo poliester zuntzaz osatuta dago).**  Este contexto se relaciona claramente con materiales y geotextiles, por lo que ""xafla"" se traduce como **lámina** o **plancha**.
+
+    * El material utilizado para fabricar estas **láminas/planchas** se llama geosintético (está compuesto por fibras de polipropileno o poliéster de alta densidad).
+
+
+En resumen, la traducción correcta de ""xafla"" depende del contexto.  Es importante tener en cuenta el campo de aplicación para elegir la traducción más precisa.
+","Dado el contexto proporcionado, estas serían las traducciones más adecuadas:
+
+1. Similar a un bucle de banda, con una **placa/lámina** de plástico/metal que guiará la erupción del 6.  (Aquí, el contexto sugiere un elemento rígido y plano, por lo que ""placa"" o ""lámina"" encajan mejor que ""cuchilla"".  La elección entre ""placa"" y ""lámina"" dependería del grosor del elemento, siendo ""placa"" para algo más grueso y ""lámina"" para algo más delgado).
+
+2. El material utilizado para fabricar estas **láminas/planchas** se denomina geosintético (está compuesto por fibra de polipropileno o poliéster de alta densidad). (Aquí, el contexto y la mención de geosintéticos apuntan claramente a ""lámina"" o ""plancha"". ""Plancha"" podría ser más apropiado si se trata de un material más grueso y rígido.)
+"
+xafla,"('cuchilla', 'lámina; plancha')","1. La correcta colocación de la placa es fundamental para una buena radiografía (la mayoría de los errores ocurren en este paso).
+
+
+2. Las membranas utilizadas suelen ser láminas planas de poliestireno, ya sean aniónicas o catiónicas.
+","1. Para una correcta colocación de la **cuchilla**, es fundamental la medición mediante rayos X (la mayoría de los errores se producen en este paso).  (Contexto: Medical Sciences > Pharmaceutical Technology)
+
+2. Las membranas utilizadas son **láminas** planas de poliestireno, aniónicas o catiónicas. (Contexto: Technological Sciences > Environmental technology and engineering)
+","1. Para la correcta colocación de la **cuchilla** es fundamental la medición mediante rayos X (la mayoría de los errores se producen en este paso).  *(Contexto médico/quirúrgico)*
+
+2. Las membranas utilizadas suelen ser **láminas** planas de poliestireno, aniónicas o catiónicas. *(Contexto tecnológico/científico)*
+","Dado el contexto proporcionado, aquí están las traducciones:
+
+1. **Xaflaren lekutzea ondo egiteko ezinbestekoa neurketa RX bitartez (akats gehienak urrats honetan).**  Aquí ""xafla"" se refiere a una placa, probablemente una placa ósea o metálica utilizada en cirugía. La traducción sería: _Para la correcta colocación de la **placa**, es imprescindible la medición mediante rayos X (la mayoría de los errores ocurren en este paso)._
+
+2. **Erabiltzen diren mintzak poliestirenozko xafla lauak anionikoak edo kationikoak izaten dira.**  En este caso, dado que se habla de membranas y poliestireno, ""xafla"" se refiere a una lámina. La traducción sería: _Las membranas utilizadas son **láminas** planas de poliestireno, aniónicas o catiónicas._
+
+
+Aquí tienes las traducciones de los ejemplos que proporcionaste, por si te sirven de referencia:
+
+**Medical Sciences > Pharmaceutical Technology (xafla = cuchilla):**
+
+1. _Enviando rayos a una **cuchilla** metálica mediante un láser de femtosegundos, han conseguido transferir la característica de la superficie nanométricamente rugosa de las plantas hidrofóbicas a una pequeña **cuchilla** metálica._
+2. _Traccionar la lengua con una **cuchilla** de bisturí número 15 y cortar completamente el frenillo._
+3. _Similar a un lazo de banda, con una **cuchilla** de plástico/metal que guiará la erupción del 6._
+
+
+**Technological Sciences > Environmental technology and engineering (xafla = lámina; plancha):**
+
+1. _Estos tienen dos **placas** cargadas eléctricamente. Una **placa** es fija y la otra móvil._
+2. _Para ello se utiliza una **lámina** impermeable de alta resistencia mecánica para evitar la filtración de lixiviados._
+3. _El material utilizado para fabricar estas **láminas** se denomina geosintético (está compuesto por fibras de polipropileno o poliéster de alta densidad)._
+"
+xafla,"('cuchilla', 'lámina; plancha')","1. Al no afectar a la circulación sanguínea de retorno, se puede colocar tanto de arriba abajo como al revés. - Máquina cortapelos o maquinilla de afeitar: se utiliza para cortar el pelo o depilar.
+
+2. Ubicación y forma: debe colocarse lo más cerca posible. Material: puede estar compuesto por una o más láminas.
+","1. Dado que no afecta a la circulación de retorno, puede colocarse tanto de arriba abajo como a la inversa. -Máquina cortapelos o cuchilla de afeitar: se utiliza para cortar el pelo o depilarse.
+
+2. Ubicación y forma: debe colocarse lo más cerca posible. Material: puede estar compuesto por una o más láminas/planchas.
+
+
+He optado por incluir ambas traducciones de ""xafla"" en el segundo contexto (láminas/planchas) separadas por una barra, ya que el contexto proporcionado (tecnología ambiental e ingeniería) permite ambas interpretaciones y sin más información es imposible determinar cuál es la más adecuada.  Si se tratara de, por ejemplo, paneles solares, ""láminas"" sería más apropiado.  Si se tratara de barreras de contención, ""planchas"" sería más preciso.
+","Dado que ""xafla"" puede significar tanto ""cuchilla"" como ""lámina/plancha"", debemos analizar el contexto para determinar la traducción correcta en cada caso.
+
+1. ""Itzulerako odol-zirkulazioan eraginik ez duenez, goitik behera nahiz alderantziz ipin daiteke. -Ilea mozteko makina nahiz bizar-xafla: ilea mozteko edo depilatzeko erabiltzen da""
+
+Aquí, ""bizar-xafla"" claramente se refiere a una cuchilla de afeitar. La traducción sería:
+
+""Como no afecta a la circulación sanguínea de retorno, se puede colocar tanto de arriba abajo como al revés. -Máquina cortapelos o cuchilla de afeitar: se utiliza para cortar o depilar el vello.""
+
+
+2. ""Kokapena eta forma: ahal den hurbilena jarri behar da. Materiala: xafla bat edo gehiagoaz osatuta egon daiteke.""
+
+En este caso, ""xafla"" se refiere a una lámina o plancha de un material, sin especificar cuál. Dado el contexto general que proporcionas (tecnología farmacéutica y tecnología ambiental), es probable que se trate de un material de construcción o similar.  La traducción sería:
+
+""Ubicación y forma: debe colocarse lo más cerca posible. Material: puede estar compuesto por una o más láminas/planchas.""
+
+O, para ser más precisos y permitir que el lector interprete el tipo de lámina, podemos usar una palabra más genérica:
+
+""Ubicación y forma: debe colocarse lo más cerca posible. Material: puede estar compuesto por una o más placas.""  (o ""hojas"")
+
+
+En resumen, la traducción de ""xafla"" depende del contexto.  Es importante considerar el tema que se está tratando para elegir la palabra más adecuada en español.
+","Aquí están las traducciones, considerando el contexto proporcionado:
+
+1.  Como no afecta al retorno venoso, se puede colocar tanto de arriba abajo como al revés. -Máquina cortapelos o cuchilla de afeitar: se utiliza para cortar el pelo o depilarse.  (Aquí ""xafla"" se refiere a la cuchilla de afeitar, similar al contexto médico.)
+
+2. Ubicación y forma: debe colocarse lo más cerca posible. Material: puede estar compuesto por una o varias láminas/planchas. (En este caso, ""xafla"" se refiere a un material de construcción, similar al contexto tecnológico-ambiental, por lo que lámina o plancha son traducciones adecuadas.  Si el contexto sugiriera una lámina delgada, ""lámina"" sería preferible; si se tratara de una pieza más gruesa y resistente, ""plancha"" sería más apropiado.  Dejar ambas opciones permite que el lector elija la más adecuada según el contexto más amplio que no se proporciona aquí.)
+"
+xafla,"('cuchilla', 'lámina; plancha')","1. La reducción se realiza quirúrgicamente. Se utilizan placas metálicas, tornillos, etc.
+2. Los más utilizados son los micrófonos de condensador. Estos tienen dos placas con carga eléctrica.
+","1. La reducción se realiza quirúrgicamente. Se utilizan **cuchillas** metálicas, tornillos, etc,...
+
+2. Los más utilizados son los micrófonos de condensador. Éstos tienen dos **láminas** con carga eléctrica.
+","Aquí tienes la traducción de las frases, teniendo en cuenta el contexto proporcionado para ""xafla"":
+
+1. **Erredukzioa kirurgikoki egiten da. Metalezko xafla, torloju eta abar erabiltzen dira,...**  La reducción se realiza quirúrgicamente. Se utilizan placas metálicas, tornillos, etc,...  (Aquí ""xafla"" se refiere a una placa de metal usada en cirugía, similar al contexto de cuchilla/hoja en tecnología farmacéutica, donde se habla de un elemento plano y metálico).
+
+2. **Gehien erabiltzen direnak kondentsadore mikrofonoak dira. Hauek karga-elektrikodun bi xafla dauzakte.** Los más utilizados son los micrófonos de condensador. Estos tienen dos láminas con carga eléctrica. (En este caso, al hablar de componentes electrónicos, ""xafla"" se traduce como lámina, similar al contexto de tecnología ambiental donde se refiere a una lámina/plancha de material geosintético).
+","Veamos las traducciones, considerando el contexto proporcionado:
+
+**Contexto 1: Ciencias Médicas > Tecnología Farmacéutica (xafla = cuchilla)**
+
+* 1. 3. 15 zenbakiko bisturi-xafla mihia trakzionatu, eta frenulua erabat moztu.  --> *Traccionar la lengua con una hoja de bisturí número 15 y cortar completamente el frenillo.*
+* 2. Itzulerako odol-zirkulazioan eraginik ez duenez, goitik behera nahiz alderantziz ipin daiteke. -Ilea mozteko makina nahiz bizar-xafla: ilea mozteko edo depilatzeko erabiltzen da --> *Como no afecta a la circulación sanguínea de retorno, se puede colocar de arriba abajo o viceversa. -Máquina de cortar pelo o cuchilla de afeitar: se utiliza para cortar o depilar el pelo.*
+* 3. Banda-begiztaren antzekoa, 6aren erupzioa gidatuko duen plastikozko/metalezko xafla batekin. --> *Similar a un lazo, con una lámina/placa de plástico/metal que guiará la erupción del 6.* (Aquí, aunque en el contexto general xafla es cuchilla, el sentido de este ejemplo concreto se acerca más a una lámina o placa guía, no a una cuchilla cortante).
+
+
+**Contexto 2: Ciencias Tecnológicas > Tecnología e Ingeniería Ambiental (xafla = lámina; plancha)**
+
+* 1. Horretarako erresistentzia mekaniko altua duen xafla iragazgaitza erabiltzen da lixibatuen iragazketa eragozteko. --> *Para ello se utiliza una lámina impermeable de alta resistencia mecánica para evitar la filtración de lixiviados.*
+* 2. Kokapena eta forma: ahal den hurbilena jarri behar da. Materiala: xafla bat edo gehiagoaz osatuta egon daiteke. --> *Ubicación y forma: debe colocarse lo más cerca posible. Material: puede estar compuesto por una o más láminas/planchas.*
+* 3. Xafla hauek egiteko erabiltzen den materiala geosintetikoa deitzen da (dentsitate handiko polipropileno edo poliester zuntzaz osatuta dago). --> *El material utilizado para fabricar estas láminas se denomina geosintético (está compuesto por fibras de polipropileno o poliéster de alta densidad).*
+
+
+**Traducciones solicitadas, teniendo en cuenta los contextos:**
+
+* 1. Erredukzioa kirurgikoki egiten da. Metalezko xafla, torloju eta abar erabiltzen dira,... --> *La reducción se realiza quirúrgicamente. Se utilizan placas metálicas, tornillos, etc.*  (Aquí, el contexto quirúrgico sugiere ""placa"" como traducción de ""xafla"").
+
+* 2. Gehien erabiltzen direnak kondentsadore mikrofonoak dira. Hauek karga-elektrikodun bi xafla dauzakte. --> *Los más utilizados son los micrófonos de condensador. Estos tienen dos láminas con carga eléctrica.* (El contexto electrónico indica que ""xafla"" se refiere a las láminas de un condensador).
+"
+xafla,"('cuchilla', 'lámina; plancha')","1. Utilizando un láser de femtosegundos para irradiar una lámina de metal, han logrado transferir la característica de la superficie nanoestructurada de las plantas hidrófobas a una pequeña lámina metálica.
+
+2. Estos constan de dos placas con carga eléctrica. Una placa es fija y la otra es móvil.
+","1. Enviando rayos a una **lámina** metálica mediante un láser de femtosegundos, han logrado transferir la característica de la superficie nanométrica rugosa de las plantas hidrofóbicas a una pequeña **lámina** metálica.
+
+2. Estos constan de dos **placas** con carga eléctrica. Una **placa** es fija y la otra móvil.
+","Aquí tienes la traducción de las frases, teniendo en cuenta los diferentes significados de ""xafla"":
+
+1. **Femtosegundo-laser baten bidez metal xaflara izpiak bidaliz, landare hidrofugoen zimurtasun nanometrikoko gainazalaren ezaugarria, metal xafla txiki bati iragatea erdietsi dute:**  Enviando rayos láser de femtosegundos a una **lámina** metálica, han logrado transferir la característica de superficie de rugosidad nanométrica de las plantas hidrofóbicas a una pequeña **lámina** metálica.
+
+2. **Hauek karga-elektrikodun bi xafla dauzakte. Xafla bat finkoa da eta bestea mugikorra.** Estos tienen dos **placas** con carga eléctrica. Una **placa** es fija y la otra móvil.
+
+
+He optado por ""lámina"" en la primera frase porque el contexto habla de la transferencia de una característica superficial, lo que sugiere una pieza fina de metal.  En la segunda, el contexto de carga eléctrica implica un componente más parecido a un condensador, donde ""placa"" es el término más adecuado.
+","Aquí tienes la traducción de las frases, teniendo en cuenta los contextos proporcionados:
+
+1. **Femtosegundo-laser baten bidez metal xaflara izpiak bidaliz, landare hidrofugoen zimurtasun nanometrikoko gainazalaren ezaugarria, metal xafla txiki bati iragatea erdietsi dute:**  Mediante el envío de rayos láser de femtosegundos a una lámina metálica, han logrado transferir la característica superficial de rugosidad nanométrica de las plantas hidrófugas a una pequeña lámina de metal.
+
+2. **Hauek karga-elektrikodun bi xafla dauzakte. Xafla bat finkoa da eta bestea mugikorra.** Estos tienen dos placas con carga eléctrica. Una placa es fija y la otra es móvil.
+
+
+En el primer caso, al hablar de transferir una característica superficial, ""lámina"" parece la traducción más adecuada para ""xafla"".  En el segundo, al referirse a componentes de un condensador (dado el contexto previo que proporcionaste), ""placa"" es la opción más precisa.
+"

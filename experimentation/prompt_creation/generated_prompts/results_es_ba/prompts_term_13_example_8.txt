@@ -1,0 +1,39 @@
+=== Term: muestra ===
+
+--- 0shot ---
+Traduce estos contextos al inglés:
+1. ...iano, que soporta lo que actualmente son nuestras instituciones estatales en los distintos órdenes. Las constantes reformas acaecidas en la época de la independencia, al orden constitucional, son una **muestra** clara de la inexperiencia de aquellos hombres que empezaban a tener la idea de consolidar un Estado independiente, gobernado a través de las propias normas que emanaran de su seno. Pero además de esa...
+2. ...lizar la toma de muestras en recipientes de vidrio, puesto que los de plástico pueden contaminar la muestra con materiales orgánicos. Se debe proceder a analizar la DQO rápidamente tras la toma de la **muestra**, que además deberá ser representativa y estar bien homogeneizada. Antes del análisis el agua tamizada se decanta en un cono especial durante dos horas, tomándose entonces el agua residual por sifonac..
+
+--- 0shotplus ---
+Traduce estos contextos al inglés teniendo en cuenta que muestra se traduce como erakusgarri en física y como lagin en ingeniería:
+1. ...iano, que soporta lo que actualmente son nuestras instituciones estatales en los distintos órdenes. Las constantes reformas acaecidas en la época de la independencia, al orden constitucional, son una **muestra** clara de la inexperiencia de aquellos hombres que empezaban a tener la idea de consolidar un Estado independiente, gobernado a través de las propias normas que emanaran de su seno. Pero además de esa...
+2. ...lizar la toma de muestras en recipientes de vidrio, puesto que los de plástico pueden contaminar la muestra con materiales orgánicos. Se debe proceder a analizar la DQO rápidamente tras la toma de la **muestra**, que además deberá ser representativa y estar bien homogeneizada. Antes del análisis el agua tamizada se decanta en un cono especial durante dos horas, tomándose entonces el agua residual por sifonac..
+
+--- 1shot ---
+Traduce estos contextos al inglés teniendo en cuenta que muestra se traduce como erakusgarri en juridical sciences & law>constitutional law, como muestra el siguiente ejemplo:
+...problemas en todo el mundo. Hay seis idiomas oficiales: árabe, chino, español, francés, inglés y ruso. Las Naciones Unidas también están financiadas por algunas de las naciones más ricas. La bandera **muestra** la Tierra a partir de un mapa que muestra todos los continentes poblados. Una Asamblea Parlamentaria de las Naciones Unidas (APNU) es una adición propuesta al sistema de las Naciones Unidas que permi...
+Y como lagin en tecnological sciences>environmental technology and engineering, como muestra el siguiente ejemplo:
+...biológico del método. El objeto del ensayo consiste en medir la cantidad de oxígeno diatómico disuelto en un medio de incubación al comienzo y al final de un período de cinco días, durante el cual la **muestra** se mantiene al abrigo del aire, a 20 °C y en la oscuridad, para inhibir la eventual formación de oxígeno por las algas mediante la fotosíntesis. Las condiciones de la medida, en las que el agua a est...
+
+Traduce:
+1. ...iano, que soporta lo que actualmente son nuestras instituciones estatales en los distintos órdenes. Las constantes reformas acaecidas en la época de la independencia, al orden constitucional, son una **muestra** clara de la inexperiencia de aquellos hombres que empezaban a tener la idea de consolidar un Estado independiente, gobernado a través de las propias normas que emanaran de su seno. Pero además de esa...
+2. ...lizar la toma de muestras en recipientes de vidrio, puesto que los de plástico pueden contaminar la muestra con materiales orgánicos. Se debe proceder a analizar la DQO rápidamente tras la toma de la **muestra**, que además deberá ser representativa y estar bien homogeneizada. Antes del análisis el agua tamizada se decanta en un cono especial durante dos horas, tomándose entonces el agua residual por sifonac..
+
+--- fewshot ---
+Traduce estos contextos al inglés teniendo en cuenta los siguientes ejemplos:
+
+Ejemplos en juridical sciences & law>constitutional law, donde muestra se traduce como erakusgarri:
+1. ...stra de 850 firmas electrónicas y escritas para la verificación de su fidelidad mediante visitas domiciliarias, con un 95 % de confiabilidad. Tales visitas se produjeron del 21 al 25 de enero y de la **muestra** solamente 645 personas fueron localizadas. Del número de ciudadanos consultados, 484 manifestaron haber proporcionado su apoyo —75.04 %— y, por tanto 161 —24.96 %— negó haber respaldado la petición....
+2. ...anas, como ortodoxos y protestantes, sino únicamente los católicos, pero lo que le otorga influencia a nivel mundial: tratamientos como «Su Santidad» o «Sumo Pontífice» se usan protocolariamente como **muestra** de deferencia; y sus representantes diplomáticos (los nuncios, que también ejercen funciones religiosas) son considerados decanos del cuerpo diplomático en muchos países (algunos, incluso reconocen r...
+3. ...problemas en todo el mundo. Hay seis idiomas oficiales: árabe, chino, español, francés, inglés y ruso. Las Naciones Unidas también están financiadas por algunas de las naciones más ricas. La bandera **muestra** la Tierra a partir de un mapa que muestra todos los continentes poblados. Una Asamblea Parlamentaria de las Naciones Unidas (APNU) es una adición propuesta al sistema de las Naciones Unidas que permi...
+
+Ejemplos en tecnological sciences>environmental technology and engineering, donde muestra se traduce como lagin:
+1. ...sos hídricos de forma continua o periódica. Para esto se usan estaciones de muestreo, las cuales son lugares o dispositivos ubicados cerca de o en un cuerpo receptor de agua, en la cual se recoge una **muestra**. Las estaciones de muestreo, ubicadas estratégicamente en plantas de potabilización y redes de distribución, son clave para el éxito del programa. En la red de distribución, se establecen estaciones...
+2. ...e dos o más muestras en blanco, consistentes en sustituir la muestra por igual cantidad del agua destilada o desionizada utilizada para preparar las disoluciones y seguir el mismo proceso que para la **muestra** real. Puesto que en los blancos hay muy poca materia oxidable, se requiere un mayor volumen de disolución de (Fe(NH)(SO)) para alcanzar el punto final. El consumo real del valorante se establece por...
+3. ...biológico del método. El objeto del ensayo consiste en medir la cantidad de oxígeno diatómico disuelto en un medio de incubación al comienzo y al final de un período de cinco días, durante el cual la **muestra** se mantiene al abrigo del aire, a 20 °C y en la oscuridad, para inhibir la eventual formación de oxígeno por las algas mediante la fotosíntesis. Las condiciones de la medida, en las que el agua a est...
+
+Ahora traduce estos nuevos ejemplos:
+1. ...iano, que soporta lo que actualmente son nuestras instituciones estatales en los distintos órdenes. Las constantes reformas acaecidas en la época de la independencia, al orden constitucional, son una **muestra** clara de la inexperiencia de aquellos hombres que empezaban a tener la idea de consolidar un Estado independiente, gobernado a través de las propias normas que emanaran de su seno. Pero además de esa...
+2. ...lizar la toma de muestras en recipientes de vidrio, puesto que los de plástico pueden contaminar la muestra con materiales orgánicos. Se debe proceder a analizar la DQO rápidamente tras la toma de la **muestra**, que además deberá ser representativa y estar bien homogeneizada. Antes del análisis el agua tamizada se decanta en un cono especial durante dos horas, tomándose entonces el agua residual por sifonac..
+

@@ -1,0 +1,36 @@
+corriente de magnetización: appears 3 time(s).
+permitividad: appears 100 time(s).
+resistencia eléctrica: appears 107 time(s).
+vuelta: appears 151 time(s).
+sistema de ecuaciones: appears 14 time(s).
+par de fuerzas: appears 4 time(s).
+masa: appears 2060 time(s).
+torsión: appears 173 time(s).
+eje: appears 3897 time(s).
+fuente de corriente: appears 24 time(s).
+polarizar: appears 17 time(s).
+asociación en paralelo: appears 3 time(s).
+conexión en serie: appears 2 time(s).
+carga: appears 4584 time(s).
+régimen transitorio: appears 3 time(s).
+carga eléctrica: appears 331 time(s).
+asociación en serie: appears 1 time(s).
+acoplar: appears 27 time(s).
+número de espiras: appears 11 time(s).
+eje de transmisión: appears 0 time(s).
+núcleo: appears 658 time(s).
+cortocircuito: appears 97 time(s).
+corte: appears 288 time(s).
+cable: appears 1237 time(s).
+aparato de medida: appears 1 time(s).
+ley de Lenz: appears 24 time(s).
+velocidad lineal: appears 1 time(s).
+generador eléctrico: appears 23 time(s).
+aislador: appears 61 time(s).
+conexión en paralelo: appears 0 time(s).
+posición: appears 1714 time(s).
+ecuaciones de Maxwell: appears 214 time(s).
+tiempo de propagación: appears 7 time(s).
+magnetizar: appears 22 time(s).
+elemento pasivo: appears 3 time(s).
+material conductor: appears 28 time(s).

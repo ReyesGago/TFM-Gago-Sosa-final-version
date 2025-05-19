@@ -1,0 +1,39 @@
+=== Term: movilidad ===
+
+--- 0shot ---
+Traduce estos contextos al inglés:
+1. ...tas proporciones de uso de suelo dedicado a hospitales, oficinas o supermercados. Tras el fin del primer estado de alarma el 21 de junio de 2020, toda España pasó a la 'nueva normalidad' con la libre **movilidad** interna. Durante ese día se registró un tráfico tranquilo según los datos de la DGT. El tráfico se recuperó durante el 22 de junio la circularon de 1 358 302 vehículos por las carreteras españolas, u...
+2. ...nte. Esta tecnología surgió gracias a los avances de la propulsión eléctrica (motores, baterías, pilas de combustible, controladores electrónicos) y la creciente necesidad de nuevos vehículos para la **movilidad** aérea urbana (taxi aéreo).  Diversos prototipos están siendo desarrollados por compañías fabricantes de aeronaves como: Airbus, Boeing, EHang y Embraer, y fabricantes de automóviles como: Honda, Toyo..
+
+--- 0shotplus ---
+Traduce estos contextos al inglés teniendo en cuenta que movilidad se traduce como aldagarritasun en física y como mugikortasun en ingeniería:
+1. ...tas proporciones de uso de suelo dedicado a hospitales, oficinas o supermercados. Tras el fin del primer estado de alarma el 21 de junio de 2020, toda España pasó a la 'nueva normalidad' con la libre **movilidad** interna. Durante ese día se registró un tráfico tranquilo según los datos de la DGT. El tráfico se recuperó durante el 22 de junio la circularon de 1 358 302 vehículos por las carreteras españolas, u...
+2. ...nte. Esta tecnología surgió gracias a los avances de la propulsión eléctrica (motores, baterías, pilas de combustible, controladores electrónicos) y la creciente necesidad de nuevos vehículos para la **movilidad** aérea urbana (taxi aéreo).  Diversos prototipos están siendo desarrollados por compañías fabricantes de aeronaves como: Airbus, Boeing, EHang y Embraer, y fabricantes de automóviles como: Honda, Toyo..
+
+--- 1shot ---
+Traduce estos contextos al inglés teniendo en cuenta que movilidad se traduce como aldagarritasun en juridical sciences & law>constitutional law, como muestra el siguiente ejemplo:
+...n zonas remotas y en las áreas metropolitanas de las ciudades, en donde el día a día de su función puede ser pintoresco o ceremonial, pero también se emplean en el control de las masas, y debido a su **movilidad** y la ventaja de la altura su uso es cada vez más frecuente en el Reino Unido para la prevención de los delitos, dada la buena visibilidad en sus funciones policiales. La policía montada se puede empl..
+Y como mugikortasun en tecnological sciences>environmental technology and engineering, como muestra el siguiente ejemplo:
+...r el pie, sino gracias al motor eléctrico.  Los patinetes eléctrico se han vuelto cada vez más populares desde finales de la década de 2010, concretamente a partir de 2017-2018. La tendencia hacia la **movilidad** eléctrica observada en estos momentos muestra que, especialmente en las ciudades, muchas personas buscan para desplazarse una alternativa a un automóvil con motor de combustión interna. Los patinetes...
+
+Traduce:
+1. ...tas proporciones de uso de suelo dedicado a hospitales, oficinas o supermercados. Tras el fin del primer estado de alarma el 21 de junio de 2020, toda España pasó a la 'nueva normalidad' con la libre **movilidad** interna. Durante ese día se registró un tráfico tranquilo según los datos de la DGT. El tráfico se recuperó durante el 22 de junio la circularon de 1 358 302 vehículos por las carreteras españolas, u...
+2. ...nte. Esta tecnología surgió gracias a los avances de la propulsión eléctrica (motores, baterías, pilas de combustible, controladores electrónicos) y la creciente necesidad de nuevos vehículos para la **movilidad** aérea urbana (taxi aéreo).  Diversos prototipos están siendo desarrollados por compañías fabricantes de aeronaves como: Airbus, Boeing, EHang y Embraer, y fabricantes de automóviles como: Honda, Toyo..
+
+--- fewshot ---
+Traduce estos contextos al inglés teniendo en cuenta los siguientes ejemplos:
+
+Ejemplos en juridical sciences & law>constitutional law, donde movilidad se traduce como aldagarritasun:
+1. ...son más fáciles de disolver. Además en París, Napoleón III diseñó las llamadas "calles antidisturbios", que son grandes calles o avenidas que fueron situadas en barrios problemáticos para ayudar a la **movilidad** de las fuerzas del orden, en especial de la caballería. En el Reino Unido, donde suelen ocurrir grandes manifestaciones que tienden a ser inestables, la policía despliega tanto a policías antidisturb...
+2. ...mera infracción hasta 60.000 € por una reincidencia. La sentencia del Tribunal Constitucional de España de julio de 2021 dejó sin efecto todas las sanciones por incumplimiento de las restricciones de **movilidad** de los ciudadanos, pero no obligó al Gobierno a reembolsar automáticamente las multas ya cobradas. El 28 de abril el Presidente del Gobierno anunció el "Plan de desconfinamiento de España", el cual c...
+3. ...e la distribución de la riqueza. Autores como Sami Naïr y Zygmunt Bauman señalan los perjuicios de la desigualdad y sus efectos. Para el economista Miles Corak, especialista en desigualdad, pobreza y **movilidad** social existe una relación indirecta entre desigualdad de ingresos y movilidad social intergeneracional. La riqueza de los padres y la transmisión de la misma mediante la herencia es más decisiva par...
+
+Ejemplos en tecnological sciences>environmental technology and engineering, donde movilidad se traduce como mugikortasun:
+1. ...lubilidad, como herbicidas, plaguicidas, solventes y explosivos, la extracción, acumulación o volatilización por la planta, en general, aporta un porcentaje relevante de la remoción debido a la mayor **movilidad** de estos compuestos hacia y en la planta. Lo anterior no se aplica en la remoción de la mayor parte de los componentes de los HTP y otros contaminantes orgánicos de baja solubilidad, pues el papel di...
+2. ...léctricos a veces se conocen como "patinetes electrónicos". Sin embargo, no se deben confundir con los patinetes eléctricos que se conducen sentado, ya que estos se pueden catalogar como "vehículo de **movilidad**". El término "patinete" es engañoso, pues estos vehículos no se mueven impulsados por el pie, sino gracias al motor eléctrico.  Los patinetes eléctrico se han vuelto cada vez más populares desde fina...
+3. ...ión de la vida silvestre. El modelado ecológico incluso se ha aplicado a la arqueología con diversos grados de éxito, por ejemplo, combinándose con modelos arqueológicos para explicar la diversidad y **movilidad** de las herramientas de piedra. Hay dos tipos principales de modelos ecológicos, que generalmente se aplican a diferentes tipos de problemas: (1) "modelos analíticos" y (2) modelos de "simulación"/"co...
+
+Ahora traduce estos nuevos ejemplos:
+1. ...tas proporciones de uso de suelo dedicado a hospitales, oficinas o supermercados. Tras el fin del primer estado de alarma el 21 de junio de 2020, toda España pasó a la 'nueva normalidad' con la libre **movilidad** interna. Durante ese día se registró un tráfico tranquilo según los datos de la DGT. El tráfico se recuperó durante el 22 de junio la circularon de 1 358 302 vehículos por las carreteras españolas, u...
+2. ...nte. Esta tecnología surgió gracias a los avances de la propulsión eléctrica (motores, baterías, pilas de combustible, controladores electrónicos) y la creciente necesidad de nuevos vehículos para la **movilidad** aérea urbana (taxi aéreo).  Diversos prototipos están siendo desarrollados por compañías fabricantes de aeronaves como: Airbus, Boeing, EHang y Embraer, y fabricantes de automóviles como: Honda, Toyo..
+

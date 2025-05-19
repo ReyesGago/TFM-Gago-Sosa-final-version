@@ -1,0 +1,39 @@
+=== Term: núcleo ===
+
+--- 0shot ---
+Traduce estos contextos al inglés:
+1. ...antienlazante, y realmente debilitará el enlace. Los electrones en orbitales no enlazantes tienden a estar en orbitales profundos (cerca a los orbitales atómicos) asociados casi enteramente o con un **núcleo** o con otro y entonces pasarán igual tiempo entre los núcleos y no en ese espacio. Estos electrones no contribuyen ni detractan la fuerza del enlace. A pesar de que todos los electrones de un átomo gi..
+2. ...mador Un autotransformador es una máquina eléctrica de construcción y características similares a las de un transformador, pero que, a diferencia de este, solo posee un devanado único alrededor de un **núcleo** ferromagnético. Dicho devanado debe tener al menos tres puntos de conexión eléctrica; la fuente de tensión y la carga se conectan a dos de las tomas, mientras que una toma (la del extremo del devanad...
+
+--- 0shotplus ---
+Traduce estos contextos al inglés teniendo en cuenta que núcleo se traduce como nucleus en física y como core en ingeniería:
+1. ...antienlazante, y realmente debilitará el enlace. Los electrones en orbitales no enlazantes tienden a estar en orbitales profundos (cerca a los orbitales atómicos) asociados casi enteramente o con un **núcleo** o con otro y entonces pasarán igual tiempo entre los núcleos y no en ese espacio. Estos electrones no contribuyen ni detractan la fuerza del enlace. A pesar de que todos los electrones de un átomo gi..
+2. ...mador Un autotransformador es una máquina eléctrica de construcción y características similares a las de un transformador, pero que, a diferencia de este, solo posee un devanado único alrededor de un **núcleo** ferromagnético. Dicho devanado debe tener al menos tres puntos de conexión eléctrica; la fuente de tensión y la carga se conectan a dos de las tomas, mientras que una toma (la del extremo del devanad...
+
+--- 1shot ---
+Traduce estos contextos al inglés teniendo en cuenta que núcleo se traduce como nucleus en physics> electromagnetism, como muestra el siguiente ejemplo:
+...l modelo de pudín de pasas. En 1906 fue galardonado con el por su "trabajo sobre la conducción de la electricidad a través de los gases". La imposibilidad de explicar que el átomo está formado por un **núcleo** compacto y una parte exterior denominada "corteza" implica que otros científicos como Ernest Rutherford o Niels Bohr continuasen con su investigación y establecieron otras teorías en las que los átom...
+Y como core en technological sciences> electrical technology and engineering, como muestra el siguiente ejemplo:
+...nte francés de herramientas Hippolyte Pixii, empleaba un imán permanente que giraba por medio de una manivela. Este imán estaba colocado de forma que sus polos norte y sur pasaban al girar junto a un **núcleo** de hierro con un cable eléctrico enrollado (como un núcleo y una bobina). Pixii descubrió que el imán giratorio producía un pulso de corriente en el cable cada vez que uno de los polos pasaba junto a...
+
+Traduce:
+1. ...antienlazante, y realmente debilitará el enlace. Los electrones en orbitales no enlazantes tienden a estar en orbitales profundos (cerca a los orbitales atómicos) asociados casi enteramente o con un **núcleo** o con otro y entonces pasarán igual tiempo entre los núcleos y no en ese espacio. Estos electrones no contribuyen ni detractan la fuerza del enlace. A pesar de que todos los electrones de un átomo gi..
+2. ...mador Un autotransformador es una máquina eléctrica de construcción y características similares a las de un transformador, pero que, a diferencia de este, solo posee un devanado único alrededor de un **núcleo** ferromagnético. Dicho devanado debe tener al menos tres puntos de conexión eléctrica; la fuente de tensión y la carga se conectan a dos de las tomas, mientras que una toma (la del extremo del devanad...
+
+--- fewshot ---
+Traduce estos contextos al inglés teniendo en cuenta los siguientes ejemplos:
+
+Ejemplos en physics> electromagnetism, donde núcleo se traduce como nucleus:
+1. ...a mediante un telescopio Cherenkov. La primera fuente de rayos gamma descubierta históricamente fue el proceso del decaimiento radiactivo llamado decaimiento gamma. En este tipo de desintegración, un **núcleo** excitado emite un rayo gamma casi inmediatamente después de su formación (esto ahora se entiende como una transición isomérica nuclear, aunque también puede producirse la desintegración gamma inhibid...
+2. ...gadolinio generalmente usa tres electrones como electrones de valencia, ya que luego los electrones 4f restantes están demasiado unidos: esto se debe a que los orbitales 4f penetran más a través del **núcleo** de electrones de xenón inerte al núcleo, seguidos por 5d y 6s, y esto aumenta con mayor carga iónica. Cristaliza en el sistema cristalino hexagonal compacto forma α a temperatura ambiente, pero, cuan...
+3. ...spersión de neutrones. A diferencia de un fotón de rayos X con una longitud de onda similar, que interactúa con el orbital atómico que rodea al núcleo, los neutrones interactúan principalmente con el **núcleo** mismo, como lo describe el seudopotencial de Fermi. Las secciones transversales de dispersión y absorción de neutrones varían ampliamente de isótopo a isótopo. La dispersión de neutrones puede ser in...
+
+Ejemplos en technological sciences> electrical technology and engineering, donde núcleo se traduce como core:
+1. ...lard y John Dixon Gibbs que emplearon este principio para crear un transformador "reductor" en 1882, aunque su diseño no era muy eficiente. Un prototipo de transformador con conexión en derivación de **núcleo** cerrado de alta eficiencia fue fabricado por el "ZBD" húngaro (un equipo compuesto por Károly Zipernowsky, Otto Blathy y Miksa Déri) en Ganz Works en 1884. Los nuevos transformadores de Z.B.D. eran 3...
+2. ...ando los contactos por medio de un resorte. Algunos tipos de interruptores incluyen un sistema hidráulico de retardo, sumergiendo el núcleo del solenoide en un tubo relleno con un líquido viscoso. El **núcleo** se encuentra sujeto con un resorte que lo mantiene desplazado con respecto al solenoide mientras la corriente circulante se mantenga por debajo del valor nominal del interruptor. Durante una sobrecar...
+3. ...e llevan miles de amperios. La mayor resistencia debida a este efecto se puede compensar cambiando la forma de los conductores, adoptando un trenzado de muchos cables pequeños (aislados) en vez de un **núcleo** de un solo conductor de gran diámetro. Pero las pérdidas totales en los sistemas que utilizan transmisión de alta tensión y transformadores para reducir (o aumentar) la tensión son mucho menores que...
+
+Ahora traduce estos nuevos ejemplos:
+1. ...antienlazante, y realmente debilitará el enlace. Los electrones en orbitales no enlazantes tienden a estar en orbitales profundos (cerca a los orbitales atómicos) asociados casi enteramente o con un **núcleo** o con otro y entonces pasarán igual tiempo entre los núcleos y no en ese espacio. Estos electrones no contribuyen ni detractan la fuerza del enlace. A pesar de que todos los electrones de un átomo gi..
+2. ...mador Un autotransformador es una máquina eléctrica de construcción y características similares a las de un transformador, pero que, a diferencia de este, solo posee un devanado único alrededor de un **núcleo** ferromagnético. Dicho devanado debe tener al menos tres puntos de conexión eléctrica; la fuente de tensión y la carga se conectan a dos de las tomas, mientras que una toma (la del extremo del devanad...
+

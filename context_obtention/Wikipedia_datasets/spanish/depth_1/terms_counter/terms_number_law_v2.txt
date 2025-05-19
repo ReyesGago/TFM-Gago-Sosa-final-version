@@ -1,0 +1,25 @@
+plan: appears 774 time(s).
+medida: appears 831 time(s).
+muestra: appears 245 time(s).
+rango: appears 316 time(s).
+sucesión: appears 103 time(s).
+viabilidad: appears 23 time(s).
+procesar: appears 41 time(s).
+programa: appears 986 time(s).
+proyecto: appears 1606 time(s).
+movilidad: appears 111 time(s).
+acción: appears 1032 time(s).
+suspensión: appears 188 time(s).
+medida preventiva: appears 5 time(s).
+sección: appears 302 time(s).
+evolución: appears 153 time(s).
+laguna: appears 11 time(s).
+efecto: appears 434 time(s).
+proceso: appears 2077 time(s).
+limitación: appears 99 time(s).
+afinidad: appears 12 time(s).
+disolver: appears 116 time(s).
+prueba: appears 280 time(s).
+base: appears 1050 time(s).
+medio: appears 1219 time(s).
+plataforma continental: appears 1 time(s).

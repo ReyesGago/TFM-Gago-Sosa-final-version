@@ -1,0 +1,95 @@
+Term,Translation,Context
+amperage,intentsitate,Physics > Electro-magnetism
+amperage,korronte; korronte-intentsitate,Technological Sciences > Electrical technology and engineering
+ampere,ampere,Physics > Electro-magnetism
+ampere,ampere unitatea,Technological Sciences > Electrical technology and engineering
+armature,armadura,Physics > Electro-magnetism
+armature,armadura; induzitu,Technological Sciences > Electrical technology and engineering
+cell,pila; pila elektrokimiko; pila voltaiko,Physics > Electro-magnetism
+cell,gelaxka,Technological Sciences > Electrical technology and engineering
+characteristic,ezaugarri; karakteristika,Physics > Electro-magnetism
+characteristic,ezaugarri-kurba,Technological Sciences > Electrical technology and engineering
+coil,espira; bobina; haril,Physics > Electro-magnetism
+coil,bira; espira; bobina; haril,Technological Sciences > Electrical technology and engineering
+conduction,eroapen; eroapen elektriko,Physics > Electro-magnetism
+conduction,eroapen,Technological Sciences > Electrical technology and engineering
+current intensity,korronte-intentsitate; korrontearen intentsitate,Physics > Electro-magnetism
+current intensity,korronte; korronte-intentsitate,Technological Sciences > Electrical technology and engineering
+device,dispositibo,Physics > Electro-magnetism
+device,aparatu; gailu; tresna,Technological Sciences > Electrical technology and engineering
+diagram,diagrama,Physics > Electro-magnetism
+diagram,diagrama; eskema,Technological Sciences > Electrical technology and engineering
+dielectric loss,dielektrikoaren ondoriozko galera,Physics > Electro-magnetism
+dielectric loss,galera dielektriko,Technological Sciences > Electrical technology and engineering
+discontinuity,desjarraitasun; etenune,Physics > Electro-magnetism
+discontinuity,desjarraitutasun; eten,Technological Sciences > Electrical technology and engineering
+dissipated power,potentzia xahutu,Physics > Electro-magnetism
+dissipated power,potentzia barreiatu,Technological Sciences > Electrical technology and engineering
+eddy current,Foulcaul-ten korronteak; korronte parasitoak,Physics > Electro-magnetism
+eddy current,korronte parasito,Technological Sciences > Electrical technology and engineering
+efficiency,eraginkortasun,Physics > Electro-magnetism
+efficiency,errendimendu,Technological Sciences > Electrical technology and engineering
+electric power,potentzia elektriko,Physics > Electro-magnetism
+electric power,energia elektriko; potentzia elektriko,Technological Sciences > Electrical technology and engineering
+energy balance,balantze energetiko,Physics > Electro-magnetism
+energy balance,energia-balantze,Technological Sciences > Electrical technology and engineering
+excitation,kitzikapen,Physics > Electro-magnetism
+excitation,eszitazio; kitzikapen,Technological Sciences > Electrical technology and engineering
+filament,filamentu; harizpi,Physics > Electro-magnetism
+filament,harizpi,Technological Sciences > Electrical technology and engineering
+flow,emari,Physics > Electro-magnetism
+flow,igaro; zeharkatu,Technological Sciences > Electrical technology and engineering
+fundamental frequency,funtsezko harmoniko; lehen harmoniko; oinarrizko harmoniko,Physics > Electro-magnetism
+fundamental frequency,oinarrizko frekuentzia; oinarrizko maiztasun,Technological Sciences > Electrical technology and engineering
+generator,generadore; sorgailu,Physics > Electro-magnetism
+generator,sorgailu,Technological Sciences > Electrical technology and engineering
+isolator,isolagailu,Physics > Electro-magnetism
+isolator,ebakigailu,Technological Sciences > Electrical technology and engineering
+Joule effect,Joule efektu,Physics > Electro-magnetism
+Joule effect,Joule efektua,Technological Sciences > Electrical technology and engineering
+link,esteka,Physics > Electro-magnetism
+link,lotura-adar,Technological Sciences > Electrical technology and engineering
+model,eredu,Physics > Electro-magnetism
+model,eredu; modelo,Technological Sciences > Electrical technology and engineering
+peak value,gailur-balio,Physics > Electro-magnetism
+peak value,balio maximo; gehieneko balio,Technological Sciences > Electrical technology and engineering
+phase difference,fase-angelu; fase-diferentzia,Physics > Electro-magnetism
+phase difference,desfase; fase-diferentzia; transformadore baten desfase,Technological Sciences > Electrical technology and engineering
+phase shift,fase-desplazamendu; fase-lerrakuntza; desfase,Physics > Electro-magnetism
+phase shift,desfase; fase-diferentzia; transformadore baten desfase,Technological Sciences > Electrical technology and engineering
+plate,plaka; xafla,Physics > Electro-magnetism
+plate,plaka,Technological Sciences > Electrical technology and engineering
+pole,polo,Physics > Electro-magnetism
+pole,zutoin; polo,Technological Sciences > Electrical technology and engineering
+power source,elikadura-iturri,Physics > Electro-magnetism
+power source,elikatze-iturri,Technological Sciences > Electrical technology and engineering
+real part,parte erreal,Physics > Electro-magnetism
+real part,zati erreal,Technological Sciences > Electrical technology and engineering
+rotation,biraketa; errotazio,Physics > Electro-magnetism
+rotation,biraketa,Technological Sciences > Electrical technology and engineering
+section,ebakidura; sekzio,Physics > Electro-magnetism
+section,sekzio,Technological Sciences > Electrical technology and engineering
+self-inductance,autoinduktantzia,Physics > Electro-magnetism
+self-inductance,autoindukzio; induktantzia,Technological Sciences > Electrical technology and engineering
+sequence,progresio; segida,Physics > Electro-magnetism
+sequence,sekuentzia,Technological Sciences > Electrical technology and engineering
+sheet,plaka; xafla,Physics > Electro-magnetism
+sheet,xafla,Technological Sciences > Electrical technology and engineering
+skin effect,azal-efektu,Physics > Electro-magnetism
+skin effect,skin efektu,Technological Sciences > Electrical technology and engineering
+source,iturri,Physics > Electro-magnetism
+source,iturri; iturri elektriko,Technological Sciences > Electrical technology and engineering
+spin,spin,Physics > Electro-magnetism
+spin,biratu,Technological Sciences > Electrical technology and engineering
+state,egoera,Physics > Electro-magnetism
+state,erregimen,Technological Sciences > Electrical technology and engineering
+steady state,egoera iraunkor; erregimen iraunkor,Physics > Electro-magnetism
+steady state,egoera egonkor; egoera iraunkor; erregimen egonkor; erregimen iraunkor,Technological Sciences > Electrical technology and engineering
+superposition,gainezarmen,Physics > Electro-magnetism
+superposition,gainezarpen,Technological Sciences > Electrical technology and engineering
+terminal,borne,Physics > Electro-magnetism
+terminal,borne; terminal,Technological Sciences > Electrical technology and engineering
+transmission line,transmisio-linea,Physics > Electro-magnetism
+transmission line,garraio-linea,Technological Sciences > Electrical technology and engineering
+transmit,transmititu,Physics > Electro-magnetism
+transmit,garraiatu,Technological Sciences > Electrical technology and engineering

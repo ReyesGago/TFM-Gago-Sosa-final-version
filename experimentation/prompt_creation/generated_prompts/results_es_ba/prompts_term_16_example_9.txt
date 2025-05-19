@@ -1,0 +1,39 @@
+=== Term: programa ===
+
+--- 0shot ---
+Traduce estos contextos al inglés:
+1. ...tución de Rionegro. El país es llamado oficialmente República de Colombia. La Asamblea Constituyente fue conformada por delegatarios de los nueve estados: dos por cada estado. Rafael Núñez anunció un **programa** nacional de Regeneración que cambió al país de un sistema federal descentralizado, es decir de estados independientes (a veces con más poder que el propio país), a un sistema centralizado con una pre...
+2. ...medio para la absorción de carbono, una respuesta a corto plazo al calentamiento global causado por la acumulación de dióxido de carbono en la atmósfera. La incorporación de árboles como parte de un **programa** forestal social puede tener diferentes formas, incluyendo las arboledas comunitarias, las plantaciones en el terreno gubernamental o en las vías de pasaje autorizado, alrededor de los terrenos agríco..
+
+--- 0shotplus ---
+Traduce estos contextos al inglés teniendo en cuenta que programa se traduce como egitamu en física y como programa en ingeniería:
+1. ...tución de Rionegro. El país es llamado oficialmente República de Colombia. La Asamblea Constituyente fue conformada por delegatarios de los nueve estados: dos por cada estado. Rafael Núñez anunció un **programa** nacional de Regeneración que cambió al país de un sistema federal descentralizado, es decir de estados independientes (a veces con más poder que el propio país), a un sistema centralizado con una pre...
+2. ...medio para la absorción de carbono, una respuesta a corto plazo al calentamiento global causado por la acumulación de dióxido de carbono en la atmósfera. La incorporación de árboles como parte de un **programa** forestal social puede tener diferentes formas, incluyendo las arboledas comunitarias, las plantaciones en el terreno gubernamental o en las vías de pasaje autorizado, alrededor de los terrenos agríco..
+
+--- 1shot ---
+Traduce estos contextos al inglés teniendo en cuenta que programa se traduce como egitamu en juridical sciences & law>constitutional law, como muestra el siguiente ejemplo:
+...in a tal forma de discriminación. La Convención se centra en la cultura y la tradición como fuerzas influyentes que dan forma a los roles de género y a las relaciones familiares. También establece un **programa** de acción para poner fin a la discriminación por razón de sexo: los Estados que ratifican el Convenio tienen la obligación de consagrar la igualdad de género en su legislación nacional, derogar todas...
+Y como programa en tecnological sciences>environmental technology and engineering, como muestra el siguiente ejemplo:
+...stemas más sencillos, elegidos y diseñados con vista al mantenimiento, los que brindan un servicio más confiable. En los países en desarrollo, donde es posible que falten algunos ingredientes para un **programa** exitoso de mantenimiento, ésta debe ser la primera consideración al elegir tecnologías para las plantas de tratamiento y estaciones de bombeo. En comunidades pequeñas y ambientes rurales, las opcione...
+
+Traduce:
+1. ...tución de Rionegro. El país es llamado oficialmente República de Colombia. La Asamblea Constituyente fue conformada por delegatarios de los nueve estados: dos por cada estado. Rafael Núñez anunció un **programa** nacional de Regeneración que cambió al país de un sistema federal descentralizado, es decir de estados independientes (a veces con más poder que el propio país), a un sistema centralizado con una pre...
+2. ...medio para la absorción de carbono, una respuesta a corto plazo al calentamiento global causado por la acumulación de dióxido de carbono en la atmósfera. La incorporación de árboles como parte de un **programa** forestal social puede tener diferentes formas, incluyendo las arboledas comunitarias, las plantaciones en el terreno gubernamental o en las vías de pasaje autorizado, alrededor de los terrenos agríco..
+
+--- fewshot ---
+Traduce estos contextos al inglés teniendo en cuenta los siguientes ejemplos:
+
+Ejemplos en juridical sciences & law>constitutional law, donde programa se traduce como egitamu:
+1. ...de las autoridades en todas las etapas del proceso presupuestario. El grado de agregación de las cuentas públicas se corresponde con los niveles de gestión: el funcionario que administra determinado **programa** gubernamental precisará trabajar con una mayor segregación que el Ministro. Siguiendo este criterio, existen dos tipos de clasificaciones: Los estados de gastos de los presupuestos públicos en España...
+2. ...is a iniciar los asesinatos en masa de judíos en las regiones que estuviesen bajo su mandato. Solo retrospectivamente, esos asesinatos habrían sido notados por la dirección nazi y reconvertidos en un **programa** de exterminio más general y concienzudo. En concreto, Esta línea de interpretación sería respaldada desde 1983 por otro historiador, Hans Mommsen, quien ha insistido en la idea de que la Solución Fin...
+3. ...ro tres del Gobierno. Por su parte, Josep Lluís Carod-Rovira tomó posesión como nuevo "Conseller en cap", en sustitución del convergente Artur Mas. El nuevo Estatuto, cuya modificación llevaban en su **programa** electoral todas las fuerzas excepto el PP, ha sido el gran objetivo de legislatura del Gobierno tripartito. Aspectos como la supuesta inconstitucionalidad de la proposición de nuevo Estatuto o la sol...
+
+Ejemplos en tecnological sciences>environmental technology and engineering, donde programa se traduce como programa:
+1. ...recarga neta. Aquí, la "abstracción inicial" es comparable con "Sm"–"Si" donde "Si" es el valor inicial de "Sa" en el método del reservorio. Software  Las figuras 3, 4 y 5 han sido preparadas con el **programa** de computadora RainOff diseñado para analizar la relación lluvia-escorrentía por medio de un reservorio no lineal con un pre-reservorio. El programa determina la función de "Aq" como lineal, logarítm...
+2. ...orma específica, resuelve sistemas de ecuaciones multivariables, es más certero para unos supercomputadores que para otros. Para saber ciertamente cuán rápido un ordenador ejecuta la aplicación de un **programa** específico o para comparar el rendimiento de un ordenador con otros lo ideal es testear cada ordenador ejecutando la misma aplicación. Benchmark Linpack es útil como referencia general y ha ganado un...
+3. ...se pueden descargar programas. Más conceptos básicos teóricos, especialmente para la determinación de la erosión del suelo (RUSLE - Ecuación de pérdida de suelo universal revisada) aquí:, incluido un **programa** digital, que incluye cursos de capacitación avanzados y para descargar Gestión de cuencas hidrográficas Las experiencias internacionales en la temática de gestión de aguas, de cuencas hidrográficas y...
+
+Ahora traduce estos nuevos ejemplos:
+1. ...tución de Rionegro. El país es llamado oficialmente República de Colombia. La Asamblea Constituyente fue conformada por delegatarios de los nueve estados: dos por cada estado. Rafael Núñez anunció un **programa** nacional de Regeneración que cambió al país de un sistema federal descentralizado, es decir de estados independientes (a veces con más poder que el propio país), a un sistema centralizado con una pre...
+2. ...medio para la absorción de carbono, una respuesta a corto plazo al calentamiento global causado por la acumulación de dióxido de carbono en la atmósfera. La incorporación de árboles como parte de un **programa** forestal social puede tener diferentes formas, incluyendo las arboledas comunitarias, las plantaciones en el terreno gubernamental o en las vías de pasaje autorizado, alrededor de los terrenos agríco..
+

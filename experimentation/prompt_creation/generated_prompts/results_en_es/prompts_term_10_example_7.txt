@@ -1,0 +1,39 @@
+=== Term: torque ===
+
+--- 0shot ---
+Translate these contexts into Spanish:
+1. ...hat is free to rotate. This magnetic torque tends to align a magnet's poles with the magnetic field lines. A compass, therefore, turns to align itself with Earth's magnetic field. Mathematically, the **torque** on a small magnet is proportional both to the applied magnetic field and to the magnetic moment of the magnet: formula_8 where × represents the vector cross product. This equation includes all of the..
+2. ...power that would otherwise be wasted into the power system through an inverter or separate motor-generator. WRIMs are used primarily to start a high inertia load or a load that requires high starting **torque** across the full speed range. By correctly selecting the resistors used in the secondary resistance or slip ring starter, the motor is able to produce maximum torque at a relatively low supply current...
+
+--- 0shotplus ---
+Translate these contexts into Spanish taking into account that torque translates as momento; momento de una fuerza in physics and as torsión; par; par de fuerzas; par de rotación in engineering:
+1. ...hat is free to rotate. This magnetic torque tends to align a magnet's poles with the magnetic field lines. A compass, therefore, turns to align itself with Earth's magnetic field. Mathematically, the **torque** on a small magnet is proportional both to the applied magnetic field and to the magnetic moment of the magnet: formula_8 where × represents the vector cross product. This equation includes all of the..
+2. ...power that would otherwise be wasted into the power system through an inverter or separate motor-generator. WRIMs are used primarily to start a high inertia load or a load that requires high starting **torque** across the full speed range. By correctly selecting the resistors used in the secondary resistance or slip ring starter, the motor is able to produce maximum torque at a relatively low supply current...
+
+--- 1shot ---
+Translate these contexts into Spanish taking into account that torque translates as momento; momento de una fuerza in Physics > Electro-magnetism, like the following example shows:
+...ic field. The vector is "defined" as the vector field necessary to make the Lorentz force law correctly describe the motion of a charged particle. In other words, The field can also be defined by the **torque** on a magnetic dipole, . The SI unit of is tesla (symbol: T). The Gaussian-cgs unit of is the gauss (symbol: G). (The conversion is 1 T ≘ 10000 G.) One nanotesla corresponds to 1 gamma (symbol: γ). Th...
+And as torsión; par; par de fuerzas; par de rotación in Technological Sciences > Electrical technology and engineering, like the following example shows:
+...ectrical energy into mechanical energy. Most electric motors operate through the interaction between the motor's magnetic field and electric current in a wire winding to generate force in the form of **torque** applied on the motor's shaft. An electric generator is mechanically identical to an electric motor, but operates in reverse, converting mechanical energy into electrical energy. Electric motors can b...
+
+Translate:
+1. ...hat is free to rotate. This magnetic torque tends to align a magnet's poles with the magnetic field lines. A compass, therefore, turns to align itself with Earth's magnetic field. Mathematically, the **torque** on a small magnet is proportional both to the applied magnetic field and to the magnetic moment of the magnet: formula_8 where × represents the vector cross product. This equation includes all of the..
+2. ...power that would otherwise be wasted into the power system through an inverter or separate motor-generator. WRIMs are used primarily to start a high inertia load or a load that requires high starting **torque** across the full speed range. By correctly selecting the resistors used in the secondary resistance or slip ring starter, the motor is able to produce maximum torque at a relatively low supply current...
+
+--- fewshot ---
+Translate these contexts into Spanish considering the following examples:
+
+Examples in Physics > Electro-magnetism, where torque translates as momento; momento de una fuerza:
+1. ...use it depends on the strength and orientation of both magnets and their distance and direction relative to each other. The force is particularly sensitive to rotations of the magnets due to magnetic **torque**. The force on each magnet depends on its magnetic moment and the magnetic field of the other. To understand the force between magnets, it is useful to examine the "magnetic pole model" given above. I...
+2. ...ic field. The vector is "defined" as the vector field necessary to make the Lorentz force law correctly describe the motion of a charged particle. In other words, The field can also be defined by the **torque** on a magnetic dipole, . The SI unit of is tesla (symbol: T). The Gaussian-cgs unit of is the gauss (symbol: G). (The conversion is 1 T ≘ 10000 G.) One nanotesla corresponds to 1 gamma (symbol: γ). Th...
+3. ...rought near each other, and one of the magnets is allowed to turn, it promptly rotates to align itself with the first. In this example, the magnetic field of the stationary magnet creates a "magnetic **torque**" on the magnet that is free to rotate. This magnetic torque tends to align a magnet's poles with the magnetic field lines. A compass, therefore, turns to align itself with Earth's magnetic field. Mat...
+
+Examples in Technological Sciences > Electrical technology and engineering, where torque translates as torsión; par; par de fuerzas; par de rotación:
+1. ...plying current to the rotor. The windings on the rotor are connected to the commutator segments. The commutator reverses the current direction in the rotor windings with each half turn (180°), so the **torque** applied to the rotor is always in the same direction. Without this reversal, the direction of torque on each rotor winding would reverse with each half turn, stopping the rotor. Commutated motors hav...
+2. ...ectrical energy into mechanical energy. Most electric motors operate through the interaction between the motor's magnetic field and electric current in a wire winding to generate force in the form of **torque** applied on the motor's shaft. An electric generator is mechanically identical to an electric motor, but operates in reverse, converting mechanical energy into electrical energy. Electric motors can b...
+3. ...t 100 kW are used in electric vehicles. They also find use in electric model aircraft. The switched reluctance motor (SRM) has no brushes or permanent magnets, and the rotor has no electric currents. **Torque** comes from a slight misalignment of poles on the rotor with poles on the stator. The rotor aligns itself with the magnetic field of the stator, while the stator field windings are sequentially energi...
+
+Translate:
+1. ...hat is free to rotate. This magnetic torque tends to align a magnet's poles with the magnetic field lines. A compass, therefore, turns to align itself with Earth's magnetic field. Mathematically, the **torque** on a small magnet is proportional both to the applied magnetic field and to the magnetic moment of the magnet: formula_8 where × represents the vector cross product. This equation includes all of the..
+2. ...power that would otherwise be wasted into the power system through an inverter or separate motor-generator. WRIMs are used primarily to start a high inertia load or a load that requires high starting **torque** across the full speed range. By correctly selecting the resistors used in the secondary resistance or slip ring starter, the motor is able to produce maximum torque at a relatively low supply current...
+

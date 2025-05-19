@@ -1,0 +1,39 @@
+=== Term: proyecto ===
+
+--- 0shot ---
+Traduce estos contextos al inglés:
+1. ...sesenta y cinco personas, la mayoría nobles, a la que se añadieron algunos españoles residentes en Francia. La asamblea fue presidida por Miguel José de Azanza, discutió varios problemas y aprobó el **proyecto** de Constitución presentado por Napoleón el 7 de julio de 1807. Había sido redactado por M. Esmenard, un francés residente en España, y fue revisado por el general Joaquín Murat y el mismo emperador...
+2. ...r financiando la deforestación. En Bolivia la deforestación en los cursos fluviales altos ha causado problemas medioambientales, entre ellos erosión del suelo y disminución de la calidad del agua. Un **proyecto** innovador para remediar la situación establece que los usuarios del agua río abajo paguen a los propietarios de tierras río arriba para conservar sus bosques. Los propietarios reciben 20 dólares nort..
+
+--- 0shotplus ---
+Traduce estos contextos al inglés teniendo en cuenta que proyecto se traduce como egitasmo en física y como proiektu en ingeniería:
+1. ...sesenta y cinco personas, la mayoría nobles, a la que se añadieron algunos españoles residentes en Francia. La asamblea fue presidida por Miguel José de Azanza, discutió varios problemas y aprobó el **proyecto** de Constitución presentado por Napoleón el 7 de julio de 1807. Había sido redactado por M. Esmenard, un francés residente en España, y fue revisado por el general Joaquín Murat y el mismo emperador...
+2. ...r financiando la deforestación. En Bolivia la deforestación en los cursos fluviales altos ha causado problemas medioambientales, entre ellos erosión del suelo y disminución de la calidad del agua. Un **proyecto** innovador para remediar la situación establece que los usuarios del agua río abajo paguen a los propietarios de tierras río arriba para conservar sus bosques. Los propietarios reciben 20 dólares nort..
+
+--- 1shot ---
+Traduce estos contextos al inglés teniendo en cuenta que proyecto se traduce como egitasmo en juridical sciences & law>constitutional law, como muestra el siguiente ejemplo:
+...uana de los siglos y , todos los proyectos de ley debían ser aprobados por el "Sejm" o "Seimas" (parlamento) por unanimidad, y si algún legislador invocaba el "liberum veto", esto no solo vetaría ese **proyecto** de ley sino también toda la legislación anterior aprobada durante la sesión, y disolvía la propia sesión legislativa. El concepto se originó en la idea de la "democracia polaca", ya que cualquier pol...
+Y como proiektu en tecnological sciences>environmental technology and engineering, como muestra el siguiente ejemplo:
+...a adopción de medidas conocidas y fácilmente aplicables. Consiste en un diagnóstico situacional que se realiza para determinar las condiciones ambientales de un área geográfica antes de ejecutarse el **proyecto**, incluye todos los aspectos bióticos, abióticos y socioculturales del ecosistema. Se trata de realizar un inventario detallado del componente biótico y definición o caracterización del componente abi...
+
+Traduce:
+1. ...sesenta y cinco personas, la mayoría nobles, a la que se añadieron algunos españoles residentes en Francia. La asamblea fue presidida por Miguel José de Azanza, discutió varios problemas y aprobó el **proyecto** de Constitución presentado por Napoleón el 7 de julio de 1807. Había sido redactado por M. Esmenard, un francés residente en España, y fue revisado por el general Joaquín Murat y el mismo emperador...
+2. ...r financiando la deforestación. En Bolivia la deforestación en los cursos fluviales altos ha causado problemas medioambientales, entre ellos erosión del suelo y disminución de la calidad del agua. Un **proyecto** innovador para remediar la situación establece que los usuarios del agua río abajo paguen a los propietarios de tierras río arriba para conservar sus bosques. Los propietarios reciben 20 dólares nort..
+
+--- fewshot ---
+Traduce estos contextos al inglés teniendo en cuenta los siguientes ejemplos:
+
+Ejemplos en juridical sciences & law>constitutional law, donde proyecto se traduce como egitasmo:
+1. ...uana de los siglos y , todos los proyectos de ley debían ser aprobados por el "Sejm" o "Seimas" (parlamento) por unanimidad, y si algún legislador invocaba el "liberum veto", esto no solo vetaría ese **proyecto** de ley sino también toda la legislación anterior aprobada durante la sesión, y disolvía la propia sesión legislativa. El concepto se originó en la idea de la "democracia polaca", ya que cualquier pol...
+2. ...de Rivera, lo que la hace la constitución más longeva de la historia de España (47 años) hasta este momento. El proyecto de Constitución de 1929, llamada Estatuto Fundamental de la Monarquía, fue un **proyecto** de constitución —o mejor de carta otorgada— elaborado por la Sección Primera de la Asamblea Nacional Consultiva designada por la dictadura de Primo de Rivera en octubre de 1927. Pretendía ser la nuev...
+3. ...europea en España. Aprovechando este contexto y tras lograr firmar un nuevo concordato, en 1852 el entonces presidente del Consejo de Ministros y moderado ultramontano Juan Bravo Murillo, elaboró un **proyecto** constitucional en 1852 cuyo objetivo era volver a una normativa más acorde al Antiguo Régimen o a un sistema basado en una Carta otorgada similar al derogado Estatuto Real de 1834, con la intención d...
+
+Ejemplos en tecnological sciences>environmental technology and engineering, donde proyecto se traduce como proiektu:
+1. ...a adopción de medidas conocidas y fácilmente aplicables. Consiste en un diagnóstico situacional que se realiza para determinar las condiciones ambientales de un área geográfica antes de ejecutarse el **proyecto**, incluye todos los aspectos bióticos, abióticos y socioculturales del ecosistema. Se trata de realizar un inventario detallado del componente biótico y definición o caracterización del componente abi...
+2. ...brión de gaur clonado a una vaca doméstica. No se llegó a firmar un acuerdo, pero ACT apoyó el proyecto. En 2001, el Instituto Nacional de Investigaciones Agraria y Agroalimentaria (INIA) financió un **proyecto** para poner a punto la tecnología necesaria para realizar la clonación en la cabra doméstica y aplicar dicha tecnología a la recuperación del Bucardo. El proyecto se desarrolló en el CITA de Aragón co...
+3. ...y tipo de la nueva vegetación. Desde el punto de vista ambiental, el desbroce selectivo utilizando medios mecánicos o herbicidas es preferible y debe ser analizado en las evaluaciones ambientales del **proyecto**. Se debe evitar el rociado aéreo de herbicidas porque no es selectivo e introduce grandes cantidades de productos químicos no naturales al medio ambiente, y además es una técnica de aplicación imprec...
+
+Ahora traduce estos nuevos ejemplos:
+1. ...sesenta y cinco personas, la mayoría nobles, a la que se añadieron algunos españoles residentes en Francia. La asamblea fue presidida por Miguel José de Azanza, discutió varios problemas y aprobó el **proyecto** de Constitución presentado por Napoleón el 7 de julio de 1807. Había sido redactado por M. Esmenard, un francés residente en España, y fue revisado por el general Joaquín Murat y el mismo emperador...
+2. ...r financiando la deforestación. En Bolivia la deforestación en los cursos fluviales altos ha causado problemas medioambientales, entre ellos erosión del suelo y disminución de la calidad del agua. Un **proyecto** innovador para remediar la situación establece que los usuarios del agua río abajo paguen a los propietarios de tierras río arriba para conservar sus bosques. Los propietarios reciben 20 dólares nort..
+

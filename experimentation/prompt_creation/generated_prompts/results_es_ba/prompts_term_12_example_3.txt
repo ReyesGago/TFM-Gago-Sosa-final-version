@@ -1,0 +1,39 @@
+=== Term: movilidad ===
+
+--- 0shot ---
+Traduce estos contextos al inglés:
+1. ...n el caso de que el mínimo fijado sea inferior al salario de equilibrio competitivo. Otros desarrollos teóricos, como ser el modelo de monopsonio (con empresas con poder de mercado o con problemas de **movilidad** de los trabajadores) o los modelos de búsqueda y emparejamiento, muestran que la fijación de salarios mínimos en ocasiones podrían llevar a aumentos en la cantidad de trabajadores contratados. El mod..
+2. ...lquilación, no tienen funciones biológicas conocidas. Éstas ocurren a través de procesos cuyas funciones primarias no están relacionadas con la transformación de metales, pero alteran su solubilidad, **movilidad** y toxicidad y, por lo tanto, pueden  emplearse como estrategias de remediación. Pueden distinguirse básicamente dos mecanismos de precipitación de metales: la precipitación reductora y la biominerali...
+
+--- 0shotplus ---
+Traduce estos contextos al inglés teniendo en cuenta que movilidad se traduce como aldagarritasun en física y como mugikortasun en ingeniería:
+1. ...n el caso de que el mínimo fijado sea inferior al salario de equilibrio competitivo. Otros desarrollos teóricos, como ser el modelo de monopsonio (con empresas con poder de mercado o con problemas de **movilidad** de los trabajadores) o los modelos de búsqueda y emparejamiento, muestran que la fijación de salarios mínimos en ocasiones podrían llevar a aumentos en la cantidad de trabajadores contratados. El mod..
+2. ...lquilación, no tienen funciones biológicas conocidas. Éstas ocurren a través de procesos cuyas funciones primarias no están relacionadas con la transformación de metales, pero alteran su solubilidad, **movilidad** y toxicidad y, por lo tanto, pueden  emplearse como estrategias de remediación. Pueden distinguirse básicamente dos mecanismos de precipitación de metales: la precipitación reductora y la biominerali...
+
+--- 1shot ---
+Traduce estos contextos al inglés teniendo en cuenta que movilidad se traduce como aldagarritasun en juridical sciences & law>constitutional law, como muestra el siguiente ejemplo:
+...son más fáciles de disolver. Además en París, Napoleón III diseñó las llamadas "calles antidisturbios", que son grandes calles o avenidas que fueron situadas en barrios problemáticos para ayudar a la **movilidad** de las fuerzas del orden, en especial de la caballería. En el Reino Unido, donde suelen ocurrir grandes manifestaciones que tienden a ser inestables, la policía despliega tanto a policías antidisturb...
+Y como mugikortasun en tecnological sciences>environmental technology and engineering, como muestra el siguiente ejemplo:
+...lubilidad, como herbicidas, plaguicidas, solventes y explosivos, la extracción, acumulación o volatilización por la planta, en general, aporta un porcentaje relevante de la remoción debido a la mayor **movilidad** de estos compuestos hacia y en la planta. Lo anterior no se aplica en la remoción de la mayor parte de los componentes de los HTP y otros contaminantes orgánicos de baja solubilidad, pues el papel di...
+
+Traduce:
+1. ...n el caso de que el mínimo fijado sea inferior al salario de equilibrio competitivo. Otros desarrollos teóricos, como ser el modelo de monopsonio (con empresas con poder de mercado o con problemas de **movilidad** de los trabajadores) o los modelos de búsqueda y emparejamiento, muestran que la fijación de salarios mínimos en ocasiones podrían llevar a aumentos en la cantidad de trabajadores contratados. El mod..
+2. ...lquilación, no tienen funciones biológicas conocidas. Éstas ocurren a través de procesos cuyas funciones primarias no están relacionadas con la transformación de metales, pero alteran su solubilidad, **movilidad** y toxicidad y, por lo tanto, pueden  emplearse como estrategias de remediación. Pueden distinguirse básicamente dos mecanismos de precipitación de metales: la precipitación reductora y la biominerali...
+
+--- fewshot ---
+Traduce estos contextos al inglés teniendo en cuenta los siguientes ejemplos:
+
+Ejemplos en juridical sciences & law>constitutional law, donde movilidad se traduce como aldagarritasun:
+1. ...e la distribución de la riqueza. Autores como Sami Naïr y Zygmunt Bauman señalan los perjuicios de la desigualdad y sus efectos. Para el economista Miles Corak, especialista en desigualdad, pobreza y **movilidad** social existe una relación indirecta entre desigualdad de ingresos y movilidad social intergeneracional. La riqueza de los padres y la transmisión de la misma mediante la herencia es más decisiva par...
+2. ...tas proporciones de uso de suelo dedicado a hospitales, oficinas o supermercados. Tras el fin del primer estado de alarma el 21 de junio de 2020, toda España pasó a la 'nueva normalidad' con la libre **movilidad** interna. Durante ese día se registró un tráfico tranquilo según los datos de la DGT. El tráfico se recuperó durante el 22 de junio la circularon de 1 358 302 vehículos por las carreteras españolas, u...
+3. ...tránsito, modelos de financiamiento y la producción de conocimiento.  El catálogo de políticas públicas que cabría desarrollar para lograr los objetivos dibujados en el escenario de eficiencia en la **movilidad** es muy amplio. Algunas propuestas válidas, como: Entidad local menor Entidad local menor es la denominación que reciben en algunas comunidades autónomas de España (Aragón, Castilla y León, Extremadur...
+
+Ejemplos en tecnological sciences>environmental technology and engineering, donde movilidad se traduce como mugikortasun:
+1. ...ión de la vida silvestre. El modelado ecológico incluso se ha aplicado a la arqueología con diversos grados de éxito, por ejemplo, combinándose con modelos arqueológicos para explicar la diversidad y **movilidad** de las herramientas de piedra. Hay dos tipos principales de modelos ecológicos, que generalmente se aplican a diferentes tipos de problemas: (1) "modelos analíticos" y (2) modelos de "simulación"/"co...
+2. ...nte. Esta tecnología surgió gracias a los avances de la propulsión eléctrica (motores, baterías, pilas de combustible, controladores electrónicos) y la creciente necesidad de nuevos vehículos para la **movilidad** aérea urbana (taxi aéreo).  Diversos prototipos están siendo desarrollados por compañías fabricantes de aeronaves como: Airbus, Boeing, EHang y Embraer, y fabricantes de automóviles como: Honda, Toyo..
+3. .... La fitoestabilización permite inmovilizar contaminantes en el suelo a través de su absorción y acumulación en las raíces o bien, por precipitación en la zona de la rizosfera. Este proceso reduce la **movilidad** de los contaminantes y evita su migración a las aguas subterráneas o al aire. La fitoestabilización es efectiva en suelos de textura fina con alto contenido de materia orgánica. Se aplica principalme...
+
+Ahora traduce estos nuevos ejemplos:
+1. ...n el caso de que el mínimo fijado sea inferior al salario de equilibrio competitivo. Otros desarrollos teóricos, como ser el modelo de monopsonio (con empresas con poder de mercado o con problemas de **movilidad** de los trabajadores) o los modelos de búsqueda y emparejamiento, muestran que la fijación de salarios mínimos en ocasiones podrían llevar a aumentos en la cantidad de trabajadores contratados. El mod..
+2. ...lquilación, no tienen funciones biológicas conocidas. Éstas ocurren a través de procesos cuyas funciones primarias no están relacionadas con la transformación de metales, pero alteran su solubilidad, **movilidad** y toxicidad y, por lo tanto, pueden  emplearse como estrategias de remediación. Pueden distinguirse básicamente dos mecanismos de precipitación de metales: la precipitación reductora y la biominerali...
+
