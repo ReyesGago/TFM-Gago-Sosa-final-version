@@ -2,7 +2,9 @@
 
 ## Español
 
-Este proyecto forma parte de un Trabajo de Fin de Máster (TFM) y está dedicado a la experimentación y generación de prompts para la traducción contextualizada de términos técnicos, especialmente en física e ingeniería.
+Este proyecto forma parte de un Trabajo de Fin de Máster (TFM) perteneciente al "Máster en Análisis y Procesamiento del Lenguaje" de la Universidad del País Vasco (UPV/EHU). Está dedicado a la generación de un recurso de términos polisémicos entre áreas de especialidad, como 
+
+experimentación y generación de prompts para la traducción contextualizada de términos técnicos
 
 - Scripts para crear prompts de distintos tipos (0-shot, 1-shot, few-shot, etc.).
 - Herramientas para procesar datos y ejemplos desde archivos CSV.
