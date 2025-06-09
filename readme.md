@@ -1,19 +1,19 @@
 # TFM- Specialized Terminology and Polysemic Variation
 
 This repository accompanies the Master's Thesis (TFM) titled  
-_**Specialized Terminology and Polysemic Variation: Guiding Large Language Models in the Translation of Domain-Specific Polysemous Terms**_ of the Master in Language Analysis and Processing of Basque Country University (UPV/EHU).
-The main objective of the project is to **evaluate the term-level translation performance of language models when dealing with terminological polysemy** in specialised texts, using contextualised terminological resources and prompting techniques.
+_**Specialized Terminology and Polysemic Variation: Guiding Large Language Models in the Translation of Domain-Specific Polysemous Terms**_ of the Master in Language Analysis and Processing of Basque Country University (UPV/EHU).  
+The main objective of the project is to **evaluate the term-level translation performance of language models when dealing with terminological polysemy** in specialized texts, using contextualized terminological resources and prompting techniques.
 
-The repository is organised into **three functional blocks**:
+The repository is organized into **three functional blocks**:
 
 ---
 
 ## 1. `term_obtention` – Detection of polysemous terms
 
-This block focuses on the **automatic identification of polysemous terms** shared across multiple specialised domains in three languages: Spanish, Basque, and English.
+This block focuses on the **automatic identification of polysemous terms** shared across multiple specialized domains in three languages: Spanish, Basque, and English.
 
 - Three filtering processes are applied to select the **10 domain pairs** that share the highest number of polysemous terms and their corresponding term mappings.
-- The results are presented in **CSV files** organised in folders. The following table shows an example of the structure, selecting only one term from each domain:
+- The results are presented in **CSV files** organized in folders. The following table shows an example of the structure, selecting only one term from each domain:
 
 | Language pair | Source term    | Target term     | Domain                                                            |
 |---------------|----------------|-----------------|-------------------------------------------------------------------|
@@ -37,10 +37,10 @@ This block focuses on the **automatic identification of polysemous terms** share
 In this phase, **real usage contexts** of the polysemous terms are extracted from **Wikipedia** and the terminological corpus **Garaterm**.
 
 - The work focuses on one of the selected domain pairs.
-- The file `terms_and_contexts_final_selection_all_languages.xlsx` is constructed, containing the contextualised terminological resource used for experimentation.
+- The file `terms_and_contexts_final_selection_all_languages.xlsx` is constructed, containing the contextualized terminological resource used for experimentation.
 - This block includes:
   - **Up to 10 usage examples per term** and per domain of the selected pair.
-  - **Thematic datasets** extracted from Wikipedia for each specialised domain.
+  - **Thematic datasets** extracted from Wikipedia for each specialized domain.
   - **Labels and filters applied** to obtain the corpus.
 
 ---
@@ -56,7 +56,8 @@ This block covers the **experimentation with large language models (LLMs)** usin
   - **Gemini** (Google)
   - **LLaMA** (Meta)
   - **Latxa** (UPV/EHU)
-- The evaluation notebook `notebook_analysis` is included in the following path: experimentation/same_translation/results_analysis
+- The evaluation notebook `notebook_analysis` is included in the following path:  
+  `experimentation/same_translation/results_analysis`
 
 It contains:
 - The evaluation system by term and context.
@@ -67,4 +68,5 @@ It contains:
 ## Additional Information
 
 - The **API keys** required to run the models have been **removed for privacy reasons**. To replicate the experiments, you must enter your own keys.
+
 
