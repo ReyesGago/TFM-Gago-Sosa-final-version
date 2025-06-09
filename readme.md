@@ -4,7 +4,7 @@
 
 Este repositorio acompaña al Trabajo de Fin de Máster (TFM) titulado  
 _**Specialized Terminology and Polysemic Variation: Guiding Large Language Models in the Translation of Domain-Specific Polysemous Terms**_.  
-El objetivo principal del proyecto es **evaluar el comportamiento de traducción a nivel de término de los modelos de lenguaje ante la polisemia terminológica** en textos especializados y proponer métodos de mejora mediante recursos terminológicos contextualizados y técnicas de *prompting*.
+El objetivo principal del proyecto es **evaluar el comportamiento de traducción a nivel de término de los modelos de lenguaje ante la polisemia terminológica** en textos especializados mediante recursos terminológicos contextualizados y técnicas de *prompting*.
 
 El repositorio está organizado en **tres bloques funcionales**:
 
@@ -14,8 +14,9 @@ El repositorio está organizado en **tres bloques funcionales**:
 
 Este bloque se centra en la **identificación automática de términos polisémicos** compartidos por múltiples áreas de especialidad en tres lenguas: español, euskera e inglés.
 
-- Se aplican **tres procesos de filtrado** para seleccionar las **10 parejas de dominios** que más términos polisémicos comparten y sus respectivos términos.
+- Se aplican tres procesos de filtrado para seleccionar las **10 parejas de dominios** que más términos polisémicos comparten y sus respectivos términos.
 - El resultado se presenta en forma de **archivos csv** divididos por carpetas. La siguiente tabla muestra un ejemplo de estructura, eligiendo únicamente un término de cada uno:
+  
 | Par de idioma | Término origen | Término meta    | Domain                                                            |
 |---------------|----------------|-----------------|-------------------------------------------------------------------|
 | BA-EN         | osagai         | ingredient      | Medical Sciences > Parmaceutical Technology                       |
@@ -37,7 +38,7 @@ Este bloque se centra en la **identificación automática de términos polisémi
 En esta fase se extraen **contextos reales de uso** de los términos polisémicos, procedentes de **Wikipedia** y del corpus terminológico **Garaterm**.
 
 - Se trabaja con una de las parejas de dominios seleccionadas.
-- Se construye el archivo `recurso_final`, que contiene el recurso terminológico contextualizado empleado en la fase experimental.
+- Se construye el archivo `terms_and_contexts_final_selection_all_languages.xlsx`, que contiene el recurso terminológico contextualizado empleado en la fase experimental.
 - Este bloque incluye:
   - **Hasta 10 ejemplos de uso por término** y por dominio de la pareja seleccionada.
   - **Datasets temáticos** extraídos de Wikipedia para cada área especializada.
@@ -56,9 +57,9 @@ En este bloque se realiza la **experimentación con modelos de lenguaje (LLMs)**
   - **Gemini** (Google)
   - **LLaMA** (Meta)
   - **Latxa** (UPV/EHU)
-- Se adjunta el cuaderno `cuadernilloo_final`, que contiene:
-  - El **sistema de evaluación** por término y contexto.
-  - **Gráficos** con los resultados comparativos entre modelos y estrategias.
+- Se adjunta el cuaderno `notebook_analysis`, en la ruta experimentation/same_translation/results_analysis que contiene:
+  - El sistema de evaluación por término y contexto.
+  - Gráficos con los resultados comparativos entre modelos y estrategias.
 
 ---
 
