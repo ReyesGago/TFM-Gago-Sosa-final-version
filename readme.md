@@ -1,29 +1,29 @@
 # TFM- Specialized Terminology and Polysemic Variation
 
-## Español
+## English
 
-Este repositorio acompaña al Trabajo de Fin de Máster (TFM) titulado  
+This repository accompanies the Master's Thesis (TFM) titled  
 _**Specialized Terminology and Polysemic Variation: Guiding Large Language Models in the Translation of Domain-Specific Polysemous Terms**_.  
-El objetivo principal del proyecto es **evaluar el comportamiento de traducción a nivel de término de los modelos de lenguaje ante la polisemia terminológica** en textos especializados mediante recursos terminológicos contextualizados y técnicas de *prompting*.
+The main objective of the project is to **evaluate the term-level translation performance of language models when dealing with terminological polysemy** in specialised texts, using contextualised terminological resources and prompting techniques.
 
-El repositorio está organizado en **tres bloques funcionales**:
+The repository is organised into **three functional blocks**:
 
 ---
 
-## 1. `term_obtention` – Detección de términos polisémicos
+## 1. `term_obtention` – Detection of polysemous terms
 
-Este bloque se centra en la **identificación automática de términos polisémicos** compartidos por múltiples áreas de especialidad en tres lenguas: español, euskera e inglés.
+This block focuses on the **automatic identification of polysemous terms** shared across multiple specialised domains in three languages: Spanish, Basque, and English.
 
-- Se aplican tres procesos de filtrado para seleccionar las **10 parejas de dominios** que más términos polisémicos comparten y sus respectivos términos.
-- El resultado se presenta en forma de **archivos csv** divididos por carpetas. La siguiente tabla muestra un ejemplo de estructura, eligiendo únicamente un término de cada uno:
-  
-| Par de idioma | Término origen | Término meta    | Domain                                                            |
+- Three filtering processes are applied to select the **10 domain pairs** that share the highest number of polysemous terms and their corresponding term mappings.
+- The results are presented in **CSV files** organised in folders. The following table shows an example of the structure, selecting only one term from each domain:
+
+| Language pair | Source term    | Target term     | Domain                                                            |
 |---------------|----------------|-----------------|-------------------------------------------------------------------|
-| BA-EN         | osagai         | ingredient      | Medical Sciences > Parmaceutical Technology                       |
+| BA-EN         | osagai         | ingredient      | Medical Sciences > Pharmaceutical Technology                      |
 |               |                | component       | Technological Sciences > Environmental Technology and Engineering |
-| BA-ES         | urradura       | rozadura        | Medical Sciences > Parmaceutical Technology                       |
+| BA-ES         | urradura       | rozadura        | Medical Sciences > Pharmaceutical Technology                      |
 |               |                | abrasión        | Technological Sciences > Environmental Technology and Engineering |
-| EN-BA         | destruction    | hondamen        | Medical Sciences > Parmaceutical Technology                       |
+| EN-BA         | destruction    | hondamen        | Medical Sciences > Pharmaceutical Technology                      |
 |               |                | suntsipen       | Technological Sciences > Environmental Technology and Engineering |
 | EN-ES         | flow           | caudal          | Physics > Electromagnetism                                        |
 |               |                | circular        | Technological Sciences > Electrical Technology and Engineering    |
@@ -31,63 +31,42 @@ Este bloque se centra en la **identificación automática de términos polisémi
 |               |                | afinitate       | Technological Sciences > Electrical Technology and Engineering    |
 | ES-EN         | aislador       | isolator        | Physics > Electromagnetism                                        |
 |               |                | insulator       | Technological Sciences > Electrical Technology and Engineering    |
----
-
-## 2. `context_obtention` – Extracción de contextos y construcción del recurso
-
-En esta fase se extraen **contextos reales de uso** de los términos polisémicos, procedentes de **Wikipedia** y del corpus terminológico **Garaterm**.
-
-- Se trabaja con una de las parejas de dominios seleccionadas.
-- Se construye el archivo `terms_and_contexts_final_selection_all_languages.xlsx`, que contiene el recurso terminológico contextualizado empleado en la fase experimental.
-- Este bloque incluye:
-  - **Hasta 10 ejemplos de uso por término** y por dominio de la pareja seleccionada.
-  - **Datasets temáticos** extraídos de Wikipedia para cada área especializada.
-  - Las **etiquetas y filtros aplicados** para la obtención de los corpus.
 
 ---
 
-## 3. `experimentation` – Pruebas con modelos de lenguaje y evaluación
+## 2. `context_obtention` – Context extraction and resource construction
 
-En este bloque se realiza la **experimentación con modelos de lenguaje (LLMs)** mediante distintas estrategias de *prompting*:
+In this phase, **real usage contexts** of the polysemous terms are extracted from **Wikipedia** and the terminological corpus **Garaterm**.
 
-- Se emplean las variantes: `0-shot`, `0-shot-plus`, `1-shot` y `few-shot`.
-- Los *scripts* permiten automatizar la creación de prompts a partir del recurso.
-- Se incluyen las respuestas generadas por distintos **modelos**:
+- The work focuses on one of the selected domain pairs.
+- The file `terms_and_contexts_final_selection_all_languages.xlsx` is constructed, containing the contextualised terminological resource used for experimentation.
+- This block includes:
+  - **Up to 10 usage examples per term** and per domain of the selected pair.
+  - **Thematic datasets** extracted from Wikipedia for each specialised domain.
+  - **Labels and filters applied** to obtain the corpus.
+
+---
+
+## 3. `experimentation` – Language model testing and evaluation
+
+This block covers the **experimentation with large language models (LLMs)** using different prompting strategies:
+
+- Variants include: `0-shot`, `0-shot-plus`, `1-shot`, and `few-shot`.
+- Scripts are provided to automate prompt creation based on the resource.
+- Responses generated by several **models** are included:
   - **GPT** (OpenAI)
   - **Gemini** (Google)
   - **LLaMA** (Meta)
   - **Latxa** (UPV/EHU)
-- Se adjunta el cuaderno `notebook_analysis`, en la ruta experimentation/same_translation/results_analysis que contiene:
-  - El sistema de evaluación por término y contexto.
-  - Gráficos con los resultados comparativos entre modelos y estrategias.
+- The evaluation notebook `notebook_analysis` is included in the following path: experimentation/same_translation/results_analysis
+
+It contains:
+- The evaluation system by term and context.
+- Graphs with comparative results between models and prompting strategies.
 
 ---
 
-## Información adicional
+## Additional Information
 
-- Las **claves de API** necesarias para ejecutar los modelos han sido **retiradas** por motivos de privacidad. Para reproducir los experimentos es necesario introducir las tuyas propias.
+- The **API keys** required to run the models have been **removed for privacy reasons**. To replicate the experiments, you must enter your own keys.
 
-## English
-
-This project is part of a Master's Thesis (TFM) and is focused on experimenting with and generating prompts for the contextual translation of technical terms, especially in physics and engineering.
-
-- Scripts to create various prompt types (0-shot, 1-shot, few-shot, etc.).
-- Tools to process data and examples from CSV files.
-- Utilities to read and display generated prompts.
-- 
-| Language Pair | Source Term | Target Term     | Domain                                                            |
-|---------------|-------------|-----------------|-------------------------------------------------------------------|
-| BA-EN         | osagai      | ingredient      | Medical Sciences > Parmaceutical Technology                       |
-|               |             | component       | Technological Sciences > Environmental Technology and Engineering |
-| BA-ES         | urradura    | rozadura        | Medical Sciences > Parmaceutical Technology                       |
-|               |             | abrasión        | Technological Sciences > Environmental Technology and Engineering |
-| EN-BA         | destruction | hondamen        | Medical Sciences > Parmaceutical Technology                       |
-|               |             | suntsipen       | Technological Sciences > Environmental Technology and Engineering |
-| EN-ES         | flow        | caudal          | Physics > Electromagnetism                                        |
-|               |             | circular        | Technological Sciences > Electrical Technology and Engineering    |
-| ES-BA         | afinidad    | elkarkidetsasun | Juridical Sciences & Law > Constitutional Law                     |
-|               |             | afinitate       | Technological Sciences > Electrical Technology and Engineering    |
-| ES-EN         | aislador    | isolator        | Physics > Electromagnetism                                        |
-|               |             | insulator       | Technological Sciences > Electrical Technology and Engineering    |
-
-Note: The API keys for the different models have been redacted. To use this repository, please use your own.
