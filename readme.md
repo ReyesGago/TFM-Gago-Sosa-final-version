@@ -1,9 +1,7 @@
 # TFM- Specialized Terminology and Polysemic Variation
 
-## English
-
 This repository accompanies the Master's Thesis (TFM) titled  
-_**Specialized Terminology and Polysemic Variation: Guiding Large Language Models in the Translation of Domain-Specific Polysemous Terms**_.  
+_**Specialized Terminology and Polysemic Variation: Guiding Large Language Models in the Translation of Domain-Specific Polysemous Terms**_ of the Master in Language Analysis and Processing of Basque Country University (UPV/EHU).
 The main objective of the project is to **evaluate the term-level translation performance of language models when dealing with terminological polysemy** in specialised texts, using contextualised terminological resources and prompting techniques.
 
 The repository is organised into **three functional blocks**:
