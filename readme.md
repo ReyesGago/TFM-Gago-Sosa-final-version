@@ -17,15 +17,15 @@ This block focuses on the **automatic identification of polysemous terms** share
 
 | Language pair | Source term    | Target term     | Domain                                                            |
 |---------------|----------------|-----------------|-------------------------------------------------------------------|
-| BA-EN         | osagai         | ingredient      | Medical Sciences > Pharmaceutical Technology                      |
+| EU-EN         | osagai         | ingredient      | Medical Sciences > Pharmaceutical Technology                      |
 |               |                | component       | Technological Sciences > Environmental Technology and Engineering |
-| BA-ES         | urradura       | rozadura        | Medical Sciences > Pharmaceutical Technology                      |
+| EU-ES         | urradura       | rozadura        | Medical Sciences > Pharmaceutical Technology                      |
 |               |                | abrasión        | Technological Sciences > Environmental Technology and Engineering |
-| EN-BA         | destruction    | hondamen        | Medical Sciences > Pharmaceutical Technology                      |
+| EN-EU         | destruction    | hondamen        | Medical Sciences > Pharmaceutical Technology                      |
 |               |                | suntsipen       | Technological Sciences > Environmental Technology and Engineering |
 | EN-ES         | flow           | caudal          | Physics > Electromagnetism                                        |
 |               |                | circular        | Technological Sciences > Electrical Technology and Engineering    |
-| ES-BA         | afinidad       | elkarkidetsasun | Juridical Sciences & Law > Constitutional Law                     |
+| ES-EU         | afinidad       | elkarkidetsasun | Juridical Sciences & Law > Constitutional Law                     |
 |               |                | afinitate       | Technological Sciences > Electrical Technology and Engineering    |
 | ES-EN         | aislador       | isolator        | Physics > Electromagnetism                                        |
 |               |                | insulator       | Technological Sciences > Electrical Technology and Engineering    |
