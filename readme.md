@@ -25,7 +25,7 @@ This block focuses on the **automatic identification of polysemous terms** share
 |               |                | suntsipen       | Technological Sciences > Environmental Technology and Engineering |
 | EN-ES         | flow           | caudal          | Physics > Electromagnetism                                        |
 |               |                | circular        | Technological Sciences > Electrical Technology and Engineering    |
-| ES-EU         | afinidad       | elkarkidetsasun | Juridical Sciences & Law > Constitutional Law                     |
+| ES-EU         | afinidad       | elkarkidetasun | Juridical Sciences & Law > Constitutional Law                     |
 |               |                | afinitate       | Technological Sciences > Electrical Technology and Engineering    |
 | ES-EN         | aislador       | isolator        | Physics > Electromagnetism                                        |
 |               |                | insulator       | Technological Sciences > Electrical Technology and Engineering    |
